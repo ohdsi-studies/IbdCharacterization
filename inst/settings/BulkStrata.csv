@@ -1,0 +1,24 @@
+generationScript,name,lbOperator,lbStrataValue,ubOperator,ubStrataValue,cohortId
+strata/StratifyByFollowUpTime.sql,Full 365-day follow up,>=,365,<,99999,1
+strata/StratifyByFollowUpTime.sql,Full 3-year follow up,>=,1095,<,99999,2
+strata/StratifyByFollowUpTime.sql,Full 5-year follow up,>=,1825,<,99999,3
+strata/StratifyByFollowUpTime.sql,Full 10-year follow up,>=,3650,<,99999,4
+strata/StratifyByGender.sql,Sex = Female,=,8532,NA,NA,5
+strata/StratifyByGender.sql,Sex = Male,=,8507,NA,NA,6
+strata/StratifyByAge.sql,Very early onset (2-6y),>=,2,<,6,7
+strata/StratifyByAge.sql,Early onset (6-10y),>=,6,<,10,8
+strata/StratifyByAge.sql,Pediatrics ,>=,10,<,18,9
+strata/StratifyByAge.sql,Age 18 - 65,>=,18,<,65,10
+strata/StratifyByAge.sql,Age >= 65,>=,65,<,99999,11
+strata/StratifyByRace.sql,Black or African American,=,8516,NA,NA,12
+strata/StratifyByRace.sql,White,=,8527,NA,NA,13
+strata/StratifyByRace.sql,Asian,=,8515,NA,NA,14
+strata/StratifyByIndex.sql,Index date: 1995-2000,>=,"DATEFROMPARTS(1995, 01, 01)",<,"DATEFROMPARTS(2000, 01, 01)",15
+strata/StratifyByIndex.sql,Index date: 2000-2005,>=,"DATEFROMPARTS(2000, 01, 01)",<,"DATEFROMPARTS(2005, 01, 01)",16
+strata/StratifyByIndex.sql,Index date: 2005-2010,>=,"DATEFROMPARTS(2005, 01, 01)",<,"DATEFROMPARTS(2010, 01, 01)",17
+strata/StratifyByIndex.sql,Index date: 2010-2015,>=,"DATEFROMPARTS(2010, 01, 01)",<,"DATEFROMPARTS(2015, 01, 01)",18
+strata/StratifyByIndex.sql,Index date: 2015-2020,>=,"DATEFROMPARTS(2015, 01, 01)",<,"DATEFROMPARTS(2020, 01, 01)",19
+strata/StratifyByLocation.sql,Location = England,=,1,NA,NA,20
+strata/StratifyByLocation.sql,Location = Scotland,=,25,NA,NA,21
+strata/StratifyByLocation.sql,Location = Wales,=,17,NA,NA,22
+strata/StratifyByLocation.sql,Location = Northern Ireland,=,9,NA,NA,23

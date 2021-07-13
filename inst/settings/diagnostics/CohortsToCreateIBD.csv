@@ -1,0 +1,7 @@
+name,atlasName,atlasId,cohortId
+306,"[IBD ID243 V1] IBD, incidence cohort [OHDSI]",243,306
+307,"[IBD ID244 V1] IBD, prevalence cohort [OHDSI]",244,307
+308,[IBD ID362 V1] IBD-U both disease codes incidence cohort [OHDSI],362,308
+309,[IBD ID414 V1] IBD-U both disease codes prevalence cohort [OHDSI],414,309
+310,"[IBD ID363 V1] IBD-U no disease code, incidence cohort [OHDSI]",363,310
+311,"[IBD ID413 V1] IBD-U no disease code, prevalence cohort [OHDSI]",413,311

@@ -1,0 +1,6 @@
+name,atlasName,atlasId,cohortId
+200,[IBD ID209 V1] Pregnancy [OHDSI],209,200
+201,[IBD ID154 V1] Overweight [IBD OHDSI],154,201
+202,[IBD ID155 V1] Underweight [IBD OHDSI],155,202
+203,[IBD ID195 V1] Normal weight [IBD-OHDSI],195,203
+204,[IBD ID45 v1] Prevalent obesity,45,204

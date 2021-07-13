@@ -1,0 +1,6 @@
+cohortGroup,fileName,userCanSelect
+IBD,settings/diagnostics/CohortsToCreateIBD.csv,TRUE
+CD,settings/diagnostics/CohortsToCreateCD.csv,TRUE
+UC,settings/diagnostics/CohortsToCreateUC.csv,TRUE
+strata,settings/diagnostics/CohortsToCreateStrata.csv,FALSE
+feature,settings/diagnostics/CohortsToCreateFeature.csv,FALSE

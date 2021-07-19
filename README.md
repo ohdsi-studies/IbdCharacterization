@@ -7,7 +7,7 @@ Characterizing Inflammatory Bowel Disease
 - Study type: **Clinical Application**
 - Tags: **OHDSI,IBD**
 - Study lead: **Chen Yanover**
-- Study lead forums tag: **[[https://forums.ohdsi.org/u/cyanover]](https://forums.ohdsi.org/u/[Lead tag])**
+- Study lead forums tag: **[[https://forums.ohdsi.org/u/cyanover]](https://forums.ohdsi.org/u/[cyanover])**
 - Study start date: **-**
 - Study end date: **-**
 - Protocol: **-**

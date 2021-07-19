@@ -15,5 +15,3 @@ Characterization of Inflammatory Bowel Disease Patient Cohorts
 - Results explorer: **-**
 
 In this study we will describe the baseline demographic and clinical characteristics, as well as the occurrence of treatments and outcomes of individuals diagnosed with inflammatory bowel disease (IBD) and, specifically, with Crohn’s disease and ulcerative colitis. 
-
-[You can add other text at this point]

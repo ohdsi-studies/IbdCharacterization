@@ -1,4 +1,4 @@
-Characterizatiob of Inflammatory Bowel Disease Patient Cohorts
+Characterization of Inflammatory Bowel Disease Patient Cohorts
 =============
 
 <img src="https://img.shields.io/badge/Study%20Status-Repo%20Created-lightgray.svg" alt="Study Status: Repo Created">
@@ -14,6 +14,6 @@ Characterizatiob of Inflammatory Bowel Disease Patient Cohorts
 - Publications: **-**
 - Results explorer: **-**
 
-[Description (single paragraph)]
+In this study we will describe the baseline demographic and clinical characteristics, as well as the occurrence of treatments and outcomes of individuals diagnosed with inflammatory bowel disease (IBD) and, specifically, with Crohn’s disease and ulcerative colitis. 
 
 [You can add other text at this point]

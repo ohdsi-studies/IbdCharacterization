@@ -1,0 +1,3 @@
+name,atlasName,atlasId,cohortId
+[KI-IBD] Persons with ulcerative colitis with at least 365d prior observation,[UC ID248 V1] Ulcerative colitis incidence cohort [OHDSI],248,322
+[KI-IBD] Persons with ulcerative colitis with no required prior observation,[UC ID249 V1] Ulcerative colitis prevalence cohort [OHDSI],249,323

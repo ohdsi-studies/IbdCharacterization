@@ -1,0 +1,372 @@
+{
+	"cdmVersionRange" : ">=5.0.0",
+	"PrimaryCriteria" : {
+		"CriteriaList" : [
+			{
+				"DeviceExposure" : {
+					"CodesetId" : 0,
+					"DeviceTypeExclude" : false
+				}
+			}
+		],
+		"ObservationWindow" : {
+			"PriorDays" : 0,
+			"PostDays" : 0
+		},
+		"PrimaryCriteriaLimit" : {
+			"Type" : "All"
+		}
+	},
+	"ConceptSets" : [
+		{
+			"id" : 0,
+			"name" : "modulen",
+			"expression" : {
+				"items" : [
+					{
+						"concept" : {
+							"CONCEPT_ID" : 1959844,
+							"CONCEPT_NAME" : "400G GENERAL NUTRIENTS PDR [MODULEN IBD] Box of 1",
+							"STANDARD_CONCEPT" : "S",
+							"STANDARD_CONCEPT_CAPTION" : "Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "2367501",
+							"DOMAIN_ID" : "Device",
+							"VOCABULARY_ID" : "DA_France",
+							"CONCEPT_CLASS_ID" : "Device"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 2.146023e+07,
+							"CONCEPT_NAME" : "Generic Modulen IBD powder",
+							"STANDARD_CONCEPT" : "S",
+							"STANDARD_CONCEPT_CAPTION" : "Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "3547811000001109",
+							"DOMAIN_ID" : "Device",
+							"VOCABULARY_ID" : "dm+d",
+							"CONCEPT_CLASS_ID" : "VMP"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 2.13634e+07,
+							"CONCEPT_NAME" : "Generic Modulen IBD powder 400 gram",
+							"STANDARD_CONCEPT" : "S",
+							"STANDARD_CONCEPT_CAPTION" : "Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "947711000001100",
+							"DOMAIN_ID" : "Device",
+							"VOCABULARY_ID" : "dm+d",
+							"CONCEPT_CLASS_ID" : "VMPP"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 2.147143e+07,
+							"CONCEPT_NAME" : "Modulen IBD powder",
+							"STANDARD_CONCEPT" : "S",
+							"STANDARD_CONCEPT_CAPTION" : "Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "11113211000001105",
+							"DOMAIN_ID" : "Device",
+							"VOCABULARY_ID" : "dm+d",
+							"CONCEPT_CLASS_ID" : "AMP"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 2.13602e+07,
+							"CONCEPT_NAME" : "Modulen IBD powder",
+							"STANDARD_CONCEPT" : "S",
+							"STANDARD_CONCEPT_CAPTION" : "Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "17517011000001102",
+							"DOMAIN_ID" : "Device",
+							"VOCABULARY_ID" : "dm+d",
+							"CONCEPT_CLASS_ID" : "AMP"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 2.1399e+07,
+							"CONCEPT_NAME" : "Modulen IBD powder",
+							"STANDARD_CONCEPT" : "S",
+							"STANDARD_CONCEPT_CAPTION" : "Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "841611000001109",
+							"DOMAIN_ID" : "Device",
+							"VOCABULARY_ID" : "dm+d",
+							"CONCEPT_CLASS_ID" : "AMP"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 2.13296e+07,
+							"CONCEPT_NAME" : "Modulen IBD powder",
+							"STANDARD_CONCEPT" : "S",
+							"STANDARD_CONCEPT_CAPTION" : "Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "18602111000001102",
+							"DOMAIN_ID" : "Device",
+							"VOCABULARY_ID" : "dm+d",
+							"CONCEPT_CLASS_ID" : "AMP"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 2.134956e+07,
+							"CONCEPT_NAME" : "Modulen IBD powder",
+							"STANDARD_CONCEPT" : "S",
+							"STANDARD_CONCEPT_CAPTION" : "Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "14714611000001106",
+							"DOMAIN_ID" : "Device",
+							"VOCABULARY_ID" : "dm+d",
+							"CONCEPT_CLASS_ID" : "AMP"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 2.139589e+07,
+							"CONCEPT_NAME" : "Modulen IBD powder (DE Pharmaceuticals) 400 gram",
+							"STANDARD_CONCEPT" : "S",
+							"STANDARD_CONCEPT_CAPTION" : "Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "18602211000001108",
+							"DOMAIN_ID" : "Device",
+							"VOCABULARY_ID" : "dm+d",
+							"CONCEPT_CLASS_ID" : "AMPP"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 2.143668e+07,
+							"CONCEPT_NAME" : "Modulen IBD powder (Mawdsley-Brooks & Company Ltd) 400 gram",
+							"STANDARD_CONCEPT" : "S",
+							"STANDARD_CONCEPT_CAPTION" : "Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "17517111000001101",
+							"DOMAIN_ID" : "Device",
+							"VOCABULARY_ID" : "dm+d",
+							"CONCEPT_CLASS_ID" : "AMPP"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 2.147558e+07,
+							"CONCEPT_NAME" : "Modulen IBD powder (Nestle Health Science) 400 gram",
+							"STANDARD_CONCEPT" : "S",
+							"STANDARD_CONCEPT_CAPTION" : "Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "1702311000001103",
+							"DOMAIN_ID" : "Device",
+							"VOCABULARY_ID" : "dm+d",
+							"CONCEPT_CLASS_ID" : "AMPP"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 2.135482e+07,
+							"CONCEPT_NAME" : "Modulen IBD powder (Sigma Pharmaceuticals Plc) 400 gram",
+							"STANDARD_CONCEPT" : "S",
+							"STANDARD_CONCEPT_CAPTION" : "Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "14714711000001102",
+							"DOMAIN_ID" : "Device",
+							"VOCABULARY_ID" : "dm+d",
+							"CONCEPT_CLASS_ID" : "AMPP"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 2.139489e+07,
+							"CONCEPT_NAME" : "Modulen IBD powder (Waymade Healthcare Plc) 400 gram",
+							"STANDARD_CONCEPT" : "S",
+							"STANDARD_CONCEPT_CAPTION" : "Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "11113311000001102",
+							"DOMAIN_ID" : "Device",
+							"VOCABULARY_ID" : "dm+d",
+							"CONCEPT_CLASS_ID" : "AMPP"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 4.430538e+07,
+							"CONCEPT_NAME" : "MODULEN IBD PULVER 12 400G",
+							"STANDARD_CONCEPT" : "S",
+							"STANDARD_CONCEPT_CAPTION" : "Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "356176_11011992",
+							"DOMAIN_ID" : "Device",
+							"VOCABULARY_ID" : "GRR",
+							"CONCEPT_CLASS_ID" : "Device"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 4.430538e+07,
+							"CONCEPT_NAME" : "MODULEN IBD PULVER 24 400G (N1)",
+							"STANDARD_CONCEPT" : "S",
+							"STANDARD_CONCEPT_CAPTION" : "Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "320691_11011992",
+							"DOMAIN_ID" : "Device",
+							"VOCABULARY_ID" : "GRR",
+							"CONCEPT_CLASS_ID" : "Device"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 4.424122e+07,
+							"CONCEPT_NAME" : "MODULEN IBD PULVER 400G",
+							"STANDARD_CONCEPT" : "S",
+							"STANDARD_CONCEPT_CAPTION" : "Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "320692_11011992",
+							"DOMAIN_ID" : "Device",
+							"VOCABULARY_ID" : "GRR",
+							"CONCEPT_CLASS_ID" : "Device"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 4.265015e+07,
+							"CONCEPT_NAME" : "MODULEN IBDPOWDER 400G",
+							"STANDARD_CONCEPT" : "S",
+							"STANDARD_CONCEPT_CAPTION" : "Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "2046104",
+							"DOMAIN_ID" : "Device",
+							"VOCABULARY_ID" : "LPD_Australia",
+							"CONCEPT_CLASS_ID" : "Device"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 4.431974e+07,
+							"CONCEPT_NAME" : "MODULEN LIPID CR.VAN 500ML",
+							"STANDARD_CONCEPT" : "S",
+							"STANDARD_CONCEPT_CAPTION" : "Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "194408_11011992",
+							"DOMAIN_ID" : "Device",
+							"VOCABULARY_ID" : "GRR",
+							"CONCEPT_CLASS_ID" : "Device"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					},
+					{
+						"concept" : {
+							"CONCEPT_ID" : 4.429835e+07,
+							"CONCEPT_NAME" : "MODULEN PEPT.VANILLE 200ML (N1)",
+							"STANDARD_CONCEPT" : "S",
+							"STANDARD_CONCEPT_CAPTION" : "Standard",
+							"INVALID_REASON" : "V",
+							"INVALID_REASON_CAPTION" : "Valid",
+							"CONCEPT_CODE" : "320695_11011992",
+							"DOMAIN_ID" : "Device",
+							"VOCABULARY_ID" : "GRR",
+							"CONCEPT_CLASS_ID" : "Device"
+						},
+						"isExcluded" : false,
+						"includeDescendants" : true,
+						"includeMapped" : false
+					}
+				]
+			}
+		}
+	],
+	"QualifiedLimit" : {
+		"Type" : "First"
+	},
+	"ExpressionLimit" : {
+		"Type" : "All"
+	},
+	"InclusionRules" : [],
+	"EndStrategy" : {
+		"DateOffset" : {
+			"DateField" : "StartDate",
+			"Offset" : 30
+		}
+	},
+	"CensoringCriteria" : [],
+	"CollapseSettings" : {
+		"CollapseType" : "ERA",
+		"EraPad" : 0
+	},
+	"CensorWindow" : {}
+}

@@ -1,13 +1,13 @@
-[Study title]
+[Characterization of Inflammatory Bowel Disease ]
 =============
 
 <img src="https://img.shields.io/badge/Study%20Status-Repo%20Created-lightgray.svg" alt="Study Status: Repo Created">
 
-- Analytics use case(s): **-**
-- Study type: **-**
-- Tags: **-**
-- Study lead: **-**
-- Study lead forums tag: **[[Lead tag]](https://forums.ohdsi.org/u/[Lead tag])**
+- Analytics use case(s): **Characterization**
+- Study type: **Clinical Application**
+- Tags: **OHDSI,IBD**
+- Study lead: **Chen Yanover**
+- Study lead forums tag: **[[https://forums.ohdsi.org/u/cyanover]](https://forums.ohdsi.org/u/[Lead tag])**
 - Study start date: **-**
 - Study end date: **-**
 - Protocol: **-**

@@ -5,7 +5,7 @@ Characterization of Inflammatory Bowel Disease Patient Cohorts
 
 - Analytics use case(s): **Characterization**
 - Study type: **Clinical Application**
-- Tags: **OHDSI, IBD, Crohn's disease**
+- Tags: **OHDSI, IBD, Crohn's disease, Ulcerative colitis**
 - Study lead: **Chen Yanover**
 - Study lead forums tag: **[cyanover](https://forums.ohdsi.org/u/cyanover)**
 - Study start date: **-**

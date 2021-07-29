@@ -48,7 +48,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.160137e+07,
+							"CONCEPT_ID" : 21601366,
 							"CONCEPT_NAME" : "Papillomavirus vaccines",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -65,7 +65,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.021332e+07,
+							"CONCEPT_ID" : 40213322,
 							"CONCEPT_NAME" : "Human Papillomavirus 9-valent vaccine",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -82,7 +82,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.021332e+07,
+							"CONCEPT_ID" : 40213320,
 							"CONCEPT_NAME" : "human papilloma virus vaccine, quadrivalent",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -99,7 +99,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.021332e+07,
+							"CONCEPT_ID" : 40213319,
 							"CONCEPT_NAME" : "human papilloma virus vaccine, bivalent",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",

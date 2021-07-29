@@ -155,7 +155,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.048465e+07,
+							"CONCEPT_ID" : 40484650,
 							"CONCEPT_NAME" : "Analysis using quantitative fluorescent PCR",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -214,7 +214,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.627344e+07,
+							"CONCEPT_ID" : 46273440,
 							"CONCEPT_NAME" : "Family history of microcephaly",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -535,7 +535,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.627337e+07,
+							"CONCEPT_ID" : 46273370,
 							"CONCEPT_NAME" : "Abnormal chest sounds",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -645,7 +645,7 @@
 					{
 						"concept" : {
 							"CONCEPT_ID" : 254443,
-							"CONCEPT_NAME" : "Sjögren's syndrome",
+							"CONCEPT_NAME" : "SjÃ¶gren's syndrome",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
 							"INVALID_REASON" : "V",
@@ -811,7 +811,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.627224e+07,
+							"CONCEPT_ID" : 46272240,
 							"CONCEPT_NAME" : "Fetal exposure to angiotensin converting enzyme inhibitor agent",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -896,7 +896,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.627048e+07,
+							"CONCEPT_ID" : 46270480,
 							"CONCEPT_NAME" : "Referring physician notified",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -989,7 +989,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.577212e+07,
+							"CONCEPT_ID" : 45772120,
 							"CONCEPT_NAME" : "Gastroduodenal disorder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",

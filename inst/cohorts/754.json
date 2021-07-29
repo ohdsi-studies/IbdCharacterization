@@ -25,7 +25,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.16002e+07,
+							"CONCEPT_ID" : 21600196,
 							"CONCEPT_NAME" : "butylscopolamine",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -42,7 +42,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.02342e+07,
+							"CONCEPT_ID" : 40234201,
 							"CONCEPT_NAME" : "butylscopolamine",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",

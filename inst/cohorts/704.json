@@ -25,7 +25,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.660332e+07,
+							"CONCEPT_ID" : 36603318,
 							"CONCEPT_NAME" : "Anal canal neoplasms malignant",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -42,7 +42,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.570279e+07,
+							"CONCEPT_ID" : 35702790,
 							"CONCEPT_NAME" : "Malignant anorectal neoplasms",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",

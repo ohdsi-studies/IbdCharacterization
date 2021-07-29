@@ -31,7 +31,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.691912e+07,
+							"CONCEPT_ID" : 36919123,
 							"CONCEPT_NAME" : "Alcohol abuse",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -82,7 +82,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.691913e+07,
+							"CONCEPT_ID" : 36919125,
 							"CONCEPT_NAME" : "Alcoholism",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -99,7 +99,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.478873e+07,
+							"CONCEPT_ID" : 44788726,
 							"CONCEPT_NAME" : "Harmful alcohol use",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -116,7 +116,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.478873e+07,
+							"CONCEPT_ID" : 44788725,
 							"CONCEPT_NAME" : "Hazardous alcohol use",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",

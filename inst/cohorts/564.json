@@ -195,7 +195,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.451398e+07,
+							"CONCEPT_ID" : 44513978,
 							"CONCEPT_NAME" : "Image controlled percutaneous drainage of abdominal abscess NEC",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -246,7 +246,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.451393e+07,
+							"CONCEPT_ID" : 44513930,
 							"CONCEPT_NAME" : "Open drainage of abdominal abscess NEC",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -263,7 +263,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.287265e+07,
+							"CONCEPT_ID" : 42872648,
 							"CONCEPT_NAME" : "Open drainage of abscess of abdomen",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -280,7 +280,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.627068e+07,
+							"CONCEPT_ID" : 46270682,
 							"CONCEPT_NAME" : "Open drainage of intraperitoneal abscess",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -297,7 +297,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.451017e+07,
+							"CONCEPT_ID" : 44510166,
 							"CONCEPT_NAME" : "Other specified drainage through perineal region",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -314,7 +314,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.627066e+07,
+							"CONCEPT_ID" : 46270662,
 							"CONCEPT_NAME" : "Percutaneous drainage of abscess of peritoneum",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -331,7 +331,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.627065e+07,
+							"CONCEPT_ID" : 46270651,
 							"CONCEPT_NAME" : "Percutaneous drainage of extraperitoneal abscess",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",

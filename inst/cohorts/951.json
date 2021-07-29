@@ -48,7 +48,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.160134e+07,
+							"CONCEPT_ID" : 21601341,
 							"CONCEPT_NAME" : "Measles vaccines",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -65,7 +65,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.021317e+07,
+							"CONCEPT_ID" : 40213170,
 							"CONCEPT_NAME" : "measles virus vaccine",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -82,7 +82,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.549222e+07,
+							"CONCEPT_ID" : 45492216,
 							"CONCEPT_NAME" : "Mumps vaccination",
 							"STANDARD_CONCEPT" : "N",
 							"STANDARD_CONCEPT_CAPTION" : "Non-Standard",
@@ -116,7 +116,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.021319e+07,
+							"CONCEPT_ID" : 40213185,
 							"CONCEPT_NAME" : "mumps virus vaccine",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -133,7 +133,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.54255e+07,
+							"CONCEPT_ID" : 45425498,
 							"CONCEPT_NAME" : "Rubella vaccination",
 							"STANDARD_CONCEPT" : "N",
 							"STANDARD_CONCEPT_CAPTION" : "Non-Standard",
@@ -167,7 +167,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.021322e+07,
+							"CONCEPT_ID" : 40213223,
 							"CONCEPT_NAME" : "rubella virus vaccine",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",

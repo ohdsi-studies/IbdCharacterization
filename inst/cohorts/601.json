@@ -25,7 +25,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.160391e+07,
+							"CONCEPT_ID" : 21603909,
 							"CONCEPT_NAME" : "infliximab",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -42,7 +42,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.160391e+07,
+							"CONCEPT_ID" : 21603911,
 							"CONCEPT_NAME" : "adalimumab",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -59,7 +59,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.160391e+07,
+							"CONCEPT_ID" : 21603912,
 							"CONCEPT_NAME" : "certolizumab pegol",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -76,7 +76,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.160391e+07,
+							"CONCEPT_ID" : 21603913,
 							"CONCEPT_NAME" : "golimumab",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",

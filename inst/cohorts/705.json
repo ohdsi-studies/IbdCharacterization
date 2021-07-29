@@ -25,7 +25,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.661751e+07,
+							"CONCEPT_ID" : 36617514,
 							"CONCEPT_NAME" : "Malignant urinary tract neoplasm",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -42,7 +42,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.660337e+07,
+							"CONCEPT_ID" : 36603371,
 							"CONCEPT_NAME" : "Urinary tract neoplasms unspecified malignancy NEC",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",

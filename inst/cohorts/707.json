@@ -25,7 +25,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.550672e+07,
+							"CONCEPT_ID" : 35506717,
 							"CONCEPT_NAME" : "Carcinoid tumour of the small bowel",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -42,7 +42,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.660333e+07,
+							"CONCEPT_ID" : 36603331,
 							"CONCEPT_NAME" : "Small intestinal neoplasms malignant",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -59,7 +59,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.570845e+07,
+							"CONCEPT_ID" : 35708445,
 							"CONCEPT_NAME" : "Small intestine carcinoma metastatic",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -76,7 +76,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.305382e+07,
+							"CONCEPT_ID" : 43053823,
 							"CONCEPT_NAME" : "Small intestine adenocarcinoma",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",

@@ -25,7 +25,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.160393e+07,
+							"CONCEPT_ID" : 21603927,
 							"CONCEPT_NAME" : "azathioprine",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -42,7 +42,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 1.901488e+07,
+							"CONCEPT_ID" : 19014878,
 							"CONCEPT_NAME" : "Azathioprine",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -59,7 +59,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.160392e+07,
+							"CONCEPT_ID" : 21603924,
 							"CONCEPT_NAME" : "ciclosporin",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -76,7 +76,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 1.901048e+07,
+							"CONCEPT_ID" : 19010482,
 							"CONCEPT_NAME" : "Cyclosporine",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -93,7 +93,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.160143e+07,
+							"CONCEPT_ID" : 21601428,
 							"CONCEPT_NAME" : "mercaptopurine",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -127,7 +127,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.160393e+07,
+							"CONCEPT_ID" : 21603929,
 							"CONCEPT_NAME" : "methotrexate",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -161,7 +161,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.16039e+07,
+							"CONCEPT_ID" : 21603904,
 							"CONCEPT_NAME" : "natalizumab",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -195,7 +195,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.160393e+07,
+							"CONCEPT_ID" : 21603925,
 							"CONCEPT_NAME" : "tacrolimus",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",

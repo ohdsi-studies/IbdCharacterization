@@ -31,7 +31,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.752202e+07,
+							"CONCEPT_ID" : 37522019,
 							"CONCEPT_NAME" : "Hepatitis B immunisation",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -48,7 +48,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.021331e+07,
+							"CONCEPT_ID" : 40213308,
 							"CONCEPT_NAME" : "hepatitis B vaccine, unspecified formulation",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -65,7 +65,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.160134e+07,
+							"CONCEPT_ID" : 21601338,
 							"CONCEPT_NAME" : "hepatitis B, purified antigen",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",

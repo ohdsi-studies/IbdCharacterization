@@ -31,7 +31,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.624444e+07,
+							"CONCEPT_ID" : 46244442,
 							"CONCEPT_NAME" : "pneumococcal 13-valent conjugate vaccine 2.2ug/.5mL / 4.4ug/.5mL INTRAMUSCULAR INJECTION, SUSPENSION [prevnar 13]",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -48,7 +48,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.579146e+07,
+							"CONCEPT_ID" : 45791457,
 							"CONCEPT_NAME" : "pneumococcal 13-valent conjugate vaccine 2.2ug/.5mL / 4.4ug/.5mL INTRAMUSCULAR INJECTION, SUSPENSION [prevnar 13]",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -65,7 +65,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.280707e+07,
+							"CONCEPT_ID" : 42807072,
 							"CONCEPT_NAME" : "PREVNAR 13 - pneumococcal 13-valent conjugate vaccine injection, suspension",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -82,7 +82,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.562717e+07,
+							"CONCEPT_ID" : 45627167,
 							"CONCEPT_NAME" : "PREVNAR 13 - pneumococcal 13-valent conjugate vaccine injection, suspension",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -99,7 +99,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.720805e+07,
+							"CONCEPT_ID" : 37208053,
 							"CONCEPT_NAME" : "Administration of pneumococcal 13-valent conjugate vaccine",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",

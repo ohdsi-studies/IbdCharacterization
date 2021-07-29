@@ -31,7 +31,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.623944e+07,
+							"CONCEPT_ID" : 46239437,
 							"CONCEPT_NAME" : "pneumococcal vaccine polyvalent 25ug/.5mL INTRAMUSCULAR; SUBCUTANEOUS INJECTION, SOLUTION [pneumovax 23]",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -48,7 +48,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.578039e+07,
+							"CONCEPT_ID" : 45780391,
 							"CONCEPT_NAME" : "pneumococcal vaccine polyvalent 25ug/.5mL INTRAMUSCULAR; SUBCUTANEOUS INJECTION, SOLUTION [pneumovax 23]",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -65,7 +65,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.566248e+07,
+							"CONCEPT_ID" : 45662479,
 							"CONCEPT_NAME" : "PNEUMOVAX 23 - pneumococcal vaccine polyvalent injection, solution",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -82,7 +82,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.562172e+07,
+							"CONCEPT_ID" : 35621717,
 							"CONCEPT_NAME" : "Administration of pneumococcal polysaccharide 23 valent vaccine",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -99,7 +99,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.02132e+07,
+							"CONCEPT_ID" : 40213201,
 							"CONCEPT_NAME" : "pneumococcal polysaccharide vaccine, 23 valent",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -116,7 +116,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.566248e+07,
+							"CONCEPT_ID" : 45662479,
 							"CONCEPT_NAME" : "PNEUMOVAX 23 - pneumococcal vaccine polyvalent injection, solution",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -133,7 +133,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.550298e+07,
+							"CONCEPT_ID" : 35502980,
 							"CONCEPT_NAME" : "pneumococcal vaccine polyvalent 25ug/.5mL INTRAMUSCULAR; SUBCUTANEOUS INJECTION, SOLUTION [pneumovax 23]",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -150,7 +150,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.436516e+07,
+							"CONCEPT_ID" : 44365155,
 							"CONCEPT_NAME" : "pneumococcal vaccine polyvalent 25ug/.5mL INTRAMUSCULAR; SUBCUTANEOUS INJECTION, SOLUTION [pneumovax 23]",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -167,7 +167,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.47798e+07,
+							"CONCEPT_ID" : 44779798,
 							"CONCEPT_NAME" : "pneumococcal vaccine polyvalent 25ug/.5mL INTRAMUSCULAR; SUBCUTANEOUS INJECTION, SOLUTION [pneumovax 23]",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -184,7 +184,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.632861e+07,
+							"CONCEPT_ID" : 46328606,
 							"CONCEPT_NAME" : "pneumococcal vaccine polyvalent 25ug/.5mL INTRAMUSCULAR; SUBCUTANEOUS INJECTION, SOLUTION [pneumovax 23]",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",

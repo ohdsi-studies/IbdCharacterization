@@ -43,7 +43,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.480904e+07,
+							"CONCEPT_ID" : 44809040,
 							"CONCEPT_NAME" : "Able to manage colostomy",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -77,7 +77,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.480897e+07,
+							"CONCEPT_ID" : 44808970,
 							"CONCEPT_NAME" : "Assessment of colostomy",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -111,7 +111,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.479982e+07,
+							"CONCEPT_ID" : 44799818,
 							"CONCEPT_NAME" : "Care of colostomy",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -128,7 +128,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.739936e+07,
+							"CONCEPT_ID" : 37399361,
 							"CONCEPT_NAME" : "Colostomy assessment",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -162,7 +162,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.57709e+07,
+							"CONCEPT_ID" : 45770895,
 							"CONCEPT_NAME" : "Colostomy hemorrhage",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -179,7 +179,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.611046e+07,
+							"CONCEPT_ID" : 36110458,
 							"CONCEPT_NAME" : "Colostomy infection",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -196,7 +196,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.575722e+07,
+							"CONCEPT_ID" : 45757223,
 							"CONCEPT_NAME" : "Colostomy infection",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -213,7 +213,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.573669e+07,
+							"CONCEPT_ID" : 35736691,
 							"CONCEPT_NAME" : "Colostomy malfunction",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -298,7 +298,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.57367e+07,
+							"CONCEPT_ID" : 35736698,
 							"CONCEPT_NAME" : "Colostomy prolapse",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -332,7 +332,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.575707e+07,
+							"CONCEPT_ID" : 45757072,
 							"CONCEPT_NAME" : "Complication of colostomy",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -349,7 +349,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.268994e+07,
+							"CONCEPT_ID" : 42689940,
 							"CONCEPT_NAME" : "Difficulty managing colostomy",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -366,7 +366,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.269075e+07,
+							"CONCEPT_ID" : 42690753,
 							"CONCEPT_NAME" : "Does manage colostomy",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -383,7 +383,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.269008e+07,
+							"CONCEPT_ID" : 42690077,
 							"CONCEPT_NAME" : "Does not manage colostomy",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -400,7 +400,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.668512e+07,
+							"CONCEPT_ID" : 36685119,
 							"CONCEPT_NAME" : "Fistula of colostomy",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -434,7 +434,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.626999e+07,
+							"CONCEPT_ID" : 46269994,
 							"CONCEPT_NAME" : "History of closure of colostomy",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -468,7 +468,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.57367e+07,
+							"CONCEPT_ID" : 35736703,
 							"CONCEPT_NAME" : "Obstructed colostomy",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -485,7 +485,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.07579e+07,
+							"CONCEPT_ID" : 40757895,
 							"CONCEPT_NAME" : "Ostomy (including suprapubic catheter, ileostomy, and colostomy) present in last 7 days [MDSv3]",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -502,7 +502,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.573669e+07,
+							"CONCEPT_ID" : 35736694,
 							"CONCEPT_NAME" : "Other complication of colostomy or enterostomy",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -570,7 +570,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.269033e+07,
+							"CONCEPT_ID" : 42690326,
 							"CONCEPT_NAME" : "Unable to manage colostomy",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -587,7 +587,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.57367e+07,
+							"CONCEPT_ID" : 35736696,
 							"CONCEPT_NAME" : "Unspecified complication of colostomy and enterostomy",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -629,7 +629,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.752105e+07,
+							"CONCEPT_ID" : 37521048,
 							"CONCEPT_NAME" : "Colostomy",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",

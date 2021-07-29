@@ -25,7 +25,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.625776e+07,
+							"CONCEPT_ID" : 46257755,
 							"CONCEPT_NAME" : "Colonoscopy through stoma; with transendoscopic balloon dilation",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -59,7 +59,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.625775e+07,
+							"CONCEPT_ID" : 46257754,
 							"CONCEPT_NAME" : "Ileoscopy, through stoma; with transendoscopic balloon dilation",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",

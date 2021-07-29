@@ -133,7 +133,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.048465e+07,
+							"CONCEPT_ID" : 40484650,
 							"CONCEPT_NAME" : "Type 1 diabetes mellitus uncontrolled",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -158,7 +158,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.076934e+07,
+							"CONCEPT_ID" : 40769340,
 							"CONCEPT_NAME" : "History of Diabetes (regardless of treatment) [PhenX]",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -175,7 +175,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.302117e+07,
+							"CONCEPT_ID" : 43021170,
 							"CONCEPT_NAME" : "History of diabetes mellitus type 2",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -192,7 +192,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.253902e+07,
+							"CONCEPT_ID" : 42539020,
 							"CONCEPT_NAME" : "History of diabetes related lower limb amputation",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -209,7 +209,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.627056e+07,
+							"CONCEPT_ID" : 46270560,
 							"CONCEPT_NAME" : "History of small vessel disease due to diabetes mellitus",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",

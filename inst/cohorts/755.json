@@ -25,7 +25,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 1.903075e+07,
+							"CONCEPT_ID" : 19030751,
 							"CONCEPT_NAME" : "alverine",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -42,7 +42,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.160018e+07,
+							"CONCEPT_ID" : 21600182,
 							"CONCEPT_NAME" : "alverine",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",

@@ -42,7 +42,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.573676e+07,
+							"CONCEPT_ID" : 35736761,
 							"CONCEPT_NAME" : "Anorectal fistula",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -59,7 +59,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.720398e+07,
+							"CONCEPT_ID" : 37203984,
 							"CONCEPT_NAME" : "Anal fistula",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -76,7 +76,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.570779e+07,
+							"CONCEPT_ID" : 35707792,
 							"CONCEPT_NAME" : "Anal fistula",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",

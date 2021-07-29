@@ -26,7 +26,7 @@
 						"CodesetId" : 1,
 						"ConditionType" : [
 							{
-								"CONCEPT_ID" : 3.800018e+07,
+								"CONCEPT_ID" : 38000180,
 								"CONCEPT_NAME" : "Inpatient detail - primary",
 								"STANDARD_CONCEPT" : null,
 								"STANDARD_CONCEPT_CAPTION" : "Unknown",
@@ -38,7 +38,7 @@
 								"CONCEPT_CLASS_ID" : null
 							},
 							{
-								"CONCEPT_ID" : 3.80002e+07,
+								"CONCEPT_ID" : 38000200,
 								"CONCEPT_NAME" : "Inpatient header - primary",
 								"STANDARD_CONCEPT" : null,
 								"STANDARD_CONCEPT_CAPTION" : "Unknown",
@@ -50,7 +50,7 @@
 								"CONCEPT_CLASS_ID" : null
 							},
 							{
-								"CONCEPT_ID" : 4.478663e+07,
+								"CONCEPT_ID" : 44786630,
 								"CONCEPT_NAME" : "Primary Condition",
 								"STANDARD_CONCEPT" : null,
 								"STANDARD_CONCEPT_CAPTION" : "Unknown",
@@ -62,7 +62,7 @@
 								"CONCEPT_CLASS_ID" : null
 							},
 							{
-								"CONCEPT_ID" : 3.800018e+07,
+								"CONCEPT_ID" : 38000180,
 								"CONCEPT_NAME" : "Inpatient detail - 1st position",
 								"STANDARD_CONCEPT" : null,
 								"STANDARD_CONCEPT_CAPTION" : "Unknown",
@@ -74,7 +74,7 @@
 								"CONCEPT_CLASS_ID" : null
 							},
 							{
-								"CONCEPT_ID" : 3.80002e+07,
+								"CONCEPT_ID" : 38000200,
 								"CONCEPT_NAME" : "Inpatient header - 1st position",
 								"STANDARD_CONCEPT" : null,
 								"STANDARD_CONCEPT_CAPTION" : "Unknown",
@@ -86,7 +86,7 @@
 								"CONCEPT_CLASS_ID" : null
 							},
 							{
-								"CONCEPT_ID" : 3.800022e+07,
+								"CONCEPT_ID" : 38000220,
 								"CONCEPT_NAME" : "Outpatient detail - 1st position",
 								"STANDARD_CONCEPT" : null,
 								"STANDARD_CONCEPT_CAPTION" : "Unknown",
@@ -98,7 +98,7 @@
 								"CONCEPT_CLASS_ID" : null
 							},
 							{
-								"CONCEPT_ID" : 3.800023e+07,
+								"CONCEPT_ID" : 38000230,
 								"CONCEPT_NAME" : "Outpatient header - 1st position",
 								"STANDARD_CONCEPT" : null,
 								"STANDARD_CONCEPT_CAPTION" : "Unknown",
@@ -110,7 +110,7 @@
 								"CONCEPT_CLASS_ID" : null
 							},
 							{
-								"CONCEPT_ID" : 4.575684e+07,
+								"CONCEPT_ID" : 45756840,
 								"CONCEPT_NAME" : "Carrier claim header - 1st position",
 								"STANDARD_CONCEPT" : null,
 								"STANDARD_CONCEPT_CAPTION" : "Unknown",
@@ -122,7 +122,7 @@
 								"CONCEPT_CLASS_ID" : null
 							},
 							{
-								"CONCEPT_ID" : 4.575684e+07,
+								"CONCEPT_ID" : 45756840,
 								"CONCEPT_NAME" : "Carrier claim detail - 1st position",
 								"STANDARD_CONCEPT" : null,
 								"STANDARD_CONCEPT_CAPTION" : "Unknown",

@@ -59,7 +59,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.630483e+07,
+							"CONCEPT_ID" : 36304833,
 							"CONCEPT_NAME" : "Body mass index (BMI) [Ratio] Estimated",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -118,7 +118,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.57662e+07,
+							"CONCEPT_ID" : 45766204,
 							"CONCEPT_NAME" : "Lymphedema associated with obesity",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",

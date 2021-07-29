@@ -31,7 +31,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.752202e+07,
+							"CONCEPT_ID" : 37522022,
 							"CONCEPT_NAME" : "Influenza immunisation",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -48,7 +48,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.021316e+07,
+							"CONCEPT_ID" : 40213158,
 							"CONCEPT_NAME" : "influenza virus vaccine, unspecified formulation",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -65,7 +65,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.021315e+07,
+							"CONCEPT_ID" : 40213153,
 							"CONCEPT_NAME" : "Influenza, seasonal, injectable",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -82,7 +82,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.160133e+07,
+							"CONCEPT_ID" : 21601333,
 							"CONCEPT_NAME" : "Influenza vaccines",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",

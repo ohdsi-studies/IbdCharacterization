@@ -25,7 +25,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.160391e+07,
+							"CONCEPT_ID" : 21603911,
 							"CONCEPT_NAME" : "adalimumab",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -59,7 +59,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.160391e+07,
+							"CONCEPT_ID" : 21603912,
 							"CONCEPT_NAME" : "certolizumab pegol",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -93,7 +93,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.160391e+07,
+							"CONCEPT_ID" : 21603913,
 							"CONCEPT_NAME" : "golimumab",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -110,7 +110,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 1.904107e+07,
+							"CONCEPT_ID" : 19041065,
 							"CONCEPT_NAME" : "golimumab",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -127,7 +127,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.160391e+07,
+							"CONCEPT_ID" : 21603909,
 							"CONCEPT_NAME" : "infliximab",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -161,7 +161,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.290421e+07,
+							"CONCEPT_ID" : 42904205,
 							"CONCEPT_NAME" : "tofacitinib",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -178,7 +178,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.353482e+07,
+							"CONCEPT_ID" : 43534821,
 							"CONCEPT_NAME" : "tofacitinib",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -195,7 +195,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.160392e+07,
+							"CONCEPT_ID" : 21603919,
 							"CONCEPT_NAME" : "ustekinumab",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -212,7 +212,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.016153e+07,
+							"CONCEPT_ID" : 40161532,
 							"CONCEPT_NAME" : "ustekinumab",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -229,7 +229,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.589349e+07,
+							"CONCEPT_ID" : 45893488,
 							"CONCEPT_NAME" : "vedolizumab",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -246,7 +246,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.577464e+07,
+							"CONCEPT_ID" : 45774639,
 							"CONCEPT_NAME" : "vedolizumab",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",

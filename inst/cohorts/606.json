@@ -42,7 +42,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.146023e+07,
+							"CONCEPT_ID" : 21460226,
 							"CONCEPT_NAME" : "Generic Modulen IBD powder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -59,7 +59,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.13634e+07,
+							"CONCEPT_ID" : 21363398,
 							"CONCEPT_NAME" : "Generic Modulen IBD powder 400 gram",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -76,7 +76,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.147143e+07,
+							"CONCEPT_ID" : 21471432,
 							"CONCEPT_NAME" : "Modulen IBD powder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -93,7 +93,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.13602e+07,
+							"CONCEPT_ID" : 21360201,
 							"CONCEPT_NAME" : "Modulen IBD powder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -110,7 +110,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.1399e+07,
+							"CONCEPT_ID" : 21399002,
 							"CONCEPT_NAME" : "Modulen IBD powder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -127,7 +127,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.13296e+07,
+							"CONCEPT_ID" : 21329599,
 							"CONCEPT_NAME" : "Modulen IBD powder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -144,7 +144,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.134956e+07,
+							"CONCEPT_ID" : 21349556,
 							"CONCEPT_NAME" : "Modulen IBD powder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -161,7 +161,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.139589e+07,
+							"CONCEPT_ID" : 21395890,
 							"CONCEPT_NAME" : "Modulen IBD powder (DE Pharmaceuticals) 400 gram",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -178,7 +178,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.143668e+07,
+							"CONCEPT_ID" : 21436678,
 							"CONCEPT_NAME" : "Modulen IBD powder (Mawdsley-Brooks & Company Ltd) 400 gram",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -195,7 +195,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.147558e+07,
+							"CONCEPT_ID" : 21475577,
 							"CONCEPT_NAME" : "Modulen IBD powder (Nestle Health Science) 400 gram",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -212,7 +212,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.135482e+07,
+							"CONCEPT_ID" : 21354815,
 							"CONCEPT_NAME" : "Modulen IBD powder (Sigma Pharmaceuticals Plc) 400 gram",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -229,7 +229,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.139489e+07,
+							"CONCEPT_ID" : 21394894,
 							"CONCEPT_NAME" : "Modulen IBD powder (Waymade Healthcare Plc) 400 gram",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -246,7 +246,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.430538e+07,
+							"CONCEPT_ID" : 44305375,
 							"CONCEPT_NAME" : "MODULEN IBD PULVER 12 400G",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -263,7 +263,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.430538e+07,
+							"CONCEPT_ID" : 44305376,
 							"CONCEPT_NAME" : "MODULEN IBD PULVER 24 400G (N1)",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -280,7 +280,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.424122e+07,
+							"CONCEPT_ID" : 44241218,
 							"CONCEPT_NAME" : "MODULEN IBD PULVER 400G",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -297,7 +297,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.265015e+07,
+							"CONCEPT_ID" : 42650148,
 							"CONCEPT_NAME" : "MODULEN IBDPOWDER 400G",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -314,7 +314,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.431974e+07,
+							"CONCEPT_ID" : 44319742,
 							"CONCEPT_NAME" : "MODULEN LIPID CR.VAN 500ML",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -331,7 +331,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.429835e+07,
+							"CONCEPT_ID" : 44298351,
 							"CONCEPT_NAME" : "MODULEN PEPT.VANILLE 200ML (N1)",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",

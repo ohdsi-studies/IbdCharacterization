@@ -43,7 +43,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.690361e+07,
+							"CONCEPT_ID" : 36903606,
 							"CONCEPT_NAME" : "Depressive disorders",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -119,7 +119,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.478891e+07,
+							"CONCEPT_ID" : 44788913,
 							"CONCEPT_NAME" : "Ref guid self-help for depress",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -144,7 +144,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.160469e+07,
+							"CONCEPT_ID" : 21604686,
 							"CONCEPT_NAME" : "ANTIDEPRESSANTS",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",

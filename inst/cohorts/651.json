@@ -83,7 +83,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.739386e+07,
+							"CONCEPT_ID" : 37393863,
 							"CONCEPT_NAME" : "Platelet count",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -108,7 +108,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.510469e+07,
+							"CONCEPT_ID" : 35104691,
 							"CONCEPT_NAME" : "Thrombocytopenia",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",

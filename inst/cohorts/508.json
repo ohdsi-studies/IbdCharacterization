@@ -25,7 +25,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.60098e+07,
+							"CONCEPT_ID" : 36009797,
 							"CONCEPT_NAME" : "Ankylosing spondylitis",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -42,7 +42,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.720933e+07,
+							"CONCEPT_ID" : 37209327,
 							"CONCEPT_NAME" : "Arthritis of bilateral sacroiliac joints caused by bacteria",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -59,7 +59,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.710862e+07,
+							"CONCEPT_ID" : 37108617,
 							"CONCEPT_NAME" : "Arthritis of left sacroiliac joint",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -76,7 +76,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.720826e+07,
+							"CONCEPT_ID" : 37208263,
 							"CONCEPT_NAME" : "Arthritis of left sacroiliac joint caused by bacteria",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -93,7 +93,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.710862e+07,
+							"CONCEPT_ID" : 37108618,
 							"CONCEPT_NAME" : "Arthritis of right sacroiliac joint",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -110,7 +110,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.720826e+07,
+							"CONCEPT_ID" : 37208264,
 							"CONCEPT_NAME" : "Arthritis of right sacroiliac joint caused by bacteria",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -127,7 +127,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.610999e+07,
+							"CONCEPT_ID" : 36109987,
 							"CONCEPT_NAME" : "Arthritis reactive",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -144,7 +144,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.604553e+07,
+							"CONCEPT_ID" : 36045527,
 							"CONCEPT_NAME" : "Bechterew's disease",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -161,7 +161,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.604553e+07,
+							"CONCEPT_ID" : 36045529,
 							"CONCEPT_NAME" : "Bechterew's disease acute episode",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -178,7 +178,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.604553e+07,
+							"CONCEPT_ID" : 36045528,
 							"CONCEPT_NAME" : "Bekhterev's disease",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -229,7 +229,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.031977e+07,
+							"CONCEPT_ID" : 40319772,
 							"CONCEPT_NAME" : "Psoriatic arthritis",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -246,7 +246,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.039977e+07,
+							"CONCEPT_ID" : 40399768,
 							"CONCEPT_NAME" : "Reactive arthritis",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -263,7 +263,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.604552e+07,
+							"CONCEPT_ID" : 36045523,
 							"CONCEPT_NAME" : "Rheumatoid spondylitis",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -297,7 +297,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.720506e+07,
+							"CONCEPT_ID" : 37205058,
 							"CONCEPT_NAME" : "Spondyloarthritis",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -331,7 +331,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.627341e+07,
+							"CONCEPT_ID" : 46273406,
 							"CONCEPT_NAME" : "Undifferentiated spondyloarthropathy",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",

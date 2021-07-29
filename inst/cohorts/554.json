@@ -25,7 +25,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.28932e+07,
+							"CONCEPT_ID" : 42893198,
 							"CONCEPT_NAME" : "Growth failure",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -59,7 +59,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.641653e+07,
+							"CONCEPT_ID" : 36416527,
 							"CONCEPT_NAME" : "Failure to thrive",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",

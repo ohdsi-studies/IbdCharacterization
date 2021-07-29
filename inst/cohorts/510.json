@@ -25,7 +25,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.573709e+07,
+							"CONCEPT_ID" : 35737091,
 							"CONCEPT_NAME" : "Abscess perianal",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -59,7 +59,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.570755e+07,
+							"CONCEPT_ID" : 35707552,
 							"CONCEPT_NAME" : "Anal fissure",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -76,7 +76,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.550019e+07,
+							"CONCEPT_ID" : 45500186,
 							"CONCEPT_NAME" : "Anal fissure and fistula",
 							"STANDARD_CONCEPT" : "N",
 							"STANDARD_CONCEPT_CAPTION" : "Non-Standard",
@@ -110,7 +110,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.570756e+07,
+							"CONCEPT_ID" : 35707556,
 							"CONCEPT_NAME" : "Anal skin tags",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -161,7 +161,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.57709e+07,
+							"CONCEPT_ID" : 45770896,
 							"CONCEPT_NAME" : "Congenital anal fissure",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -212,7 +212,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.573709e+07,
+							"CONCEPT_ID" : 35737090,
 							"CONCEPT_NAME" : "Perianal abscess",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -229,7 +229,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.573993e+07,
+							"CONCEPT_ID" : 35739934,
 							"CONCEPT_NAME" : "Perianal carcinoma in situ",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -246,7 +246,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.573677e+07,
+							"CONCEPT_ID" : 35736766,
 							"CONCEPT_NAME" : "Perianal fistula",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -263,7 +263,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.611063e+07,
+							"CONCEPT_ID" : 36110625,
 							"CONCEPT_NAME" : "Perineal abscess",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -297,7 +297,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.259869e+07,
+							"CONCEPT_ID" : 42598693,
 							"CONCEPT_NAME" : "Thickening of perianal skin",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",

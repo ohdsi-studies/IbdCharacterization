@@ -94,7 +94,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.273974e+07,
+							"CONCEPT_ID" : 42739740,
 							"CONCEPT_NAME" : "Anesthesia for abortion procedures",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -655,7 +655,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.048274e+07,
+							"CONCEPT_ID" : 40482740,
 							"CONCEPT_NAME" : "Liveborn born in hospital",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -825,7 +825,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.053986e+07,
+							"CONCEPT_ID" : 40539860,
 							"CONCEPT_NAME" : "Pregnancy with abortive outcome",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -910,7 +910,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.67127e+07,
+							"CONCEPT_ID" : 36712700,
 							"CONCEPT_NAME" : "Preterm labor with preterm delivery",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1029,7 +1029,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.27404e+07,
+							"CONCEPT_ID" : 42740400,
 							"CONCEPT_NAME" : "Subsequent intensive care, per day, for the evaluation and management of the recovering low birth weight infant (present body weight of 1500-2500 g)",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1683,7 +1683,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.273974e+07,
+							"CONCEPT_ID" : 42739740,
 							"CONCEPT_NAME" : "Anesthesia for abortion procedures",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -2227,7 +2227,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.048308e+07,
+							"CONCEPT_ID" : 40483080,
 							"CONCEPT_NAME" : "Antenatal screening declined",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -2533,7 +2533,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.27395e+07,
+							"CONCEPT_ID" : 42739500,
 							"CONCEPT_NAME" : "Assisted oocyte fertilization, microtechnique (any method)",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -2584,7 +2584,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.273956e+07,
+							"CONCEPT_ID" : 42739560,
 							"CONCEPT_NAME" : "Attendance at delivery (when requested by delivering physician) and initial stabilization of newborn",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -2618,7 +2618,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.671676e+07,
+							"CONCEPT_ID" : 36716760,
 							"CONCEPT_NAME" : "Bilious vomiting of newborn",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -2805,7 +2805,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.075918e+07,
+							"CONCEPT_ID" : 40759180,
 							"CONCEPT_NAME" : "Birth weight - Reported",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -3043,7 +3043,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.076662e+07,
+							"CONCEPT_ID" : 40766620,
 							"CONCEPT_NAME" : "Breastfeeding status",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -3060,7 +3060,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.575711e+07,
+							"CONCEPT_ID" : 45757110,
 							"CONCEPT_NAME" : "Breast lump in pregnancy",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -3400,7 +3400,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.711028e+07,
+							"CONCEPT_ID" : 37110280,
 							"CONCEPT_NAME" : "Concern about body image related to pregnancy",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -3893,7 +3893,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.305489e+07,
+							"CONCEPT_ID" : 43054890,
 							"CONCEPT_NAME" : "Delivery location",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -4641,7 +4641,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.047982e+07,
+							"CONCEPT_ID" : 40479820,
 							"CONCEPT_NAME" : "Exposure to rubella in pregnancy",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -5644,7 +5644,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.259497e+07,
+							"CONCEPT_ID" : 42594970,
 							"CONCEPT_NAME" : "Gestation results in multiple offspring",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -5746,7 +5746,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.575713e+07,
+							"CONCEPT_ID" : 45757130,
 							"CONCEPT_NAME" : "Heart murmur in mother in childbirth",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -6052,7 +6052,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.480425e+07,
+							"CONCEPT_ID" : 44804250,
 							"CONCEPT_NAME" : "Infant feeding antenatal checklist completed",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -6341,7 +6341,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.671267e+07,
+							"CONCEPT_ID" : 36712670,
 							"CONCEPT_NAME" : "IVF - in-vitro fertilization pregnancy",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -6375,7 +6375,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.076019e+07,
+							"CONCEPT_ID" : 40760190,
 							"CONCEPT_NAME" : "Labor and delivery process Narrative",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -6494,7 +6494,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.048274e+07,
+							"CONCEPT_ID" : 40482740,
 							"CONCEPT_NAME" : "Liveborn born in hospital",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -6528,7 +6528,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.576991e+07,
+							"CONCEPT_ID" : 45769910,
 							"CONCEPT_NAME" : "Low back pain in pregnancy",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -6698,7 +6698,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.253481e+07,
+							"CONCEPT_ID" : 42534810,
 							"CONCEPT_NAME" : "Maternal tobacco use in pregnancy",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -7582,7 +7582,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.048044e+07,
+							"CONCEPT_ID" : 40480440,
 							"CONCEPT_NAME" : "Nitrazine yellow test for detection of rupture of amniotic membrane negative",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -8245,7 +8245,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.575716e+07,
+							"CONCEPT_ID" : 45757160,
 							"CONCEPT_NAME" : "Pain in round ligament in pregnancy",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -8398,7 +8398,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.06648e+07,
+							"CONCEPT_ID" : 40664800,
 							"CONCEPT_NAME" : "Performance of trans-abdominal or trans-vaginal ultrasound and pregnancy location documented",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -8534,7 +8534,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.575714e+07,
+							"CONCEPT_ID" : 45757140,
 							"CONCEPT_NAME" : "Physical abuse complicating childbirth",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -8551,7 +8551,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.575714e+07,
+							"CONCEPT_ID" : 45757140,
 							"CONCEPT_NAME" : "Physical abuse complicating pregnancy",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -8874,7 +8874,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.577307e+07,
+							"CONCEPT_ID" : 45773070,
 							"CONCEPT_NAME" : "Postpartum episiotomy pain",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -9078,7 +9078,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.720888e+07,
+							"CONCEPT_ID" : 37208880,
 							"CONCEPT_NAME" : "Pregnancy insufficiently advanced for reliable antenatal screening",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -9095,7 +9095,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.480666e+07,
+							"CONCEPT_ID" : 44806660,
 							"CONCEPT_NAME" : "Pregnancy resulting from assisted conception",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -9163,7 +9163,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.720888e+07,
+							"CONCEPT_ID" : 37208880,
 							"CONCEPT_NAME" : "Pregnancy too advanced for reliable antenatal screening",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -9282,7 +9282,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.667504e+07,
+							"CONCEPT_ID" : 36675040,
 							"CONCEPT_NAME" : "Prematurity of infant",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -9333,7 +9333,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.077092e+07,
+							"CONCEPT_ID" : 40770920,
 							"CONCEPT_NAME" : "Previous fetus defect",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -9554,7 +9554,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.575717e+07,
+							"CONCEPT_ID" : 45757170,
 							"CONCEPT_NAME" : "Psychological abuse complicating pregnancy",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -9962,7 +9962,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.671347e+07,
+							"CONCEPT_ID" : 36713470,
 							"CONCEPT_NAME" : "Routine postpartum follow-up",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -10047,7 +10047,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.048359e+07,
+							"CONCEPT_ID" : 40483590,
 							"CONCEPT_NAME" : "Screening for Chlamydia trachomatis",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -10098,7 +10098,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.27425e+07,
+							"CONCEPT_ID" : 42742500,
 							"CONCEPT_NAME" : "Selective head hypothermia, per day, in the neonate 28 days of age or younger",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -10149,7 +10149,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.575717e+07,
+							"CONCEPT_ID" : 45757170,
 							"CONCEPT_NAME" : "Sexual abuse complicating childbirth",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -10166,7 +10166,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.575717e+07,
+							"CONCEPT_ID" : 45757170,
 							"CONCEPT_NAME" : "Sexual abuse complicating pregnancy",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -10353,7 +10353,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.353088e+07,
+							"CONCEPT_ID" : 43530880,
 							"CONCEPT_NAME" : "Suspected fetal anencephaly",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -10370,7 +10370,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.353089e+07,
+							"CONCEPT_ID" : 43530890,
 							"CONCEPT_NAME" : "Suspected fetal damage from disease in the mother",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -10387,7 +10387,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.353088e+07,
+							"CONCEPT_ID" : 43530880,
 							"CONCEPT_NAME" : "Suspected fetal damage from maternal alcohol",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -10404,7 +10404,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.353089e+07,
+							"CONCEPT_ID" : 43530890,
 							"CONCEPT_NAME" : "Suspected fetal damage from radiation",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -10540,7 +10540,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.066477e+07,
+							"CONCEPT_ID" : 40664770,
 							"CONCEPT_NAME" : "Trans-abdominal or trans-vaginal ultrasound not performed for reasons documented by clinician (e.g., patient has visited the ed multiple times within 72 hours, patient has a documented intrauterine pregnancy [iup])",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -10744,7 +10744,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.075697e+07,
+							"CONCEPT_ID" : 40756970,
 							"CONCEPT_NAME" : "Ultrasound, limited, joint or other nonvascular extremity structure(s) (eg, joint space, peri-articular tendon[s], muscle[s], nerve[s], other soft-tissue structure[s], or soft-tissue mass[es]), real-time with image documentation",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -10761,7 +10761,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.479026e+07,
+							"CONCEPT_ID" : 44790260,
 							"CONCEPT_NAME" : "Ultrasound monitoring of early pregnancy",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -10778,7 +10778,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.588777e+07,
+							"CONCEPT_ID" : 45887770,
 							"CONCEPT_NAME" : "Ultrasound, pregnant uterus, real time with image documentation, fetal and maternal evaluation, after first trimester (> or = 14 weeks 0 days), transabdominal approach",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -10795,7 +10795,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.588865e+07,
+							"CONCEPT_ID" : 45888650,
 							"CONCEPT_NAME" : "Ultrasound, pregnant uterus, real time with image documentation, fetal and maternal evaluation, first trimester (< 14 weeks 0 days), transabdominal approach",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -10812,7 +10812,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.588804e+07,
+							"CONCEPT_ID" : 45888040,
 							"CONCEPT_NAME" : "Ultrasound, pregnant uterus, real time with image documentation, fetal and maternal evaluation plus detailed fetal anatomic examination, transabdominal approach",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -10829,7 +10829,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.588875e+07,
+							"CONCEPT_ID" : 45888750,
 							"CONCEPT_NAME" : "Ultrasound, pregnant uterus, real time with image documentation, first trimester fetal nuchal translucency measurement, transabdominal or transvaginal approach",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -11322,7 +11322,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.076742e+07,
+							"CONCEPT_ID" : 40767420,
 							"CONCEPT_NAME" : "Was your pregnancy a live birth, stillbirth, miscarriage, abortion, or ectopic pregnancy [PhenX]",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",

@@ -59,7 +59,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.630483e+07,
+							"CONCEPT_ID" : 36304833,
 							"CONCEPT_NAME" : "Body mass index (BMI) [Ratio] Estimated",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -135,7 +135,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.641654e+07,
+							"CONCEPT_ID" : 36416535,
 							"CONCEPT_NAME" : "Overweight",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -152,7 +152,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.671655e+07,
+							"CONCEPT_ID" : 36716554,
 							"CONCEPT_NAME" : "Overweight in adulthood with body mass index of 25 or more but less than 30",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",

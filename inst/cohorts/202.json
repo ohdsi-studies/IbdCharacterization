@@ -58,7 +58,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.630483e+07,
+							"CONCEPT_ID" : 36304833,
 							"CONCEPT_NAME" : "Body mass index (BMI) [Ratio] Estimated",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -100,7 +100,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.641654e+07,
+							"CONCEPT_ID" : 36416539,
 							"CONCEPT_NAME" : "Underweight",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",

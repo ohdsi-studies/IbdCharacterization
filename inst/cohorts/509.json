@@ -42,7 +42,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.259718e+07,
+							"CONCEPT_ID" : 42597184,
 							"CONCEPT_NAME" : "Arthritis of distal interphalangeal joint",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -76,7 +76,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.259721e+07,
+							"CONCEPT_ID" : 42597214,
 							"CONCEPT_NAME" : "Arthritis of fetlock joint",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -93,7 +93,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.04905e+07,
+							"CONCEPT_ID" : 40490497,
 							"CONCEPT_NAME" : "Arthritis of hand",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -110,7 +110,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.259719e+07,
+							"CONCEPT_ID" : 42597193,
 							"CONCEPT_NAME" : "Arthritis of proximal interphalangeal joint",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -127,7 +127,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.048326e+07,
+							"CONCEPT_ID" : 40483262,
 							"CONCEPT_NAME" : "Arthritis of shoulder region joint",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -161,7 +161,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.287241e+07,
+							"CONCEPT_ID" : 42872407,
 							"CONCEPT_NAME" : "Arthritis of wrist",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -212,7 +212,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.667506e+07,
+							"CONCEPT_ID" : 36675057,
 							"CONCEPT_NAME" : "Immune dysregulation, inflammatory bowel disease, arthritis, recurrent infection syndrome",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -280,7 +280,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.478338e+07,
+							"CONCEPT_ID" : 44783376,
 							"CONCEPT_NAME" : "Monoarthritis",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",

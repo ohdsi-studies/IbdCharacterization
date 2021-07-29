@@ -25,7 +25,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.160065e+07,
+							"CONCEPT_ID" : 21600652,
 							"CONCEPT_NAME" : "Corticosteroids acting locally",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -42,7 +42,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.160272e+07,
+							"CONCEPT_ID" : 21602722,
 							"CONCEPT_NAME" : "CORTICOSTEROIDS FOR SYSTEMIC USE",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",

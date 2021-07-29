@@ -31,7 +31,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.742043e+07,
+							"CONCEPT_ID" : 37420427,
 							"CONCEPT_NAME" : "Family stress",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -48,7 +48,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.748472e+07,
+							"CONCEPT_ID" : 37484722,
 							"CONCEPT_NAME" : "Marital stress",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -65,7 +65,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.742044e+07,
+							"CONCEPT_ID" : 37420438,
 							"CONCEPT_NAME" : "Partner stress",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -82,7 +82,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.691886e+07,
+							"CONCEPT_ID" : 36918861,
 							"CONCEPT_NAME" : "Stress",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -99,7 +99,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.742037e+07,
+							"CONCEPT_ID" : 37420372,
 							"CONCEPT_NAME" : "Stress at work",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",

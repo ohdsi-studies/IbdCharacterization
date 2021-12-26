@@ -13,7 +13,6 @@ Irritable bowel syndrome [IBD-OHDSI],[IBD ID368 V1] Irritable bowel syndrome [IB
 Autoimmune [IBD-OHDSI],[IBD ID119 V1] Autoimmune [IBD-OHDSI],119,451
 Hypothyroidism [IBD-OHDSI],[IBD ID168 V1] Hypothyroidism [IBD-OHDSI],168,452
 Alcohol misuse or dependence [IBD OHDSI],[IBD ID151 V1] Alcohol misuse or dependence [IBD OHDSI],151,453
-"Celiac disease, incidence [IBD-OHDSI]","[IBD ID242 V1] Celiac disease, incidence [IBD-OHDSI]",242,454
 Hashimoto thyroiditis [IBD-OHDSI],[IBD ID213 V1] Hashimoto thyroiditis [IBD-OHDSI],213,455
 Vitiligo [IBD-OHDSI],[IBD ID212 V1] Vitiligo [IBD-OHDSI],212,456
 Grave's disease [IBD-OHDSI],[IBD ID211 V1] Grave's disease [IBD-OHDSI],211,457
@@ -33,16 +32,13 @@ EIM Axial arthritis [IBD-OHDSI],[IBD ID164 V1] EIM Axial arthritis [IBD-OHDSI],1
 EIM Peripheral arthritis [IBD-OHDSI],[IBD ID163 V1] EIM Peripheral arthritis [IBD-OHDSI],163,509
 Perianal disease [IBD-OHDSI],[IBD ID176 V1] Perianal disease [IBD-OHDSI],176,510
 Stricturing [IBD-OHDSI],[IBD ID389 V1] Stricturing [IBD-OHDSI],389,550
-Intestinal obstruction [IBD-OHDSI],[IBD ID387 V1] Intestinal obstruction [IBD-OHDSI],109,551
 Penetrating IBD [IBD-OHDSI],[IBD ID386 V1] Penetrating IBD [IBD-OHDSI],386,552
-Gastrointestinal procedures [IBD-OHDSI],[IBD ID347 V1] Gastrointestinal procedures [IBD-OHDSI],347,553
 Growth failure [IBD OHDSI],[IBD ID348 V1] Growth failure [IBD OHDSI],348,554
 Abnormal weight loss [IBD OHDSI],[IBD ID159 V1] Abnormal weight loss [IBD OHDSI],159,555
 Anorectal fistula [IBD-OHDSI],[IBD ID304 V1] Anorectal fistula [IBD-OHDSI],304,556
 Death [Charybdis],[IBD ID52 V1] Death [Charybdis],52,557
 Hospitalization [Charybdis],[IBD ID149 V1] Hospitalization [Charybdis],149,558
 Low bone density [IBD-OHDSI],[IBD ID196 V1] Low bone density [IBD-OHDSI],196,559
-Combined bacterial and viral vaccines,[IBD ID207 V1] Combined bacterial and viral vaccines,207,560
 Colectomy present [IBD-OHDSI],[IBD ID105 V1] Colectomy present [IBD-OHDSI],105,561
 Ileostomy present [IBD-OHDSI],[IBD ID107 V1] Ileostomy present [IBD-OHDSI],107,562
 Colostomy present [IBD-OHDSI],[IBD ID103 V1] Colostomy present [IBD-OHDSI],103,563

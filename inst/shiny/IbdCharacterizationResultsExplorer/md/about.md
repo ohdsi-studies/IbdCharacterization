@@ -1,10 +1,10 @@
 Characterizing inflammatory bowel disease patient cohorts (IbdCharacterization)
 =============
-<h2>PLEASE NOTE: All results are preliminary and subject to change</h2>
+<h4>PLEASE NOTE: All results are preliminary and subject to change</h4>
 
 <hr class="w-100" style="border-top: black 1px solid;">
 
-<h3>Terms of Use:</h3>
+<h4>Terms of Use:</h4>
 <p>These results are being shared as part of OHDSI's open science community efforts to characterize disease natural history of inflammatory bowel disease.</p>
 
 **Objectives:**<br>

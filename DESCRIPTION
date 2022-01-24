@@ -1,0 +1,39 @@
+Package: IbdCharacterization
+Title: Characterization of Inflammatory Bowel Disease Patient Cohorts
+Version: 1.0
+Authors@R: 
+    person("Chen", "Yanover", , "chen@kinstitute.org.il", role = c("aut", "cre"))
+Description: IbdCharacterization describes the baseline demographic and
+    clinical characteristics, as well as the occurrence of treatments and
+    outcomes of individuals diagnosed with inflammatory bowel disease
+    (IBD) and, specifically, with Crohn's disease and ulcerative colitis.
+Depends:
+  DatabaseConnector (>= 2.2.0)
+Imports:
+  CohortDiagnostics (>= 1.2.2),
+  FeatureExtraction,
+  ParallelLogger,
+  OhdsiSharing (>= 0.2.1),
+  SqlRender,
+  ff,
+  digest,
+  readr,
+  dplyr,
+  ggplot2 (<= 3.2.1),
+  tibble
+Suggests:
+  knitr,
+  rmarkdown
+Remotes:
+  OHDSI/CohortDiagnostics,
+  OHDSI/FeatureExtraction,
+  OHDSI/ParallelLogger,
+  OHDSI/SqlRender,
+  OHDSI/OhdsiSharing
+License: Apache License 2.0
+VignetteBuilder: knitr
+URL: https://github.com/ohdsi-studies/IbdCharacterization
+BugReports: https://github.com/ohdsi-studies/IbdCharacterization/issues
+Encoding: UTF-8
+LazyData: TRUE
+RoxygenNote: 7.1.2

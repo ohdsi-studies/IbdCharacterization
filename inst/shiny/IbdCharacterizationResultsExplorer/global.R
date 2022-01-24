@@ -4,6 +4,8 @@ library(DatabaseConnector)
 source("DataPulls.R")
 
 connPool <- NULL # Will be initialized if using a DB
+dbConnectorVersionStr <- as.character(utils::packageVersion("DatabaseConnector"))[[1]]
+dbConnectorVersion <- as.integer(strsplit(dbConnectorVersionStr, split="[.]")[[1]][1])
 
 # Cleanup the database connPool if it was created
 onStop(function() {
@@ -54,6 +56,11 @@ dataFile <- shinySettings$dataFile
 suppressWarnings(rm("cohort", "cohortCount", "database"))
 
 if (dataStorage == "database") {
+  # This is a hack to allow for users to run the Shiny app using
+  # the v3.x version of DB connector while also supporting the
+  # v4 driver that is now installed on data.ohdsi.org
+  if (dbConnectorVersion <= 3) {
+    # DatabaseConnector v3.x or less
   connPool <- dbPool(
     drv = DatabaseConnector::DatabaseConnectorDriver(),
     dbms = shinySettings$connectionDetails$dbms,
@@ -62,6 +69,17 @@ if (dataStorage == "database") {
     user = shinySettings$connectionDetails$user,
     password = shinySettings$connectionDetails$password
   )  
+  } else {
+    # DatabaseConnector v4.x or higher
+    connPool <- dbPool(
+      drv = DatabaseConnector::DatabaseConnectorDriver(),
+      dbms = shinySettings$connectionDetails$dbms,
+      server = shinySettings$connectionDetails$server(),
+      port = shinySettings$connectionDetails$port(),
+      user = shinySettings$connectionDetails$user(),
+      password = shinySettings$connectionDetails$password()
+    )  
+  }
   loadDataFromDB(connPool)
 } else if (dataStorage == "s3") {
   fileExists <- aws.s3::head_object(dataFile, bucket = dataFolder)
@@ -141,7 +159,6 @@ domain$name <- as.character(domain$name)
 domainName <- "All"
 
 # This must match the featureTimeWindow.csv from the IBD characterization study
-# timeWindow <- data.frame(windowId=c(1:5), name=c("-365d to -1d", "-30d to -1d", "index", "index to 1y", "index to 3y"))
 timeWindow <- data.frame(windowId=c(1:9), name=c("Full history", "1y befre index", "30d before index", "index", 
                                                  "index to 1y", "index to 3y", "index to 5y", "index to 10y", "Full follow-up"))
 timeWindow$name <- as.character(timeWindow$name)

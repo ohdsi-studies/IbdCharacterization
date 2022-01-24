@@ -206,7 +206,7 @@ shinyServer(function(input, output, session) {
   
   getCohortInfoTable <- reactive({
     data <- cohortInfo
-    atlasCohortUrl <- "http://172.16.100.88:8888/Atlas/#/cohortdefinition/"
+    atlasCohortUrl <- "https://atlas.ohdsi.org/#/cohortdefinition/"
     githubCohortUrl <- "https://github.com/ohdsi-studies/IbdCharacterization/tree/master/inst/sql/sql_server/"
     data$url <- ifelse(data$circeDef == TRUE, 
                        paste0(atlasCohortUrl, data$atlasId),

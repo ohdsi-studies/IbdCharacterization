@@ -23,7 +23,7 @@ addInfo <- function(item, infoId, class = NULL, style = NULL) {
 
 dashboardPage(
   dashboardHeader(
-    title = "CHAR-IBD",
+    title = "IbdCharacterization",
     tags$li(div(img(src = 'logo.png',
                     title = "Characterizing baseline factors and disease progression in IBD patients", 
                     height = "40px", 

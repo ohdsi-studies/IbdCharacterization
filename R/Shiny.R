@@ -138,7 +138,8 @@ preMergeDiagnosticsFiles <- function(dataFolder) {
   # Remove any duplicate cohort names
   if (exists("cohort", envir = .GlobalEnv)) {
     cohort <- get("cohort", envir = .GlobalEnv)
-    cohort <- unique(cohort[,c("cohortName", "cohortFullName", "cohortId")])
+    # cohort <- unique(cohort[,c("cohortName", "cohortFullName", "cohortId")])
+    cohort <- unique(cohort[,c("cohortName", "cohortId")])
     # Re-assign to the global environment
     assign("cohort", cohort, envir = .GlobalEnv)
   }

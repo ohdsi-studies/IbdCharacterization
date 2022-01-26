@@ -67,9 +67,8 @@ Sys.setenv("R_REMOTES_NO_ERRORS_FROM_WARNINGS" = TRUE)
 # *******************************************************
 library(IbdCharacterization)
 
-# Optional: specify where the temporary files (used by the ff package) will be created:
-fftempdir <- if (Sys.getenv("FFTEMP_DIR") == "") "~/fftemp" else Sys.getenv("FFTEMP_DIR")
-options(fftempdir = fftempdir)
+dbConnectorVersionStr <- as.character(utils::packageVersion("DatabaseConnector"))[[1]]
+dbConnectorVersion <- as.integer(strsplit(dbConnectorVersionStr, split="[.]")[[1]][1])
 
 # Details for connecting to the server:
 user <- if (Sys.getenv("DB_USER") == "") NULL else Sys.getenv("DB_USER")
@@ -77,46 +76,28 @@ password <- if (Sys.getenv("DB_PASSWORD") == "") NULL else Sys.getenv("DB_PASSWO
 dbms <- Sys.getenv("DBMS")
 server <- Sys.getenv("DB_SERVER")
 port <- Sys.getenv("DB_PORT")
-pathToDriver <- Sys.getenv("PATH_TO_DB_DRIVER")
 extraSettings <- if (Sys.getenv("DB_EXTRA_SETTINGS") == "") NULL else Sys.getenv("DB_EXTRA_SETTINGS")
-connectionDetails <- DatabaseConnector::createConnectionDetails(dbms = dbms,
-                                                                server = server,
-                                                                user = user,
-                                                                password = password,
-                                                                port = port,
-                                                                extraSettings = extraSettings,
-                                                                pathToDriver = pathToDriver)
 
+connecionParams <- list(dbms = dbms,
+                        server = server,
+                        user = user,
+                        password = password,
+                        port = port,
+                        extraSettings = extraSettings)
+
+if (dbConnectorVersion >= 4) {
+  pathToDriver <- if (Sys.getenv("PATH_TO_DB_DRIVER") == "") NULL else Sys.getenv("PATH_TO_DB_DRIVER")
+  connecionParams <- c(connecionParams, list(pathToDriver = pathToDriver))
+}
+
+connectionDetails <- do.call(DatabaseConnector::createConnectionDetails, connecionParams)
 
 #-----------------------------------------------------------------------------------------------
 # Instructions for the remaining variables
 #-----------------------------------------------------------------------------------------------
 # 
 # - oracleTempSchema := If using Oracle, what is the schema to use. Please see http://ohdsi.github.io/DatabaseConnector/ for more details.
-# - databaseId := The database identifier to use for reporting results. Please review this list and use the one that matches your site:
-# 
-#   | Database_id |                               Database Name                                |
-#   |-------------|----------------------------------------------------------------------------|
-#   | AU_ePBRN    | Australian Electronic Practice Based Research Network                      |
-#   | AUSOM       | Ajou University School of Medicine Database                                |
-#   | CCAE        | IBM MarketScan® Commercial Database                                        |
-#   | CUIMC       | Columbia University Irving Medical Center                                  |
-#   | DCMC        | Daegu Catholic University Medical Center                                   |
-#   | HIRA        | Health Insurance and Review Assessment                                     |
-#   | HM          | HM Hospitales                                                              |
-#   | IPCI        | Integrated Primary Care Information                                        |
-#   | JMDC        | Japan Medical Data Center                                                  |
-#   | MDCD        | IBM MarketScan® Multi-State Medicaid Database                              |
-#   | MDCR        | IBM MarketScan® Medicare Supplemental Database                             |
-#   | OptumDoD    | Optum® De-Identified Clinformatic Data Mart Database – Date of Death (DOD) |
-#   | optumEhr    | Optum® de-identified Electronic Health Record Dataset                      |
-#   | SIDIAP      | The Information System for Research in Primary Care (SIDIAP)               |
-#   | STARR       | STAnford medicine Research data Repository                                 |
-#   | TRDW        | Tufts Researrch Data Warehouse                                             |
-#   | VA          | Department of Veterans Affairs                                             |
-#   
-#    *** If your database is not in this list, please specify the database_id yourself and report it back to the study lead ***
-#
+# - databaseId := The database identifier to use for reporting results; please report to study lead
 # - databaseName := The full name of your database
 # - databaseDescription := A full description of your database.
 # - outputFolder := The file path where the results of the study are placed.

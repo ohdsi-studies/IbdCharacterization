@@ -10,7 +10,7 @@ Characterization of Inflammatory Bowel Disease Patient Cohorts
 - Study lead forums tag: **[cyanover](https://forums.ohdsi.org/u/cyanover)**
 - Study start date: **-**
 - Study end date: **-**
-- Protocol: **[Word Doc](https://github.com/ohdsi-studies/IbdCharacterization/blob/master/documents/Protocol%20IBD%20Characterisation%20V1.5.docx)**
+- Protocol: **[Word Doc](https://github.com/ohdsi-studies/IbdCharacterization/blob/master/documents/Protocol%20IBD%20Characterisation%20V1.6.docx)**
 - Publications: **-**
 - Results explorer: **-**
 

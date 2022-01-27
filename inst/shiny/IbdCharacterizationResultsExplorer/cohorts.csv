@@ -23,7 +23,6 @@ cohortId,name,atlasId,circeDef
 451,Autoimmune [IBD-OHDSI],119,TRUE
 452,Hypothyroidism [IBD-OHDSI],168,TRUE
 453,Alcohol misuse or dependence [IBD OHDSI],151,TRUE
-454,"Celiac disease, incidence [IBD-OHDSI]",242,TRUE
 455,Hashimoto thyroiditis [IBD-OHDSI],213,TRUE
 456,Vitiligo [IBD-OHDSI],212,TRUE
 457,Grave's disease [IBD-OHDSI],211,TRUE
@@ -43,16 +42,13 @@ cohortId,name,atlasId,circeDef
 509,EIM Peripheral arthritis [IBD-OHDSI],163,TRUE
 510,Perianal disease [IBD-OHDSI],176,TRUE
 550,Stricturing [IBD-OHDSI],389,TRUE
-551,Intestinal obstruction [IBD-OHDSI],109,TRUE
 552,Penetrating IBD [IBD-OHDSI],386,TRUE
-553,Gastrointestinal procedures [IBD-OHDSI],347,TRUE
 554,Growth failure [IBD OHDSI],348,TRUE
 555,Abnormal weight loss [IBD OHDSI],159,TRUE
 556,Anorectal fistula [IBD-OHDSI],304,TRUE
 557,Death [Charybdis],52,TRUE
 558,Hospitalization [Charybdis],149,TRUE
 559,Low bone density [IBD-OHDSI],196,TRUE
-560,Combined bacterial and viral vaccines,207,TRUE
 561,Colectomy present [IBD-OHDSI],105,TRUE
 562,Ileostomy present [IBD-OHDSI],107,TRUE
 563,Colostomy present [IBD-OHDSI],103,TRUE

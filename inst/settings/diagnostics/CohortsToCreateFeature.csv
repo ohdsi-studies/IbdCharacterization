@@ -13,7 +13,6 @@ name,atlasName,atlasId,cohortId
 451,[IBD ID119 V1] Autoimmune [IBD-OHDSI],119,451
 452,[IBD ID168 V1] Hypothyroidism [IBD-OHDSI],168,452
 453,[IBD ID151 V1] Alcohol misuse or dependence [IBD OHDSI],151,453
-454,"[IBD ID242 V1] Celiac disease, incidence [IBD-OHDSI]",242,454
 455,[IBD ID213 V1] Hashimoto thyroiditis [IBD-OHDSI],213,455
 456,[IBD ID212 V1] Vitiligo [IBD-OHDSI],212,456
 457,[IBD ID211 V1] Grave's disease [IBD-OHDSI],211,457
@@ -33,16 +32,13 @@ name,atlasName,atlasId,cohortId
 509,[IBD ID163 V1] EIM Peripheral arthritis [IBD-OHDSI],163,509
 510,[IBD ID176 V1] Perianal disease [IBD-OHDSI],176,510
 550,[IBD ID389 V1] Stricturing [IBD-OHDSI],389,550
-551,[IBD ID387 V1] Intestinal obstruction [IBD-OHDSI],109,551
 552,[IBD ID386 V1] Penetrating IBD [IBD-OHDSI],386,552
-553,[IBD ID347 V1] Gastrointestinal procedures [IBD-OHDSI],347,553
 554,[IBD ID348 V1] Growth failure [IBD OHDSI],348,554
 555,[IBD ID159 V1] Abnormal weight loss [IBD OHDSI],159,555
 556,[IBD ID304 V1] Anorectal fistula [IBD-OHDSI],304,556
 557,[IBD ID52 V1] Death [Charybdis],52,557
 558,[IBD ID149 V1] Hospitalization [Charybdis],149,558
 559,[IBD ID196 V1] Low bone density [IBD-OHDSI],196,559
-560,[IBD ID207 V1] Combined bacterial and viral vaccines,207,560
 561,[IBD ID105 V1] Colectomy present [IBD-OHDSI],105,561
 562,[IBD ID107 V1] Ileostomy present [IBD-OHDSI],107,562
 563,[IBD ID103 V1] Colostomy present [IBD-OHDSI],103,563

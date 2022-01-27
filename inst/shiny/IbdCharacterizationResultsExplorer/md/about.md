@@ -14,11 +14,3 @@ Describe the baseline demographic, clinical characteristics, treatments and outc
 - The study protocol is available <a href="https://github.com/ohdsi-studies/IbdCharacterization/blob/master/documents/Protocol IBD Characterisation V1.5.docx" target="_blank">here</a>
 - All analytic code is availble at <a href="https://github.com/ohdsi-studies/IbdCharacterization" target="_blank">GitHub</a>
 
-<!---
-**Cohort Diagnostics:**<br>
-- <a href="https://data.ohdsi.org/IbdCharacterization'DiagIbd/">Inflammatory bowel disease cohorts</a>
-- <a href="https://data.ohdsi.org/IbdCharacterization'DiagUc/">Ulcerative colitis cohorts</a>
-- <a href="https://data.ohdsi.org/IbdCharacterization'DiagCd/">Crohn's disease cohorts</a>
-- <a href="https://data.ohdsi.org/IbdCharacterization'DiagStrata/">Strata cohorts</a>
-- <a href="https://data.ohdsi.org/IbdCharacterization'DiagFeature/">Feature cohorts</a>
--->

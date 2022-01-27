@@ -26,6 +26,8 @@ launchShinyApp <- function(outputFolder,
   ensure_installed("DT")
   ensure_installed("VennDiagram")
   ensure_installed("htmltools")
+  ensure_installed("rmarkdown")
+  
   appDir <- system.file("shiny/IbdCharacterizationResultsExplorer", package = getThisPackageName(), mustWork = TRUE)
   .GlobalEnv$shinySettings <- shinySettings
   on.exit(rm(shinySettings, envir = .GlobalEnv))
@@ -139,7 +141,7 @@ preMergeDiagnosticsFiles <- function(dataFolder) {
   if (exists("cohort", envir = .GlobalEnv)) {
     cohort <- get("cohort", envir = .GlobalEnv)
     # cohort <- unique(cohort[,c("cohortName", "cohortFullName", "cohortId")])
-    cohort <- unique(cohort[,c("cohortName", "cohortId")])
+    cohort <- unique(cohort[,c("cohortName", "cohortId", "json")])
     # Re-assign to the global environment
     assign("cohort", cohort, envir = .GlobalEnv)
   }

@@ -153,7 +153,7 @@ runCohortDiagnostics(
     oracleTempSchema = oracleTempSchema,
     cohortIdsToExcludeFromExecution = cohortIdsToExcludeFromExecution,
     exportFolder = outputFolder,
-    cohortGroupNames = c("CD"), # Optional - will use all groups ("IBD", "CD", "UC", "strata", "feature") by default
+    cohortGroupNames = c("CD", "UC"), # Optional - will use all groups ("IBD", "CD", "UC", "strata", "feature") by default
     databaseId = databaseId,
     databaseName = databaseName,
     databaseDescription = databaseDescription,

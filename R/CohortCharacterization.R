@@ -46,11 +46,6 @@ getCohortCharacteristics <- function(connectionDetails = NULL,
                                      cohortTable = "cohort",
                                      cohortId,
                                      covariateSettings = FeatureExtraction::createDefaultCovariateSettings()) {
-  if (!file.exists(getOption("fftempdir"))) {
-    stop("This function uses ff, but the fftempdir '",
-         getOption("fftempdir"),
-         "' does not exist. Either create it, or set fftempdir to another location using options(fftempdir = \"<path>\")")
-  }
 
   start <- Sys.time()
 
@@ -81,21 +76,21 @@ getCohortCharacteristics <- function(connectionDetails = NULL,
                                                 aggregated = TRUE)
   result <- data.frame()
   if (!is.null(data$covariates)) {
-    counts <- as.numeric(ff::as.ram(data$covariates$sumValue))
+    counts <- as.numeric(data$covariates$sumValue)
     n <- data$metaData$populationSize
-    binaryCovs <- data.frame(covariateId = ff::as.ram(data$covariates$covariateId),
-                             mean = ff::as.ram(data$covariates$averageValue))
+    binaryCovs <- data.frame(covariateId = data$covariates$covariateId)
+                             mean = data$covariates$averageValue)
     binaryCovs$sd <- sqrt((n * counts + counts)/(n^2))
     result <- rbind(result, binaryCovs)
   }
   if (!is.null(data$covariatesContinuous)) {
-    continuousCovs <- data.frame(covariateId = ff::as.ram(data$covariatesContinuous$covariateId),
-                                 mean = ff::as.ram(data$covariatesContinuous$averageValue),
-                                 sd = ff::as.ram(data$covariatesContinuous$standardDeviation))
+    continuousCovs <- data.frame(covariateId = data$covariatesContinuous$covariateId,
+                                 mean = data$covariatesContinuous$averageValue,
+                                 sd = data$covariatesContinuous$standardDeviation)
     result <- rbind(result, continuousCovs)
   }
   if (nrow(result) > 0) {
-    result <- merge(result, ff::as.ram(data$covariateRef))
+    result <- merge(result, data$covariateRef)
     result$conceptId <- NULL
   }
   attr(result, "cohortSize") <- data$metaData$populationSize

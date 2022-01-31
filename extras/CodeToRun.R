@@ -23,15 +23,12 @@
 #    DB_PORT = 5432
 #    DB_USER = "database_user_name_goes_here"
 #    DB_PASSWORD = "your_secret_password"
-#    FFTEMP_DIR = "E:/fftemp"
 #    USE_SUBSET = FALSE
 #
 # The following describes the settings
 #    DBMS, DB_SERVER, DB_PORT, DB_USER, DB_PASSWORD := These are the details used to connect
 #    to your database server. For more information on how these are set, please refer to:
 #    http://ohdsi.github.io/DatabaseConnector/
-#
-#    FFTEMP_DIR = A directory where temporary files used by the FF package are stored while running.
 #
 #    USE_SUBSET = TRUE/FALSE. When set to TRUE, this will allow for runnning this package with a 
 #    subset of the cohorts/features. This is used for testing. PLEASE NOTE: This is only enabled

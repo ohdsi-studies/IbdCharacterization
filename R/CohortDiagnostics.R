@@ -36,10 +36,6 @@ runCohortDiagnostics <- function(connectionDetails = NULL,
     dir.create(diagnosticOutputFolder, recursive = TRUE)
   }
 
-  if (!is.null(getOption("fftempdir")) && !file.exists(getOption("fftempdir"))) {
-    warning("fftempdir '", getOption("fftempdir"), "' not found. Attempting to create folder")
-    dir.create(getOption("fftempdir"), recursive = TRUE)
-  }
   ParallelLogger::addDefaultFileLogger(file.path(diagnosticOutputFolder, "cohortDiagnosticsLog.txt"))
   on.exit(ParallelLogger::unregisterLogger("DEFAULT"))
 

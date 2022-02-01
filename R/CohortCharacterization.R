@@ -78,7 +78,7 @@ getCohortCharacteristics <- function(connectionDetails = NULL,
   if (!is.null(data$covariates)) {
     counts <- as.numeric(data$covariates$sumValue)
     n <- data$metaData$populationSize
-    binaryCovs <- data.frame(covariateId = data$covariates$covariateId)
+    binaryCovs <- data.frame(covariateId = data$covariates$covariateId,
                              mean = data$covariates$averageValue)
     binaryCovs$sd <- sqrt((n * counts + counts)/(n^2))
     result <- rbind(result, binaryCovs)

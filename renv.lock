@@ -1562,7 +1562,7 @@
 		},
 		"IbdCharacterization" : {
 			"Package" : "IbdCharacterization",
-			"Version" : "1.0",
+			"Version" : "0.5",
 			"Source" : "GitHub",
 			"RemoteType" : "github",
 			"RemoteHost" : "api.github.com",

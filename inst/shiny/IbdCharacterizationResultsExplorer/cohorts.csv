@@ -9,16 +9,6 @@ cohortId,name,atlasId,circeDef
 315,Persons with Crohn's disease with no required prior observation,246,TRUE
 322,Persons with ulcerative colitis with at least 365d prior observation,248,TRUE
 323,Persons with ulcerative colitis with no required prior observation,249,TRUE
-400,Combinations of antibacterials (antibiotics) exposure,193,TRUE
-401,Quinolone (antibiotics) exposure,192,TRUE
-402,Aminoglycoside (antibiotics) exposure,191,TRUE
-403,Macrolides (antibiotics) exposure,188,TRUE
-404,Sulfonamides and trimethoprim (antibiotics) exposure,187,TRUE
-405,Non-penicillin beta-lactam (antibiotics) exposure,189,TRUE
-406,Penicillins (antibiotics) exposure,190,TRUE
-407,Amphenicols (antibiotics) exposure,185,TRUE
-408,Tetracyclines (antibiotics) exposure,186,TRUE
-409,Other antibacterials (antibiotics) exposure,194,TRUE
 450,Irritable bowel syndrome [IBD-OHDSI],368,TRUE
 451,Autoimmune [IBD-OHDSI],119,TRUE
 452,Hypothyroidism [IBD-OHDSI],168,TRUE
@@ -92,14 +82,11 @@ cohortId,name,atlasId,circeDef
 711,Prevalent malignant neoplasm excluding non-melanoma skin cancer [Charybdis],253,TRUE
 712,Lymphoma [IBD-OHDSI],174,TRUE
 713,Non-melanoma skin cancer [IBD-OHDSI],175,TRUE
-750,NSAID exposure [IBD-OHDSI],401,TRUE
 751,Psyllium exposure [IBD-OHDSI],400,TRUE
 752,Mebeverine exposure [IBD-OHDSI],396,TRUE
 753,Peppermint oil exposure [IBD-OHDSI],399,TRUE
 754,Butylscopolamine exposure [IBD-OHDSI],398,TRUE
 755,Alverine exposure [IBD-OHDSI],397,TRUE
-756,Proton-pump inhibitor exposure [IBD-OHDSI],395,TRUE
-757,SSRI exposure [IBD-OHDSI],394,TRUE
 758,"Loperamide, codeine exposure [IBD-OHDSI]",393,TRUE
 800,Suicide and suicidal ideation [Charybdis],252,TRUE
 801,Hospitalization for psychosis [Charybdis],251,TRUE

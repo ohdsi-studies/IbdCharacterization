@@ -1,14 +1,4 @@
 name,atlasName,atlasId,cohortId
-400,[IBD ID193 V1] Combinations of antibacterials (antibiotics) exposure,193,400
-401,[IBD ID192 V1] Quinolone (antibiotics) exposure,192,401
-402,[IBD ID191 V1] Aminoglycoside (antibiotics) exposure,191,402
-403,[IBD ID188 V1] Macrolides (antibiotics) exposure,188,403
-404,[IBD ID187 V1] Sulfonamides and trimethoprim (antibiotics) exposure,187,404
-405,[IBD ID189 V1] Non-penicillin beta-lactam (antibiotics) exposure,189,405
-406,[IBD ID190 V1] Penicillins (antibiotics) exposure,190,406
-407,[IBD ID185 V1] Amphenicols (antibiotics) exposure,185,407
-408,[IBD ID186 V1] Tetracyclines (antibiotics) exposure,186,408
-409,[IBD ID194 V1] Other antibacterials (antibiotics) exposure,194,409
 450,[IBD ID368 V1] Irritable bowel syndrome [IBD-OHDSI],368,450
 451,[IBD ID119 V1] Autoimmune [IBD-OHDSI],119,451
 452,[IBD ID168 V1] Hypothyroidism [IBD-OHDSI],168,452
@@ -82,14 +72,11 @@ name,atlasName,atlasId,cohortId
 711,[IBD ID253 V1] Prevalent malignant neoplasm excluding non-melanoma skin cancer [Charybdis],253,711
 712,[IBD ID174 V1] Lymphoma [IBD-OHDSI],174,712
 713,[IBD ID175 V1] Non-melanoma skin cancer [IBD-OHDSI],175,713
-750,[IBD ID401 V1] NSAID exposure [IBD-OHDSI],401,750
 751,[IBD ID400 V1] Psyllium exposure [IBD-OHDSI],400,751
 752,[IBD ID396 V1] Mebeverine exposure [IBD-OHDSI],396,752
 753,[IBD ID399 V1] Peppermint oil exposure [IBD-OHDSI],399,753
 754,[IBD ID398 V1] Butylscopolamine exposure [IBD-OHDSI],398,754
 755,[IBD ID397 V1] Alverine exposure [IBD-OHDSI],397,755
-756,[IBD ID395 V1] Proton-pump inhibitor exposure [IBD-OHDSI],395,756
-757,[IBD ID394 V1] SSRI exposure [IBD-OHDSI],394,757
 758,"[IBD ID393 V1] Loperamide, codeine exposure [IBD-OHDSI]",393,758
 800,[IBD ID252 V1] Suicide and suicidal ideation [Charybdis],252,800
 801,[IBD ID251 V1] Hospitalization for psychosis [Charybdis],251,801

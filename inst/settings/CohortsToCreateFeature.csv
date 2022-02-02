@@ -1,14 +1,4 @@
 name,atlasName,atlasId,cohortId
-Combinations of antibacterials (antibiotics) exposure,[IBD ID193 V1] Combinations of antibacterials (antibiotics) exposure,193,400
-Quinolone (antibiotics) exposure,[IBD ID192 V1] Quinolone (antibiotics) exposure,192,401
-Aminoglycoside (antibiotics) exposure,[IBD ID191 V1] Aminoglycoside (antibiotics) exposure,191,402
-Macrolides (antibiotics) exposure,[IBD ID188 V1] Macrolides (antibiotics) exposure,188,403
-Sulfonamides and trimethoprim (antibiotics) exposure,[IBD ID187 V1] Sulfonamides and trimethoprim (antibiotics) exposure,187,404
-Non-penicillin beta-lactam (antibiotics) exposure,[IBD ID189 V1] Non-penicillin beta-lactam (antibiotics) exposure,189,405
-Penicillins (antibiotics) exposure,[IBD ID190 V1] Penicillins (antibiotics) exposure,190,406
-Amphenicols (antibiotics) exposure,[IBD ID185 V1] Amphenicols (antibiotics) exposure,185,407
-Tetracyclines (antibiotics) exposure,[IBD ID186 V1] Tetracyclines (antibiotics) exposure,186,408
-Other antibacterials (antibiotics) exposure,[IBD ID194 V1] Other antibacterials (antibiotics) exposure,194,409
 Irritable bowel syndrome [IBD-OHDSI],[IBD ID368 V1] Irritable bowel syndrome [IBD-OHDSI],368,450
 Autoimmune [IBD-OHDSI],[IBD ID119 V1] Autoimmune [IBD-OHDSI],119,451
 Hypothyroidism [IBD-OHDSI],[IBD ID168 V1] Hypothyroidism [IBD-OHDSI],168,452
@@ -82,14 +72,11 @@ Cervical cancer benign [IBD-OHDSI],[IBD ID349 V1] Cervical cancer benign [IBD-OH
 Prevalent malignant neoplasm excluding non-melanoma skin cancer [Charybdis],[IBD ID253 V1] Prevalent malignant neoplasm excluding non-melanoma skin cancer [Charybdis],253,711
 Lymphoma [IBD-OHDSI],[IBD ID174 V1] Lymphoma [IBD-OHDSI],174,712
 Non-melanoma skin cancer [IBD-OHDSI],[IBD ID175 V1] Non-melanoma skin cancer [IBD-OHDSI],175,713
-NSAID exposure [IBD-OHDSI],[IBD ID401 V1] NSAID exposure [IBD-OHDSI],401,750
 Psyllium exposure [IBD-OHDSI],[IBD ID400 V1] Psyllium exposure [IBD-OHDSI],400,751
 Mebeverine exposure [IBD-OHDSI],[IBD ID396 V1] Mebeverine exposure [IBD-OHDSI],396,752
 Peppermint oil exposure [IBD-OHDSI],[IBD ID399 V1] Peppermint oil exposure [IBD-OHDSI],399,753
 Butylscopolamine exposure [IBD-OHDSI],[IBD ID398 V1] Butylscopolamine exposure [IBD-OHDSI],398,754
 Alverine exposure [IBD-OHDSI],[IBD ID397 V1] Alverine exposure [IBD-OHDSI],397,755
-Proton-pump inhibitor exposure [IBD-OHDSI],[IBD ID395 V1] Proton-pump inhibitor exposure [IBD-OHDSI],395,756
-SSRI exposure [IBD-OHDSI],[IBD ID394 V1] SSRI exposure [IBD-OHDSI],394,757
 "Loperamide, codeine exposure [IBD-OHDSI]","[IBD ID393 V1] Loperamide, codeine exposure [IBD-OHDSI]",393,758
 Suicide and suicidal ideation [Charybdis],[IBD ID252 V1] Suicide and suicidal ideation [Charybdis],252,800
 Hospitalization for psychosis [Charybdis],[IBD ID251 V1] Hospitalization for psychosis [Charybdis],251,801

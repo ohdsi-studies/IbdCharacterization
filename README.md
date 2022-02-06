@@ -8,8 +8,8 @@ Characterization of Inflammatory Bowel Disease Patient Cohorts
 - Tags: **OHDSI, IBD, Crohn's disease, Ulcerative colitis**
 - Study lead: **Chen Yanover**
 - Study lead forums tag: **[cyanover](https://forums.ohdsi.org/u/cyanover)**
-- Study start date: **-**
-- Study end date: **-**
+- Study start date: **Mar 1, 2022**
+- Study end date: **Jul 1, 2022**
 - Protocol: **[Word Doc](https://github.com/ohdsi-studies/IbdCharacterization/blob/master/documents/Protocol%20IBD%20Characterisation%20V1.7.docx)**
 - Publications: **-**
 - Results explorer: **-**

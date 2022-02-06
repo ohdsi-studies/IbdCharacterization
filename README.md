@@ -14,33 +14,51 @@ Characterization of Inflammatory Bowel Disease Patient Cohorts
 - Publications: **-**
 - Results explorer: **-**
 
-In this study we will describe the baseline demographic and clinical characteristics, as well as the occurrence of treatments and outcomes of individuals diagnosed with inflammatory bowel disease (IBD) and, specifically, with Crohn’s disease and ulcerative colitis. The analysis package is a near-duplicate of the [CHARYBDIS characterization code](https://github.com/ohdsi-studies/Covid19CharacterizationCharybdis) for SARS-CoV-2 and COVID-19, replacing cohort, staratum, and feature defintions with IBD ones.  
+In this study we will describe the baseline demographic and clinical characteristics, as well as the occurrence of treatments and outcomes of individuals diagnosed with inflammatory bowel disease (IBD) and, specifically, with Crohn’s disease and ulcerative colitis. The analysis package is a near-duplicate of the [CHARYBDIS characterization code](https://github.com/ohdsi-studies/Covid19CharacterizationCharybdis) for SARS-CoV-2 and COVID-19, replacing cohort, stratum, and feature definitions with IBD ones.  
 
 ## Package Requirements
 - A database in [Common Data Model version 5](https://github.com/OHDSI/CommonDataModel) in one of these platforms: SQL Server, Oracle, PostgreSQL, IBM Netezza, Apache Impala, Amazon RedShift, or Microsoft APS.
 - R version 3.5.0 or newer
-- On Windows: [RTools](http://cran.r-project.org/bin/windows/Rtools/)
+- On Windows: [RTools](http://cran.r-project.org/bin/windows/Rtools/) (instructions for [setting up the R environment](https://ohdsi.github.io/Hades/rSetup.html))
 - [Java](http://java.com)
 - Suggested: 25 GB of free disk space
 
-## Installation
-You cam install the IBD characterization package using the following methiods:
-1) Github: 
+## Installing the Package
+Install the IBD characterization package using either of the following methods:
+- **GitHub**: To install the package directly from GitHub (you may need to create a Personal Access Token, see instructions [here](https://ohdsi.github.io/Hades/installingHades.html)), open an `R` or `RStudio` console and run: 
 ````
 install.packages("devtools")
 devtools::install_github("ohdsi-studies/IbdCharacterization")
 ````
-Note: this method directly installs the package in your 
-2) Zip file:
-
-Download the repository [Zip file](https://github.com/ohdsi-studies/IbdCharacterization/archive/master.zip), copy it into your `R`or`RStudio` environment, and unzip it. Doouble 
-
-An example of how to call ZIP files into your `R` environment can be found in the [The Book of OHDSI](https://ohdsi.github.io/TheBookOfOhdsi/PopulationLevelEstimation.html#running-the-study-package).*
-
-
-
-
-
-3) renv: 
+- **Zip file**: To preserve the GitHub directory structure, download the repository [zip file](https://github.com/ohdsi-studies/IbdCharacterization/archive/master.zip), copy it into your `R` or `RStudio` environment, and unzip it. Then double click on IbdCharacterization.Rproj to open it in R Studio, switch to the Build View and hit Install and Restart. For more details, see [The Book of OHDSI](https://ohdsi.github.io/TheBookOfOhdsi/PopulationLevelEstimation.html#running-the-study-package).
+- **renv**: To install the IBD characterization package along with all its dependencies in an encapsulated environment (and leaving your main `R` unchanged), follow the instructions [here](https://github.com/ohdsi-studies/RanitidineCancerRisk/blob/master/StudyPackageSetup.md).
 
 ## Running the Study
+1) Edit `.Renviron` to include the parameters used to connect to your database server (for more information see http://ohdsi.github.io/DatabaseConnector/); for example: 
+````
+DBMS = "postgresql"
+DB_SERVER = "database.server.com"
+DB_PORT = 5432
+DB_USER = "database_user_name "
+DB_PASSWORD = "your_secret_password"
+PATH_TO_DB_DRIVER = "C:\temp\jdbcDrivers"
+````
+
+2) Edit `extras/CodeToRun.R` to show your database info (db ID, name, and description; CDM schema; cohort schema and tables) and output folder location, as follows: 
+```` 
+# Details specific to the database:
+databaseId <- "<dbId>"
+databaseName <- "<dbName>"
+databaseDescription <- "<dbDesc>"
+
+# Details for connecting to the CDM and storing the results
+outputFolder <- file.path("D:/results/IbdCharacterization/Runs", databaseId)
+cdmDatabaseSchema <- "<cdmDbSchema>"
+cohortDatabaseSchema <- "<cohortDbSchema>"
+cohortTable <- paste0("IbdCharacterization_", databaseId)
+cohortStagingTable <- paste0(cohortTable, "_stg")
+featureSummaryTable <- paste0(cohortTable, "_smry")
+````
+3) Run `extras/CodeToRun.R` to first generate diagnostics info for the Crohn's disease and ulcerative colitis cohorts, then extract the characterization statistics. Once done, you can review cohort diagnostics and characterization using the corresponding shiny apps. 
+
+4) Upload the result files to OHDSI SFTP server (more info to come)

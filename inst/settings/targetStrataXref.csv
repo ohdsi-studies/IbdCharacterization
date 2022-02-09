@@ -189,46 +189,56 @@ targetId,strataId,cohortId,cohortType,name
 315,19,315000191,TwS,[KI-IBD] Persons with Crohn's disease with no required prior observation with Index date: 2015-2020
 322,19,322000191,TwS,[KI-IBD] Persons with ulcerative colitis with at least 365d prior observation with Index date: 2015-2020
 323,19,323000191,TwS,[KI-IBD] Persons with ulcerative colitis with no required prior observation with Index date: 2015-2020
-306,20,306000201,TwS,[KI-IBD] Persons with IBD with at least 365d prior observation with Location = England
-307,20,307000201,TwS,[KI-IBD] Persons with IBD with no required prior observation with Location = England
-308,20,308000201,TwS,[KI-IBD] Undetermined IBD (both type-specific codes) with at least 365d prior observation with Location = England
-309,20,309000201,TwS,[KI-IBD] Undetermined IBD (both type-specific codes) with no required prior observation with Location = England
-310,20,310000201,TwS,[KI-IBD] Undetermined IBD (no type-specific codes) with at least 365d prior observation with Location = England
-311,20,311000201,TwS,[KI-IBD] Undetermined IBD (no type-specific codes) with no required prior observation with Location = England
-314,20,314000201,TwS,[KI-IBD] Persons with Crohn's disease with at least 365d prior observation with Location = England
-315,20,315000201,TwS,[KI-IBD] Persons with Crohn's disease with no required prior observation with Location = England
-322,20,322000201,TwS,[KI-IBD] Persons with ulcerative colitis with at least 365d prior observation with Location = England
-323,20,323000201,TwS,[KI-IBD] Persons with ulcerative colitis with no required prior observation with Location = England
-306,21,306000211,TwS,[KI-IBD] Persons with IBD with at least 365d prior observation with Location = Scotland
-307,21,307000211,TwS,[KI-IBD] Persons with IBD with no required prior observation with Location = Scotland
-308,21,308000211,TwS,[KI-IBD] Undetermined IBD (both type-specific codes) with at least 365d prior observation with Location = Scotland
-309,21,309000211,TwS,[KI-IBD] Undetermined IBD (both type-specific codes) with no required prior observation with Location = Scotland
-310,21,310000211,TwS,[KI-IBD] Undetermined IBD (no type-specific codes) with at least 365d prior observation with Location = Scotland
-311,21,311000211,TwS,[KI-IBD] Undetermined IBD (no type-specific codes) with no required prior observation with Location = Scotland
-314,21,314000211,TwS,[KI-IBD] Persons with Crohn's disease with at least 365d prior observation with Location = Scotland
-315,21,315000211,TwS,[KI-IBD] Persons with Crohn's disease with no required prior observation with Location = Scotland
-322,21,322000211,TwS,[KI-IBD] Persons with ulcerative colitis with at least 365d prior observation with Location = Scotland
-323,21,323000211,TwS,[KI-IBD] Persons with ulcerative colitis with no required prior observation with Location = Scotland
-306,22,306000221,TwS,[KI-IBD] Persons with IBD with at least 365d prior observation with Location = Wales
-307,22,307000221,TwS,[KI-IBD] Persons with IBD with no required prior observation with Location = Wales
-308,22,308000221,TwS,[KI-IBD] Undetermined IBD (both type-specific codes) with at least 365d prior observation with Location = Wales
-309,22,309000221,TwS,[KI-IBD] Undetermined IBD (both type-specific codes) with no required prior observation with Location = Wales
-310,22,310000221,TwS,[KI-IBD] Undetermined IBD (no type-specific codes) with at least 365d prior observation with Location = Wales
-311,22,311000221,TwS,[KI-IBD] Undetermined IBD (no type-specific codes) with no required prior observation with Location = Wales
-314,22,314000221,TwS,[KI-IBD] Persons with Crohn's disease with at least 365d prior observation with Location = Wales
-315,22,315000221,TwS,[KI-IBD] Persons with Crohn's disease with no required prior observation with Location = Wales
-322,22,322000221,TwS,[KI-IBD] Persons with ulcerative colitis with at least 365d prior observation with Location = Wales
-323,22,323000221,TwS,[KI-IBD] Persons with ulcerative colitis with no required prior observation with Location = Wales
-306,23,306000231,TwS,[KI-IBD] Persons with IBD with at least 365d prior observation with Location = Northern Ireland
-307,23,307000231,TwS,[KI-IBD] Persons with IBD with no required prior observation with Location = Northern Ireland
-308,23,308000231,TwS,[KI-IBD] Undetermined IBD (both type-specific codes) with at least 365d prior observation with Location = Northern Ireland
-309,23,309000231,TwS,[KI-IBD] Undetermined IBD (both type-specific codes) with no required prior observation with Location = Northern Ireland
-310,23,310000231,TwS,[KI-IBD] Undetermined IBD (no type-specific codes) with at least 365d prior observation with Location = Northern Ireland
-311,23,311000231,TwS,[KI-IBD] Undetermined IBD (no type-specific codes) with no required prior observation with Location = Northern Ireland
-314,23,314000231,TwS,[KI-IBD] Persons with Crohn's disease with at least 365d prior observation with Location = Northern Ireland
-315,23,315000231,TwS,[KI-IBD] Persons with Crohn's disease with no required prior observation with Location = Northern Ireland
-322,23,322000231,TwS,[KI-IBD] Persons with ulcerative colitis with at least 365d prior observation with Location = Northern Ireland
-323,23,323000231,TwS,[KI-IBD] Persons with ulcerative colitis with no required prior observation with Location = Northern Ireland
+306,20,306000201,TwS,[KI-IBD] Persons with IBD with at least 365d prior observation with Index date: 2020-2025
+307,20,307000201,TwS,[KI-IBD] Persons with IBD with no required prior observation with Index date: 2020-2025
+308,20,308000201,TwS,[KI-IBD] Undetermined IBD (both type-specific codes) with at least 365d prior observation with Index date: 2020-2025
+309,20,309000201,TwS,[KI-IBD] Undetermined IBD (both type-specific codes) with no required prior observation with Index date: 2020-2025
+310,20,310000201,TwS,[KI-IBD] Undetermined IBD (no type-specific codes) with at least 365d prior observation with Index date: 2020-2025
+311,20,311000201,TwS,[KI-IBD] Undetermined IBD (no type-specific codes) with no required prior observation with Index date: 2020-2025
+314,20,314000201,TwS,[KI-IBD] Persons with Crohn's disease with at least 365d prior observation with Index date: 2020-2025
+315,20,315000201,TwS,[KI-IBD] Persons with Crohn's disease with no required prior observation with Index date: 2020-2025
+322,20,322000201,TwS,[KI-IBD] Persons with ulcerative colitis with at least 365d prior observation with Index date: 2020-2025
+323,20,323000201,TwS,[KI-IBD] Persons with ulcerative colitis with no required prior observation with Index date: 2020-2025
+306,21,306000211,TwS,[KI-IBD] Persons with IBD with at least 365d prior observation with Location = England
+307,21,307000211,TwS,[KI-IBD] Persons with IBD with no required prior observation with Location = England
+308,21,308000211,TwS,[KI-IBD] Undetermined IBD (both type-specific codes) with at least 365d prior observation with Location = England
+309,21,309000211,TwS,[KI-IBD] Undetermined IBD (both type-specific codes) with no required prior observation with Location = England
+310,21,310000211,TwS,[KI-IBD] Undetermined IBD (no type-specific codes) with at least 365d prior observation with Location = England
+311,21,311000211,TwS,[KI-IBD] Undetermined IBD (no type-specific codes) with no required prior observation with Location = England
+314,21,314000211,TwS,[KI-IBD] Persons with Crohn's disease with at least 365d prior observation with Location = England
+315,21,315000211,TwS,[KI-IBD] Persons with Crohn's disease with no required prior observation with Location = England
+322,21,322000211,TwS,[KI-IBD] Persons with ulcerative colitis with at least 365d prior observation with Location = England
+323,21,323000211,TwS,[KI-IBD] Persons with ulcerative colitis with no required prior observation with Location = England
+306,22,306000221,TwS,[KI-IBD] Persons with IBD with at least 365d prior observation with Location = Scotland
+307,22,307000221,TwS,[KI-IBD] Persons with IBD with no required prior observation with Location = Scotland
+308,22,308000221,TwS,[KI-IBD] Undetermined IBD (both type-specific codes) with at least 365d prior observation with Location = Scotland
+309,22,309000221,TwS,[KI-IBD] Undetermined IBD (both type-specific codes) with no required prior observation with Location = Scotland
+310,22,310000221,TwS,[KI-IBD] Undetermined IBD (no type-specific codes) with at least 365d prior observation with Location = Scotland
+311,22,311000221,TwS,[KI-IBD] Undetermined IBD (no type-specific codes) with no required prior observation with Location = Scotland
+314,22,314000221,TwS,[KI-IBD] Persons with Crohn's disease with at least 365d prior observation with Location = Scotland
+315,22,315000221,TwS,[KI-IBD] Persons with Crohn's disease with no required prior observation with Location = Scotland
+322,22,322000221,TwS,[KI-IBD] Persons with ulcerative colitis with at least 365d prior observation with Location = Scotland
+323,22,323000221,TwS,[KI-IBD] Persons with ulcerative colitis with no required prior observation with Location = Scotland
+306,23,306000231,TwS,[KI-IBD] Persons with IBD with at least 365d prior observation with Location = Wales
+307,23,307000231,TwS,[KI-IBD] Persons with IBD with no required prior observation with Location = Wales
+308,23,308000231,TwS,[KI-IBD] Undetermined IBD (both type-specific codes) with at least 365d prior observation with Location = Wales
+309,23,309000231,TwS,[KI-IBD] Undetermined IBD (both type-specific codes) with no required prior observation with Location = Wales
+310,23,310000231,TwS,[KI-IBD] Undetermined IBD (no type-specific codes) with at least 365d prior observation with Location = Wales
+311,23,311000231,TwS,[KI-IBD] Undetermined IBD (no type-specific codes) with no required prior observation with Location = Wales
+314,23,314000231,TwS,[KI-IBD] Persons with Crohn's disease with at least 365d prior observation with Location = Wales
+315,23,315000231,TwS,[KI-IBD] Persons with Crohn's disease with no required prior observation with Location = Wales
+322,23,322000231,TwS,[KI-IBD] Persons with ulcerative colitis with at least 365d prior observation with Location = Wales
+323,23,323000231,TwS,[KI-IBD] Persons with ulcerative colitis with no required prior observation with Location = Wales
+306,24,306000241,TwS,[KI-IBD] Persons with IBD with at least 365d prior observation with Location = Northern Ireland
+307,24,307000241,TwS,[KI-IBD] Persons with IBD with no required prior observation with Location = Northern Ireland
+308,24,308000241,TwS,[KI-IBD] Undetermined IBD (both type-specific codes) with at least 365d prior observation with Location = Northern Ireland
+309,24,309000241,TwS,[KI-IBD] Undetermined IBD (both type-specific codes) with no required prior observation with Location = Northern Ireland
+310,24,310000241,TwS,[KI-IBD] Undetermined IBD (no type-specific codes) with at least 365d prior observation with Location = Northern Ireland
+311,24,311000241,TwS,[KI-IBD] Undetermined IBD (no type-specific codes) with no required prior observation with Location = Northern Ireland
+314,24,314000241,TwS,[KI-IBD] Persons with Crohn's disease with at least 365d prior observation with Location = Northern Ireland
+315,24,315000241,TwS,[KI-IBD] Persons with Crohn's disease with no required prior observation with Location = Northern Ireland
+322,24,322000241,TwS,[KI-IBD] Persons with ulcerative colitis with at least 365d prior observation with Location = Northern Ireland
+323,24,323000241,TwS,[KI-IBD] Persons with ulcerative colitis with no required prior observation with Location = Northern Ireland
 306,200,306002001,TwS,[KI-IBD] Persons with IBD with at least 365d prior observation with Pregnant women
 307,200,307002001,TwS,[KI-IBD] Persons with IBD with no required prior observation with Pregnant women
 308,200,308002001,TwS,[KI-IBD] Undetermined IBD (both type-specific codes) with at least 365d prior observation with Pregnant women

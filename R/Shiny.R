@@ -58,63 +58,45 @@ preMergeDiagnosticsFiles <- function(dataFolder) {
     data <- readr::read_csv(file.path(folder, file), col_types = readr::cols(), guess_max = 1e7, locale = readr::locale(encoding = "UTF-8"))
     colnames(data) <- SqlRender::snakeCaseToCamelCase(colnames(data))
     
-    # HACK ALERT - Remap databaseId == deid_lite to STARR-OMOP
-    if (any(colnames(data) == 'databaseId')) {
-      if (tolower(unique(data$databaseId)) == "deid_lite") {
-        data$databaseId <- "STARR-OMOP"
-      }
+    if (!is.na(match("cohortId", colnames(data)))) {
+      data$cohortId <- as.double(data$cohortId)
+    }
+    if (!is.na(match("cohortEntries", colnames(data)))) {
+      data$cohortEntries <- as.integer(data$cohortEntries)
+    }
+    if (!is.na(match("cohortSubjects", colnames(data)))) {
+      data$cohortSubjects <- as.integer(data$cohortSubjects)
+    }
+    if (!is.na(match("conceptSetId", colnames(data)))) {
+      data$conceptSetId <- as.integer(data$conceptSetId)
+    }
+    if (!is.na(match("conceptId", colnames(data)))) {
+      data$conceptId <- as.integer(data$conceptId)
+    }
+    if (!is.na(match("sourceConceptId", colnames(data)))) {
+      data$sourceConceptId <- as.integer(data$sourceConceptId)
+    }
+    if (!is.na(match("conceptSubjects", colnames(data)))) {
+      data$conceptSubjects <- as.integer(data$conceptSubjects)
+    }
+    if (!is.na(match("conceptCount", colnames(data)))) {
+      data$conceptCount <- as.integer(data$conceptCount)
+    }
+    if (!is.na(match("conceptCode", colnames(data)))) {
+      data$conceptCode <- as.character(data$conceptCode)
+    }
+    if (!is.na(match("vocabularyVersionCdm", colnames(data)))) {
+      data$vocabularyVersionCdm <- as.character(data$vocabularyVersionCdm)
     }
     
     if (!overwrite && exists(camelCaseName, envir = .GlobalEnv)) {
       existingData <- get(camelCaseName, envir = .GlobalEnv)
       if (nrow(existingData) > 0) {
         if (nrow(data) > 0) {
-          #if (all(colnames(existingData) %in% colnames(data)) #&&
-          #all(colnames(data) %in% colnames(existingData))
-          #    ) {
-          
           # Use the intersection of names to subset the data
           commonColumns <- intersect(colnames(existingData), colnames(data))
           data <- data[, commonColumns]
-          #data <- data[, colnames(existingData)]
-          #} else {
-          #  stop("Table columns do no match previously seen columns. Columns in ", 
-          #       file, 
-          #       ":\n", 
-          #       paste(colnames(data), collapse = ", "), 
-          #       "\nPrevious columns:\n",
-          #       paste(colnames(existingData), collapse = ", "))
-          #  
-          #}
         }
-      }
-      #data <- rbind(existingData, data)
-      if (!is.na(match("cohortId", colnames(data)))) {
-        data$cohortId <- as.integer(data$cohortId)
-      }
-      if (!is.na(match("cohortEntries", colnames(data)))) {
-        data$cohortEntries <- as.integer(data$cohortEntries)
-      }
-      if (!is.na(match("cohortSubjects", colnames(data)))) {
-        data$cohortSubjects <- as.integer(data$cohortSubjects)
-      }
-      if (!is.na(match("conceptSetId", colnames(data)))) {
-        data$conceptSetId <- as.integer(data$conceptSetId)
-      }
-      if (!is.na(match("conceptId", colnames(data)))) {
-        data$conceptId <- as.integer(data$conceptId)
-      }
-      if (!is.na(match("sourceConceptId", colnames(data)))) {
-        data$sourceConceptId <- as.integer(data$sourceConceptId)
-      }
-      if (!is.na(match("conceptSubjects", colnames(data)))) {
-        data$conceptSubjects <- as.integer(data$conceptSubjects)
-      }
-      if (!is.na(match("conceptCount", colnames(data)))) {
-        data$conceptCount <- as.integer(data$conceptCount)
-      }
-      if (!is.na(match("conceptCode", colnames(data)))) {
-        data$conceptCode <- as.character(data$conceptCode)
       }
       
       data <- dplyr::bind_rows(existingData, data)
@@ -123,6 +105,7 @@ preMergeDiagnosticsFiles <- function(dataFolder) {
     
     invisible(NULL)
   }
+  
   tableNames <- c()
   for (i in 1:length(zipFiles)) {
     writeLines(paste("Processing", zipFiles[i]))
@@ -202,6 +185,7 @@ preMergeResultsFiles <- function(dataFolder) {
     
     invisible(NULL)
   }
+  
   tableNames <- c()
   for (i in 1:length(zipFiles)) {
     writeLines(paste("Processing", zipFiles[i]))

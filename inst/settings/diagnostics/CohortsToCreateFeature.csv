@@ -58,6 +58,10 @@ name,atlasName,atlasId,cohortId
 652,[IBD ID388 V1] Low serum albumin level [IBD-OHDSI],388,652
 653,[IBD ID156 V1] Anemia [IBD-OHDSI],156,653
 654,[IBD ID307 V1] Iron deficiency anemia [IBD-OHDSI],307,654
+655,[IBD ID307 V1] High calprotectin level [IBD-OHDSI],565,655
+656,[IBD ID307 V1] Abnormal CRP level [IBD-OHDSI],572,656
+657,[IBD ID307 V1] High CRP level [IBD-OHDSI],573,657
+658,"[IBD ID307 V1] Abnormal ESR, pediatric [IBD-OHDSI]",575,658
 700,[IBD ID353 V1] Colon cancer benign [IBD-OHDSI],353,700
 701,[IBD ID351 V1] Cervical cancer malignant [IBD-OHDSI],351,701
 702,[IBD ID360 V1] Melanoma [IBD-OHDSI],360,702

@@ -11366,7 +11366,7 @@
 	},
 	"InclusionRules" : [
 		{
-			"name" : "At least 1 outcome 1 day after or end of observation before end of pregnancy post-2020",
+			"name" : "At least 1 outcome 1 day after or end of observation",
 			"expression" : {
 				"Type" : "ANY",
 				"CriteriaList" : [

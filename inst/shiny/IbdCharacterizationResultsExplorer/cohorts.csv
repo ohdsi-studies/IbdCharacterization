@@ -42,7 +42,7 @@ cohortId,name,atlasId,circeDef
 555,Abnormal weight loss [IBD OHDSI],1776687,TRUE
 556,Anorectal fistula [IBD-OHDSI],1777406,TRUE
 557,Death [Charybdis],1777405,TRUE
-558,Hospitalization [Charybdis],1778847 ,TRUE
+558,Hospitalization [Charybdis],1778847,TRUE
 559,Low bone density [IBD-OHDSI],1776689,TRUE
 561,Colectomy present [IBD-OHDSI],1776651,TRUE
 562,Ileostomy present [IBD-OHDSI],1776653,TRUE
@@ -73,6 +73,10 @@ cohortId,name,atlasId,circeDef
 652,Low serum albumin level [IBD-OHDSI],1777414,TRUE
 653,Anemia [IBD-OHDSI],1776686,TRUE
 654,Iron deficiency anemia [IBD-OHDSI],1777413,TRUE
+655,High calprotectin level [IBD-OHDSI],1779150,TRUE
+656,Abnormal CRP level [IBD-OHDSI],1779148,TRUE
+657,High CRP level [IBD-OHDSI],1779149,TRUE
+658,"Abnormal ESR, pediatric [IBD-OHDSI]",1779151,TRUE
 700,Colon cancer benign [IBD-OHDSI],1777420,TRUE
 701,Cervical cancer malignant [IBD-OHDSI],1777418,TRUE
 702,Melanoma [IBD-OHDSI],1777427,TRUE
@@ -93,8 +97,8 @@ cohortId,name,atlasId,circeDef
 754,Butylscopolamine exposure [IBD-OHDSI],1777433,TRUE
 755,Alverine exposure [IBD-OHDSI],1777432,TRUE
 758,"Loperamide, codeine exposure [IBD-OHDSI]",1777428,TRUE
-800,Suicide and suicidal ideation [Charybdis],1778845 ,TRUE
-801,Hospitalization for psychosis [Charybdis],1778844 ,TRUE
+800,Suicide and suicidal ideation [Charybdis],1778845,TRUE
+801,Hospitalization for psychosis [Charybdis],1778844,TRUE
 802,Anxiety [IBD-OHDSI],1776667,TRUE
 803,Depression [IBD-OHDSI],1776666,TRUE
 804,Stress [IBD OHDSI],1776668,TRUE

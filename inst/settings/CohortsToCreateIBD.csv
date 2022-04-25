@@ -1,7 +1,7 @@
 name,atlasName,atlasId,cohortId
-[KI-IBD] Persons with IBD with at least 365d prior observation,"[IBD ID243 V1] IBD, incidence cohort [OHDSI]",243,306
-[KI-IBD] Persons with IBD with no required prior observation,"[IBD ID244 V1] IBD, prevalence cohort [OHDSI]",244,307
-[KI-IBD] Undetermined IBD (both type-specific codes) with at least 365d prior observation,[IBD ID362 V1] IBD-U both disease codes incidence cohort [OHDSI],362,308
-[KI-IBD] Undetermined IBD (both type-specific codes) with no required prior observation,[IBD ID414 V1] IBD-U both disease codes prevalence cohort [OHDSI],414,309
-[KI-IBD] Undetermined IBD (no type-specific codes) with at least 365d prior observation,"[IBD ID363 V1] IBD-U no disease code, incidence cohort [OHDSI]",363,310
-[KI-IBD] Undetermined IBD (no type-specific codes) with no required prior observation,"[IBD ID413 V1] IBD-U no disease code, prevalence cohort [OHDSI]",413,311
+[KI-IBD] Persons with IBD with at least 365d prior observation,"[IBD ID243 V1] IBD, incidence cohort [OHDSI]",1776609,306
+[KI-IBD] Persons with IBD with no required prior observation,"[IBD ID244 V1] IBD, prevalence cohort [OHDSI]",1776610,307
+[KI-IBD] Undetermined IBD (both type-specific codes) with at least 365d prior observation,[IBD ID362 V1] IBD-U both disease codes incidence cohort [OHDSI],1777395,308
+[KI-IBD] Undetermined IBD (both type-specific codes) with no required prior observation,[IBD ID414 V1] IBD-U both disease codes prevalence cohort [OHDSI],1777396,309
+[KI-IBD] Undetermined IBD (no type-specific codes) with at least 365d prior observation,"[IBD ID363 V1] IBD-U no disease code, incidence cohort [OHDSI]",1777393,310
+[KI-IBD] Undetermined IBD (no type-specific codes) with no required prior observation,"[IBD ID413 V1] IBD-U no disease code, prevalence cohort [OHDSI]",1777394,311

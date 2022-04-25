@@ -1,6 +1,6 @@
 name,atlasName,atlasId,cohortId
-Pregnant women,[IBD ID209 V1] Pregnancy [OHDSI],209,200
-Overweight,[IBD ID154 V1] Overweight [IBD OHDSI],154,201
-Underweight,[IBD ID155 V1] Underweight [IBD OHDSI],155,202
-Normal weight,[IBD ID195 V1] Normal weight [IBD-OHDSI],195,203
-Prevalent obesity,[IBD ID45 v1] Prevalent obesity,45,204
+Pregnant women,[IBD ID209 V1] Pregnancy [OHDSI],1776627,200
+Overweight,[IBD ID154 V1] Overweight [IBD OHDSI],1776629,201
+Underweight,[IBD ID155 V1] Underweight [IBD OHDSI],1776631,202
+Normal weight,[IBD ID195 V1] Normal weight [IBD-OHDSI],1776630,203
+Prevalent obesity,[IBD ID45 v1] Prevalent obesity,1776628,204

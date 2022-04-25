@@ -1,108 +1,108 @@
 name,atlasName,atlasId,cohortId
-450,[IBD ID368 V1] Irritable bowel syndrome [IBD-OHDSI],368,450
-451,[IBD ID119 V1] Autoimmune [IBD-OHDSI],119,451
-452,[IBD ID168 V1] Hypothyroidism [IBD-OHDSI],168,452
-453,[IBD ID151 V1] Alcohol misuse or dependence [IBD OHDSI],151,453
-455,[IBD ID213 V1] Hashimoto thyroiditis [IBD-OHDSI],213,455
-456,[IBD ID212 V1] Vitiligo [IBD-OHDSI],212,456
-457,[IBD ID211 V1] Grave's disease [IBD-OHDSI],211,457
-458,[IBD ID123 V1] Celiac disease [IBD-OHDSI],123,458
-459,[IBD ID122 V1] Rheumatoid arthritis [IBD-OHDSI],122,459
-460,[IBD ID121 V1] Type 1 diabetes mellitus [IBD-OHDSI],121,460
-461,[IBD ID117 V1] Prevalent Type 2 Diabetes Mellitus [Charybdis],117,461
-500,[IBD ID306 V1] Arthritis [IBD-OHDSI],306,500
-501,[IBD ID314 V1] Arthralgia [IBD-OHDSI],314,501
-502,[IBD ID312 V1] Pyoderma gangrenosum [IBD-OHDSI],312,502
-503,[IBD ID311 V1] Erythema nodosuma [IBD-OHDSI],311,503
-504,[IBD ID310 V1] Uveitis [IBD-OHDSI],310,504
-505,[IBD ID167 V1] EIM liver [IBD-OHDSI],167,505
-506,[IBD ID166 V1] EIM eyes [IBD-OHDSI],166,506
-507,[IBD ID165 V1] EIM skin [IBD-OHDSI],165,507
-508,[IBD ID164 V1] EIM Axial arthritis [IBD-OHDSI],164,508
-509,[IBD ID163 V1] EIM Peripheral arthritis [IBD-OHDSI],163,509
-510,[IBD ID176 V1] Perianal disease [IBD-OHDSI],176,510
-550,[IBD ID389 V1] Stricturing [IBD-OHDSI],389,550
-552,[IBD ID386 V1] Penetrating IBD [IBD-OHDSI],386,552
-554,[IBD ID348 V1] Growth failure [IBD OHDSI],348,554
-555,[IBD ID159 V1] Abnormal weight loss [IBD OHDSI],159,555
-556,[IBD ID304 V1] Anorectal fistula [IBD-OHDSI],304,556
-557,[IBD ID52 V1] Death [Charybdis],52,557
-558,[IBD ID149 V1] Hospitalization [Charybdis],149,558
-559,[IBD ID196 V1] Low bone density [IBD-OHDSI],196,559
-561,[IBD ID105 V1] Colectomy present [IBD-OHDSI],105,561
-562,[IBD ID107 V1] Ileostomy present [IBD-OHDSI],107,562
-563,[IBD ID103 V1] Colostomy present [IBD-OHDSI],103,563
-564,[IBD ID173 V1] Drainage of intra-abdominal abscess [IBD-OHDSI],173,564
-565,[IBD ID172 V1] Drainage of perianal abscess [IBD-OHDSI],172,565
-566,[IBD ID171 V1] Balloon dilation [IBD-OHDSI],171,566
-567,[IBD ID170 V1] Strictureplasty [IBD-OHDSI],170,567
-568,[IBD ID169 V1] Small intestinal resection [IBD-OHDSI],169,568
-569,[IBD ID109 V1] Intestinal obstrution [IBD-OHDSI],109,569
-570,[IBD ID421 V1] Gastrointestinal stenosis [IBD-OHDSI],421,570
-571,[IBD ID102 V1] Colostomy procedure [IBD-OHDSI],102,571
-572,[IBD ID104 V1] Colectomy procedure [IBD-OHDSI],104,572
-573,[IBD ID106 V1] Ileostomy procedure [IBD-OHDSI],106,573
-600,[IBD ID319 V1] JAK inhibitors [IBD-OHDSI],319,600
-601,[IBD ID316 V1] TNF-alpha inhibitors [IBD-OHDSI],316,601
-602,"[IBD ID318 V1] Interleukin 12, 23 inhibitors [IBD-OHDSI]",318,602
-603,[IBD ID317 V1] Anti-migration immunosuppressants [IBD-OHDSI],317,603
-604,[IBD ID179 V1] IBD antibiotics exposure [IBD-OHDSI],179,604
-605,[IBD ID145 V1] IBD steroid (broad) exposure [IBD-OHDSI],145,605
-606,[IBD ID118 V1] Modulen exposure [OHDSI],118,606
-607,[IBD ID99 V1] IBD steroid exposure [OHDSI],99,607
-608,[IBD ID98 V1] IBD biologics exposure [OHDSI],98,608
-609,[IBD ID97 V1] 5-ASA exposure [OHDSI],97,609
-610,[IBD ID96 V1] Immunomodulator exposure [OHDSI],96,610
-650,[IBD ID392 V1] Low hemoglobin level [IBD-OHDSI],392,650
-651,[IBD ID391 V1] Low platelet count [IBD-OHDSI],391,651
-652,[IBD ID388 V1] Low serum albumin level [IBD-OHDSI],388,652
-653,[IBD ID156 V1] Anemia [IBD-OHDSI],156,653
-654,[IBD ID307 V1] Iron deficiency anemia [IBD-OHDSI],307,654
-655,[IBD ID307 V1] High calprotectin level [IBD-OHDSI],565,655
-656,[IBD ID307 V1] Abnormal CRP level [IBD-OHDSI],572,656
-657,[IBD ID307 V1] High CRP level [IBD-OHDSI],573,657
-658,"[IBD ID307 V1] Abnormal ESR, pediatric [IBD-OHDSI]",575,658
-700,[IBD ID353 V1] Colon cancer benign [IBD-OHDSI],353,700
-701,[IBD ID351 V1] Cervical cancer malignant [IBD-OHDSI],351,701
-702,[IBD ID360 V1] Melanoma [IBD-OHDSI],360,702
-703,[IBD ID359 V1] Cholangiocarcinoma [IBD-OHDSI],359,703
-704,[IBD ID356 V1] Anal carcinoma [IBD-OHDSI],356,704
-705,[IBD ID358 V1] Urinary tract neoplasm malignant [IBD-OHDSI],358,705
-706,[IBD ID357 V1] Urinary tract neoplasm benign [IBD-OHDSI],357,706
-707,[IBD ID355 V1] Small bowel carcinoma [IBD-OHDSI],355,707
-708,[IBD ID354 V1] Colon cancer malignant [IBD-OHDSI],354,708
-709,[IBD ID352 V1] Lung cancer malignant [IBD-OHDSI],352,709
-710,[IBD ID349 V1] Cervical cancer benign [IBD-OHDSI],349,710
-711,[IBD ID253 V1] Prevalent malignant neoplasm excluding non-melanoma skin cancer [Charybdis],253,711
-712,[IBD ID174 V1] Lymphoma [IBD-OHDSI],174,712
-713,[IBD ID175 V1] Non-melanoma skin cancer [IBD-OHDSI],175,713
-751,[IBD ID400 V1] Psyllium exposure [IBD-OHDSI],400,751
-752,[IBD ID396 V1] Mebeverine exposure [IBD-OHDSI],396,752
-753,[IBD ID399 V1] Peppermint oil exposure [IBD-OHDSI],399,753
-754,[IBD ID398 V1] Butylscopolamine exposure [IBD-OHDSI],398,754
-755,[IBD ID397 V1] Alverine exposure [IBD-OHDSI],397,755
-758,"[IBD ID393 V1] Loperamide, codeine exposure [IBD-OHDSI]",393,758
-800,[IBD ID252 V1] Suicide and suicidal ideation [Charybdis],252,800
-801,[IBD ID251 V1] Hospitalization for psychosis [Charybdis],251,801
-802,[IBD ID148 V1] Anxiety [IBD-OHDSI],148,802
-803,[IBD ID147 V1] Depression [IBD-OHDSI],147,803
-804,[IBD ID153 V1] Stress [IBD OHDSI],153,804
-850,[IBD ID114 V1] Family history IBD [IBD-OHDSI],114,850
-851,[IBD ID115 V1] Smoking [IBD-OHDSI],115,851
-853,[IBD ID120 V1] Appendectomy procedure [IBD-OHDSI],120,853
-900,[IBD ID369 V1] Bloating [IBD-OHDSI],369,900
-901,[IBD ID308 V1] Rectal bleeding [IBD-OHDSI],308,901
-902,[IBD ID313 V1] Aphthae [IBD-OHDSI],313,902
-903,[IBD ID309 V1] Bloody diarrhea [IBD-OHDSI],309,903
-904,[IBD ID303 V1] Abdominal pain [IBD-OHDSI],303,904
-905,[IBD ID302 V1] Diarrhea [IBD-OHDSI],302,905
-906,[IBD ID250 V1] Gastrointestinal bleeding events [Charybdis],250,906
-950,[IBD ID300 V1] Shingles vaccine [IBD-OHDSI],300,950
-951,[IBD ID299 V1] MMR vaccine [IBD-OHDSI],299,951
-952,[IBD ID298 V1] HPV vaccine [IBD-OHDSI],298,952
-953,[IBD ID297 V1] Diphtheria and Pertussis vaccine [IBD-OHDSI],297,953
-954,[IBD ID295 V1] Hepatitis B vaccine [IBD-OHDSI],295,954
-955,[IBD ID292 V1] Pneumococcal vaccines [IBD-OHDSI],292,955
-956,[IBD ID294 V1] Prevnar 13 [IBD-OHDSI],294,956
-957,[IBD ID293 V1] Pneumovax 23 [IBD-OHDSI],293,957
-958,[IBD ID296 V1] Influenza vaccine [IBD-OHDSI],296,958
+450,[IBD ID368 V1] Irritable bowel syndrome [IBD-OHDSI],1777399,450
+451,[IBD ID119 V1] Autoimmune [IBD-OHDSI],1777398,451
+452,[IBD ID168 V1] Hypothyroidism [IBD-OHDSI],1776688,452
+453,[IBD ID151 V1] Alcohol misuse or dependence [IBD OHDSI],1776670,453
+455,[IBD ID213 V1] Hashimoto thyroiditis [IBD-OHDSI],1779160,455
+456,[IBD ID212 V1] Vitiligo [IBD-OHDSI],1776676,456
+457,[IBD ID211 V1] Grave's disease [IBD-OHDSI],1776675,457
+458,[IBD ID123 V1] Celiac disease [IBD-OHDSI],1776673,458
+459,[IBD ID122 V1] Rheumatoid arthritis [IBD-OHDSI],1776672,459
+460,[IBD ID121 V1] Type 1 diabetes mellitus [IBD-OHDSI],1776671,460
+461,[IBD ID117 V1] Prevalent Type 2 Diabetes Mellitus [Charybdis],1777397,461
+500,[IBD ID306 V1] Arthritis [IBD-OHDSI],1777400,500
+501,[IBD ID314 V1] Arthralgia [IBD-OHDSI],1777404,501
+502,[IBD ID312 V1] Pyoderma gangrenosum [IBD-OHDSI],1777403,502
+503,[IBD ID311 V1] Erythema nodosuma [IBD-OHDSI],1777402,503
+504,[IBD ID310 V1] Uveitis [IBD-OHDSI],1777401,504
+505,[IBD ID167 V1] EIM liver [IBD-OHDSI],1776682,505
+506,[IBD ID166 V1] EIM eyes [IBD-OHDSI],1776681,506
+507,[IBD ID165 V1] EIM skin [IBD-OHDSI],1776680,507
+508,[IBD ID164 V1] EIM Axial arthritis [IBD-OHDSI],1776679,508
+509,[IBD ID163 V1] EIM Peripheral arthritis [IBD-OHDSI],1776678,509
+510,[IBD ID176 V1] Perianal disease [IBD-OHDSI],1776683,510
+550,[IBD ID389 V1] Stricturing [IBD-OHDSI],1778295,550
+552,[IBD ID386 V1] Penetrating IBD [IBD-OHDSI],1777408,552
+554,[IBD ID348 V1] Growth failure [IBD OHDSI],1777407,554
+555,[IBD ID159 V1] Abnormal weight loss [IBD OHDSI],1776687,555
+556,[IBD ID304 V1] Anorectal fistula [IBD-OHDSI],1777406,556
+557,[IBD ID52 V1] Death [Charybdis],1777405,557
+558,[IBD ID149 V1] Hospitalization [Charybdis],1778847,558
+559,[IBD ID196 V1] Low bone density [IBD-OHDSI],1776689,559
+561,[IBD ID105 V1] Colectomy present [IBD-OHDSI],1776651,561
+562,[IBD ID107 V1] Ileostomy present [IBD-OHDSI],1776653,562
+563,[IBD ID103 V1] Colostomy present [IBD-OHDSI],1776649,563
+564,[IBD ID173 V1] Drainage of intra-abdominal abscess [IBD-OHDSI],1776661,564
+565,[IBD ID172 V1] Drainage of perianal abscess [IBD-OHDSI],1776660,565
+566,[IBD ID171 V1] Balloon dilation [IBD-OHDSI],1776659,566
+567,[IBD ID170 V1] Strictureplasty [IBD-OHDSI],1776658,567
+568,[IBD ID169 V1] Small intestinal resection [IBD-OHDSI],1776657,568
+569,[IBD ID109 V1] Intestinal obstrution [IBD-OHDSI],1776655,569
+570,[IBD ID421 V1] Gastrointestinal stenosis [IBD-OHDSI],1776654,570
+571,[IBD ID102 V1] Colostomy procedure [IBD-OHDSI],1776648,571
+572,[IBD ID104 V1] Colectomy procedure [IBD-OHDSI],1776650,572
+573,[IBD ID106 V1] Ileostomy procedure [IBD-OHDSI],1776652,573
+600,[IBD ID319 V1] JAK inhibitors [IBD-OHDSI],1777412,600
+601,[IBD ID316 V1] TNF-alpha inhibitors [IBD-OHDSI],1777409,601
+602,"[IBD ID318 V1] Interleukin 12, 23 inhibitors [IBD-OHDSI]",1777411,602
+603,[IBD ID317 V1] Anti-migration immunosuppressants [IBD-OHDSI],1777410,603
+604,[IBD ID179 V1] IBD antibiotics exposure [IBD-OHDSI],1776638,604
+605,[IBD ID145 V1] IBD steroid (broad) exposure [IBD-OHDSI],1776637,605
+606,[IBD ID118 V1] Modulen exposure [OHDSI],1776636,606
+607,[IBD ID99 V1] IBD steroid exposure [OHDSI],1776635,607
+608,[IBD ID98 V1] IBD biologics exposure [OHDSI],1776634,608
+609,[IBD ID97 V1] 5-ASA exposure [OHDSI],1776633,609
+610,[IBD ID96 V1] Immunomodulator exposure [OHDSI],1776632,610
+650,[IBD ID392 V1] Low hemoglobin level [IBD-OHDSI],1777416,650
+651,[IBD ID391 V1] Low platelet count [IBD-OHDSI],1777415,651
+652,[IBD ID388 V1] Low serum albumin level [IBD-OHDSI],1777414,652
+653,[IBD ID156 V1] Anemia [IBD-OHDSI],1776686,653
+654,[IBD ID307 V1] Iron deficiency anemia [IBD-OHDSI],1777413,654
+655,[IBD ID307 V1] High calprotectin level [IBD-OHDSI],1779150,655
+656,[IBD ID307 V1] Abnormal CRP level [IBD-OHDSI],1779148,656
+657,[IBD ID307 V1] High CRP level [IBD-OHDSI],1779149,657
+658,"[IBD ID307 V1] Abnormal ESR, pediatric [IBD-OHDSI]",1779151,658
+700,[IBD ID353 V1] Colon cancer benign [IBD-OHDSI],1777420,700
+701,[IBD ID351 V1] Cervical cancer malignant [IBD-OHDSI],1777418,701
+702,[IBD ID360 V1] Melanoma [IBD-OHDSI],1777427,702
+703,[IBD ID359 V1] Cholangiocarcinoma [IBD-OHDSI],1777426,703
+704,[IBD ID356 V1] Anal carcinoma [IBD-OHDSI],1777423,704
+705,[IBD ID358 V1] Urinary tract neoplasm malignant [IBD-OHDSI],1777425,705
+706,[IBD ID357 V1] Urinary tract neoplasm benign [IBD-OHDSI],1777424,706
+707,[IBD ID355 V1] Small bowel carcinoma [IBD-OHDSI],1777422,707
+708,[IBD ID354 V1] Colon cancer malignant [IBD-OHDSI],1777421,708
+709,[IBD ID352 V1] Lung cancer malignant [IBD-OHDSI],1777419,709
+710,[IBD ID349 V1] Cervical cancer benign [IBD-OHDSI],1777417,710
+711,[IBD ID253 V1] Prevalent malignant neoplasm excluding non-melanoma skin cancer [Charybdis],1778843,711
+712,[IBD ID174 V1] Lymphoma [IBD-OHDSI],1776685,712
+713,[IBD ID175 V1] Non-melanoma skin cancer [IBD-OHDSI],1776684,713
+751,[IBD ID400 V1] Psyllium exposure [IBD-OHDSI],1777435,751
+752,[IBD ID396 V1] Mebeverine exposure [IBD-OHDSI],1777431,752
+753,[IBD ID399 V1] Peppermint oil exposure [IBD-OHDSI],1777434,753
+754,[IBD ID398 V1] Butylscopolamine exposure [IBD-OHDSI],1777433,754
+755,[IBD ID397 V1] Alverine exposure [IBD-OHDSI],1777432,755
+758,"[IBD ID393 V1] Loperamide, codeine exposure [IBD-OHDSI]",1777428,758
+800,[IBD ID252 V1] Suicide and suicidal ideation [Charybdis],1778845,800
+801,[IBD ID251 V1] Hospitalization for psychosis [Charybdis],1778844,801
+802,[IBD ID148 V1] Anxiety [IBD-OHDSI],1776667,802
+803,[IBD ID147 V1] Depression [IBD-OHDSI],1776666,803
+804,[IBD ID153 V1] Stress [IBD OHDSI],1776668,804
+850,[IBD ID114 V1] Family history IBD [IBD-OHDSI],1776674,850
+851,[IBD ID115 V1] Smoking [IBD-OHDSI],1776669,851
+853,[IBD ID120 V1] Appendectomy procedure [IBD-OHDSI],1776656,853
+900,[IBD ID369 V1] Bloating [IBD-OHDSI],1777442,900
+901,[IBD ID308 V1] Rectal bleeding [IBD-OHDSI],1777439,901
+902,[IBD ID313 V1] Aphthae [IBD-OHDSI],1777441,902
+903,[IBD ID309 V1] Bloody diarrhea [IBD-OHDSI],1777440,903
+904,[IBD ID303 V1] Abdominal pain [IBD-OHDSI],1777438,904
+905,[IBD ID302 V1] Diarrhea [IBD-OHDSI],1777437,905
+906,[IBD ID250 V1] Gastrointestinal bleeding events [Charybdis],1778846,906
+950,[IBD ID300 V1] Shingles vaccine [IBD-OHDSI],1777451,950
+951,[IBD ID299 V1] MMR vaccine [IBD-OHDSI],1777450,951
+952,[IBD ID298 V1] HPV vaccine [IBD-OHDSI],1777449,952
+953,[IBD ID297 V1] Diphtheria and Pertussis vaccine [IBD-OHDSI],1777448,953
+954,[IBD ID295 V1] Hepatitis B vaccine [IBD-OHDSI],1777446,954
+955,[IBD ID292 V1] Pneumococcal vaccines [IBD-OHDSI],1777443,955
+956,[IBD ID294 V1] Prevnar 13 [IBD-OHDSI],1777445,956
+957,[IBD ID293 V1] Pneumovax 23 [IBD-OHDSI],1777444,957
+958,[IBD ID296 V1] Influenza vaccine [IBD-OHDSI],1777447,958

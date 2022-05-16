@@ -3,9 +3,9 @@
 	"PrimaryCriteria" : {
 		"CriteriaList" : [
 			{
-				"ProcedureOccurrence" : {
-					"CodesetId" : 2,
-					"ProcedureTypeExclude" : false
+				"DrugExposure" : {
+					"CodesetId" : 0,
+					"DrugTypeExclude" : false
 				}
 			}
 		],
@@ -19,22 +19,22 @@
 	},
 	"ConceptSets" : [
 		{
-			"id" : 2,
-			"name" : "Colectomy procedure [OHDSI]",
+			"id" : 0,
+			"name" : "Systemic IBD steroids",
 			"expression" : {
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 37521041,
-							"CONCEPT_NAME" : "Colectomy",
+							"CONCEPT_ID" : 21602732,
+							"CONCEPT_NAME" : "methylprednisolone",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
 							"INVALID_REASON" : "V",
 							"INVALID_REASON_CAPTION" : "Valid",
-							"CONCEPT_CODE" : "10061778",
-							"DOMAIN_ID" : "Procedure",
-							"VOCABULARY_ID" : "MedDRA",
-							"CONCEPT_CLASS_ID" : "PT"
+							"CONCEPT_CODE" : "H02AB04",
+							"DOMAIN_ID" : "Drug",
+							"VOCABULARY_ID" : "ATC",
+							"CONCEPT_CLASS_ID" : "ATC 5th"
 						},
 						"isExcluded" : false,
 						"includeDescendants" : true,
@@ -42,16 +42,16 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4079713,
-							"CONCEPT_NAME" : "Excision of colon",
-							"STANDARD_CONCEPT" : "S",
-							"STANDARD_CONCEPT_CAPTION" : "Standard",
+							"CONCEPT_ID" : 21602735,
+							"CONCEPT_NAME" : "prednisone",
+							"STANDARD_CONCEPT" : "C",
+							"STANDARD_CONCEPT_CAPTION" : "Classification",
 							"INVALID_REASON" : "V",
 							"INVALID_REASON_CAPTION" : "Valid",
-							"CONCEPT_CODE" : "23968004",
-							"DOMAIN_ID" : "Procedure",
-							"VOCABULARY_ID" : "SNOMED",
-							"CONCEPT_CLASS_ID" : "Procedure"
+							"CONCEPT_CODE" : "H02AB07",
+							"DOMAIN_ID" : "Drug",
+							"VOCABULARY_ID" : "ATC",
+							"CONCEPT_CLASS_ID" : "ATC 5th"
 						},
 						"isExcluded" : false,
 						"includeDescendants" : true,
@@ -69,9 +69,10 @@
 	},
 	"InclusionRules" : [],
 	"EndStrategy" : {
-		"DateOffset" : {
-			"DateField" : "StartDate",
-			"Offset" : 1
+		"CustomEra" : {
+			"DrugCodesetId" : 0,
+			"GapDays" : 30,
+			"Offset" : 30
 		}
 	},
 	"CensoringCriteria" : [],

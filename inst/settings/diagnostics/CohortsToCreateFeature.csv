@@ -29,7 +29,8 @@ name,atlasName,atlasId,cohortId
 557,[IBD ID52 V1] Death [Charybdis],1777405,557
 558,[IBD ID149 V1] Hospitalization [Charybdis],1778847,558
 559,[IBD ID196 V1] Low bone density [IBD-OHDSI],1776689,559
-561,[IBD ID105 V1] Colectomy present [IBD-OHDSI],1776651,561
+574,[IBD ID593 V1] Total colectomy present [IBD-OHDSI],1779367,574
+575,[IBD ID594 V1] Partial colectomy present [IBD-OHDSI],1779370,575
 562,[IBD ID107 V1] Ileostomy present [IBD-OHDSI],1776653,562
 563,[IBD ID103 V1] Colostomy present [IBD-OHDSI],1776649,563
 564,[IBD ID173 V1] Drainage of intra-abdominal abscess [IBD-OHDSI],1776661,564
@@ -40,16 +41,19 @@ name,atlasName,atlasId,cohortId
 569,[IBD ID109 V1] Intestinal obstrution [IBD-OHDSI],1776655,569
 570,[IBD ID421 V1] Gastrointestinal stenosis [IBD-OHDSI],1776654,570
 571,[IBD ID102 V1] Colostomy procedure [IBD-OHDSI],1776648,571
-572,[IBD ID104 V1] Colectomy procedure [IBD-OHDSI],1776650,572
+576,[IBD ID591 V1] Total colectomy procedure [IBD-OHDSI],1779368,576
+577,[IBD ID592 V1] Partial colectomy procedure [IBD-OHDSI],1779369,577
 573,[IBD ID106 V1] Ileostomy procedure [IBD-OHDSI],1776652,573
 600,[IBD ID319 V1] JAK inhibitors [IBD-OHDSI],1777412,600
 601,[IBD ID316 V1] TNF-alpha inhibitors [IBD-OHDSI],1777409,601
 602,"[IBD ID318 V1] Interleukin 12, 23 inhibitors [IBD-OHDSI]",1777411,602
 603,[IBD ID317 V1] Anti-migration immunosuppressants [IBD-OHDSI],1777410,603
 604,[IBD ID179 V1] IBD antibiotics exposure [IBD-OHDSI],1776638,604
-605,[IBD ID145 V1] IBD steroid (broad) exposure [IBD-OHDSI],1776637,605
+611,[IBD ID598 V1] Systemic steroid (broad) exposure [IBD-OHDSI],1779371,611
+612,[IBD ID595 V1] Systemic IBD steroid exposure [IBD-OHDSI],1779372,612
+613,[IBD ID596 V1] Topical IBD steroid exposure [IBD-OHDSI],1779373,613
+614,[IBD ID597 V1] Budesonide exposure [IBD-OHDSI],1779374,614
 606,[IBD ID118 V1] Modulen exposure [OHDSI],1776636,606
-607,[IBD ID99 V1] IBD steroid exposure [OHDSI],1776635,607
 608,[IBD ID98 V1] IBD biologics exposure [OHDSI],1776634,608
 609,[IBD ID97 V1] 5-ASA exposure [OHDSI],1776633,609
 610,[IBD ID96 V1] Immunomodulator exposure [OHDSI],1776632,610

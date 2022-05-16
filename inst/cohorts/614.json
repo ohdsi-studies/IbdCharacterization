@@ -20,38 +20,21 @@
 	"ConceptSets" : [
 		{
 			"id" : 0,
-			"name" : "IBD steroids (broad)",
+			"name" : "Budesonide",
 			"expression" : {
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 21600652,
-							"CONCEPT_NAME" : "Corticosteroids acting locally",
+							"CONCEPT_ID" : 21600658,
+							"CONCEPT_NAME" : "budesonide",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
 							"INVALID_REASON" : "V",
 							"INVALID_REASON_CAPTION" : "Valid",
-							"CONCEPT_CODE" : "A07EA",
+							"CONCEPT_CODE" : "A07EA06",
 							"DOMAIN_ID" : "Drug",
 							"VOCABULARY_ID" : "ATC",
-							"CONCEPT_CLASS_ID" : "ATC 4th"
-						},
-						"isExcluded" : false,
-						"includeDescendants" : true,
-						"includeMapped" : false
-					},
-					{
-						"concept" : {
-							"CONCEPT_ID" : 21602722,
-							"CONCEPT_NAME" : "CORTICOSTEROIDS FOR SYSTEMIC USE",
-							"STANDARD_CONCEPT" : "C",
-							"STANDARD_CONCEPT_CAPTION" : "Classification",
-							"INVALID_REASON" : "V",
-							"INVALID_REASON_CAPTION" : "Valid",
-							"CONCEPT_CODE" : "H02",
-							"DOMAIN_ID" : "Drug",
-							"VOCABULARY_ID" : "ATC",
-							"CONCEPT_CLASS_ID" : "ATC 2nd"
+							"CONCEPT_CLASS_ID" : "ATC 5th"
 						},
 						"isExcluded" : false,
 						"includeDescendants" : true,

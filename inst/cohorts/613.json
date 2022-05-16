@@ -4,7 +4,7 @@
 		"CriteriaList" : [
 			{
 				"DrugExposure" : {
-					"CodesetId" : 3,
+					"CodesetId" : 0,
 					"DrugTypeExclude" : false
 				}
 			}
@@ -19,8 +19,8 @@
 	},
 	"ConceptSets" : [
 		{
-			"id" : 3,
-			"name" : "IBD steroids",
+			"id" : 0,
+			"name" : "Topical IBD steroids",
 			"expression" : {
 				"items" : [
 					{
@@ -42,35 +42,18 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 21602732,
-							"CONCEPT_NAME" : "methylprednisolone",
+							"CONCEPT_ID" : 21600658,
+							"CONCEPT_NAME" : "budesonide",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
 							"INVALID_REASON" : "V",
 							"INVALID_REASON_CAPTION" : "Valid",
-							"CONCEPT_CODE" : "H02AB04",
+							"CONCEPT_CODE" : "A07EA06",
 							"DOMAIN_ID" : "Drug",
 							"VOCABULARY_ID" : "ATC",
 							"CONCEPT_CLASS_ID" : "ATC 5th"
 						},
-						"isExcluded" : false,
-						"includeDescendants" : true,
-						"includeMapped" : false
-					},
-					{
-						"concept" : {
-							"CONCEPT_ID" : 21602735,
-							"CONCEPT_NAME" : "prednisone",
-							"STANDARD_CONCEPT" : "C",
-							"STANDARD_CONCEPT_CAPTION" : "Classification",
-							"INVALID_REASON" : "V",
-							"INVALID_REASON_CAPTION" : "Valid",
-							"CONCEPT_CODE" : "H02AB07",
-							"DOMAIN_ID" : "Drug",
-							"VOCABULARY_ID" : "ATC",
-							"CONCEPT_CLASS_ID" : "ATC 5th"
-						},
-						"isExcluded" : false,
+						"isExcluded" : true,
 						"includeDescendants" : true,
 						"includeMapped" : false
 					}
@@ -87,7 +70,7 @@
 	"InclusionRules" : [],
 	"EndStrategy" : {
 		"CustomEra" : {
-			"DrugCodesetId" : 3,
+			"DrugCodesetId" : 0,
 			"GapDays" : 30,
 			"Offset" : 30
 		}

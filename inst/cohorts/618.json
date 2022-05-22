@@ -20,21 +20,21 @@
 	"ConceptSets" : [
 		{
 			"id" : 0,
-			"name" : "Systemic IBD steroids",
+			"name" : "5-ASA small bowel",
 			"expression" : {
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 21602732,
-							"CONCEPT_NAME" : "methylprednisolone",
+							"CONCEPT_ID" : 36240393,
+							"CONCEPT_NAME" : "Pentasa Pill",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
 							"INVALID_REASON" : "V",
 							"INVALID_REASON_CAPTION" : "Valid",
-							"CONCEPT_CODE" : "H02AB04",
+							"CONCEPT_CODE" : "1184586",
 							"DOMAIN_ID" : "Drug",
-							"VOCABULARY_ID" : "ATC",
-							"CONCEPT_CLASS_ID" : "ATC 5th"
+							"VOCABULARY_ID" : "RxNorm",
+							"CONCEPT_CLASS_ID" : "Branded Dose Group"
 						},
 						"isExcluded" : false,
 						"includeDescendants" : true,
@@ -42,16 +42,16 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 21602735,
-							"CONCEPT_NAME" : "prednisone",
+							"CONCEPT_ID" : 36240392,
+							"CONCEPT_NAME" : "Pentasa Oral Product",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
 							"INVALID_REASON" : "V",
 							"INVALID_REASON_CAPTION" : "Valid",
-							"CONCEPT_CODE" : "H02AB07",
+							"CONCEPT_CODE" : "1184585",
 							"DOMAIN_ID" : "Drug",
-							"VOCABULARY_ID" : "ATC",
-							"CONCEPT_CLASS_ID" : "ATC 5th"
+							"VOCABULARY_ID" : "RxNorm",
+							"CONCEPT_CLASS_ID" : "Branded Dose Group"
 						},
 						"isExcluded" : false,
 						"includeDescendants" : true,

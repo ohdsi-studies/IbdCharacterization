@@ -50,12 +50,15 @@ TNF-alpha inhibitors [IBD-OHDSI],[IBD ID316 V1] TNF-alpha inhibitors [IBD-OHDSI]
 Anti-migration immunosuppressants [IBD-OHDSI],[IBD ID317 V1] Anti-migration immunosuppressants [IBD-OHDSI],1777410,603
 IBD antibiotics exposure [IBD-OHDSI],[IBD ID179 V1] IBD antibiotics exposure [IBD-OHDSI],1776638,604
 Systemic IBD steroid (broad) exposure [IBD-OHDSI],[IBD ID598 V1] Systemic steroid (broad) exposure [IBD-OHDSI],1779371,611
-Systemic IBD steroid exposure [IBD-OHDSI],[IBD ID595 V1] Systemic IBD steroid exposure [IBD-OHDSI],1779372,612
 Topical IBD steroid exposure [IBD-OHDSI],[IBD ID596 V1] Topical IBD steroid exposure [IBD-OHDSI],1779373,613
 Budesonide steroid exposure [IBD-OHDSI],[IBD ID597 V1] Budesonide exposure [IBD-OHDSI],1779374,614
+Budesonide colon steroid exposure [IBD-OHDSI],[IBD ID602 V1] Budesonide colon exposure [IBD-OHDSI],1779419,615
+Budesonide small bowel steroid exposure [IBD-OHDSI],[IBD ID603 V1] Budesonide small bowel exposure [IBD-OHDSI],1779420,616
 Modulen exposure [OHDSI],[IBD ID118 V1] Modulen exposure [OHDSI],1776636,606
 IBD biologics exposure [OHDSI],[IBD ID98 V1] IBD biologics exposure [OHDSI],1776634,608
 5-ASA exposure [OHDSI],[IBD ID97 V1] 5-ASA exposure [OHDSI],1776633,609
+5-ASA colon exposure [OHDSI],[IBD ID600 V1] 5-ASA colon exposure [OHDSI],1779417,617
+5-ASA small bowel exposure [OHDSI],[IBD ID601 V1] 5-ASA small bowel exposure [OHDSI],1779418,618
 Immunomodulator exposure [OHDSI],[IBD ID96 V1] Immunomodulator exposure [OHDSI],1776632,610
 Low hemoglobin level [IBD-OHDSI],[IBD ID392 V1] Low hemoglobin level [IBD-OHDSI],1777416,650
 Low platelet count [IBD-OHDSI],[IBD ID391 V1] Low platelet count [IBD-OHDSI],1777415,651

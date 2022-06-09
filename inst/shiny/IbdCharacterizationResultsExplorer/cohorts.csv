@@ -44,8 +44,6 @@ cohortId,name,atlasId,circeDef
 557,Death [Charybdis],1777405,TRUE
 558,Hospitalization [Charybdis],1778847,TRUE
 559,Low bone density [IBD-OHDSI],1776689,TRUE
-574,History of total colectomy [IBD-OHDSI],1779367,TRUE
-575,History of partial colectomy [IBD-OHDSI],1779370,TRUE
 562,History of ileostomy [IBD-OHDSI],1776653,TRUE
 563,History of colostomy [IBD-OHDSI],1776649,TRUE
 564,Drainage of intra-abdominal abscess [IBD-OHDSI],1776661,TRUE
@@ -56,25 +54,28 @@ cohortId,name,atlasId,circeDef
 569,Intestinal obstruction [IBD-OHDSI],1776655,TRUE
 570,Gastrointestinal stenosis [IBD-OHDSI],1776654,TRUE
 571,Colostomy procedure [IBD-OHDSI],1776648,TRUE
+573,Ileostomy procedure [IBD-OHDSI],1776652,TRUE
+574,History of total colectomy [IBD-OHDSI],1779367,TRUE
+575,History of partial colectomy [IBD-OHDSI],1779370,TRUE
 576,Total colectomy procedure [IBD-OHDSI],1779368,TRUE
 577,Partial colectomy procedure [IBD-OHDSI],1779369,TRUE
-573,Ileostomy procedure [IBD-OHDSI],1776652,TRUE
+578,Delayed puberty [IBD OHDSI],1779518,TRUE
 600,JAK inhibitors [IBD-OHDSI],1777412,TRUE
 601,TNF-alpha inhibitors [IBD-OHDSI],1777409,TRUE
 602,"Interleukin 12, 23 inhibitors [IBD-OHDSI]",1777411,TRUE
 603,Anti-migration immunosuppressants [IBD-OHDSI],1777410,TRUE
 604,IBD antibiotics exposure [IBD-OHDSI],1776638,TRUE
+606,Modulen exposure [OHDSI],1776636,TRUE
+608,IBD biologics exposure [OHDSI],1776634,TRUE
+609,5-ASA exposure [OHDSI],1776633,TRUE
+610,Immunomodulator exposure [OHDSI],1776632,TRUE
 611,Systemic IBD steroid (broad) exposure [IBD-OHDSI],1779371,TRUE
 613,Topical IBD steroid exposure [IBD-OHDSI],1779373,TRUE
 614,Budesonide steroid exposure [IBD-OHDSI],1779374,TRUE
 615,Budesonide colon steroid exposure [IBD-OHDSI],1779419,TRUE
 616,Budesonide small bowel steroid exposure [IBD-OHDSI],1779420,TRUE
-606,Modulen exposure [OHDSI],1776636,TRUE
-608,IBD biologics exposure [OHDSI],1776634,TRUE
-609,5-ASA exposure [OHDSI],1776633,TRUE
 617,5-ASA colon exposure [OHDSI],1779417,TRUE
 618,5-ASA small bowel exposure [OHDSI],1779418,TRUE
-610,Immunomodulator exposure [OHDSI],1776632,TRUE
 650,Low hemoglobin level [IBD-OHDSI],1777416,TRUE
 651,Low platelet count [IBD-OHDSI],1777415,TRUE
 652,Low serum albumin level [IBD-OHDSI],1777414,TRUE
@@ -83,7 +84,7 @@ cohortId,name,atlasId,circeDef
 655,High calprotectin level [IBD-OHDSI],1779150,TRUE
 656,Abnormal CRP level [IBD-OHDSI],1779148,TRUE
 657,High CRP level [IBD-OHDSI],1779149,TRUE
-658,"Abnormal ESR, pediatric [IBD-OHDSI]",1779151,TRUE
+658,Abnormal erythrocyte sedimentation rate[IBD-OHDSI],1779151,TRUE
 700,Colon cancer benign [IBD-OHDSI],1777420,TRUE
 701,Cervical cancer malignant [IBD-OHDSI],1777418,TRUE
 702,Melanoma [IBD-OHDSI],1777427,TRUE

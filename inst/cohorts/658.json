@@ -75,15 +75,9 @@
 				}
 			},
 			{
-				"Measurement" : {
+				"ConditionOccurrence" : {
 					"CodesetId" : 1,
-					"MeasurementTypeExclude" : false
-				}
-			},
-			{
-				"Observation" : {
-					"CodesetId" : 1,
-					"ObservationTypeExclude" : false
+					"ConditionTypeExclude" : false
 				}
 			}
 		],
@@ -174,21 +168,21 @@
 		},
 		{
 			"id" : 1,
-			"name" : "Abnormal blood albumin [IBD-OHDSI]",
+			"name" : "Abnormal ESR [IBD-OHDSI]",
 			"expression" : {
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 36315471,
-							"CONCEPT_NAME" : "Blood albumin decreased",
-							"STANDARD_CONCEPT" : "C",
-							"STANDARD_CONCEPT_CAPTION" : "Classification",
+							"CONCEPT_ID" : 4013850,
+							"CONCEPT_NAME" : "ESR abnormal",
+							"STANDARD_CONCEPT" : "S",
+							"STANDARD_CONCEPT_CAPTION" : "Standard",
 							"INVALID_REASON" : "V",
 							"INVALID_REASON_CAPTION" : "Valid",
-							"CONCEPT_CODE" : "10005287",
-							"DOMAIN_ID" : "Measurement",
-							"VOCABULARY_ID" : "MedDRA",
-							"CONCEPT_CLASS_ID" : "PT"
+							"CONCEPT_CODE" : "165465007",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "SNOMED",
+							"CONCEPT_CLASS_ID" : "Clinical Finding"
 						},
 						"isExcluded" : false,
 						"includeDescendants" : true,
@@ -196,19 +190,19 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 36315470,
-							"CONCEPT_NAME" : "Blood albumin abnormal",
-							"STANDARD_CONCEPT" : "C",
-							"STANDARD_CONCEPT_CAPTION" : "Classification",
+							"CONCEPT_ID" : 4013525,
+							"CONCEPT_NAME" : "Low erythrocyte sedimentation rate",
+							"STANDARD_CONCEPT" : "S",
+							"STANDARD_CONCEPT_CAPTION" : "Standard",
 							"INVALID_REASON" : "V",
 							"INVALID_REASON_CAPTION" : "Valid",
-							"CONCEPT_CODE" : "10005286",
-							"DOMAIN_ID" : "Measurement",
-							"VOCABULARY_ID" : "MedDRA",
-							"CONCEPT_CLASS_ID" : "PT"
+							"CONCEPT_CODE" : "165466008",
+							"DOMAIN_ID" : "Condition",
+							"VOCABULARY_ID" : "SNOMED",
+							"CONCEPT_CLASS_ID" : "Clinical Finding"
 						},
-						"isExcluded" : false,
-						"includeDescendants" : true,
+						"isExcluded" : true,
+						"includeDescendants" : false,
 						"includeMapped" : false
 					}
 				]

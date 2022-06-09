@@ -29,8 +29,6 @@ Anorectal fistula [IBD-OHDSI],[IBD ID304 V1] Anorectal fistula [IBD-OHDSI],17774
 Death [Charybdis],[IBD ID52 V1] Death [Charybdis],1777405,557
 Hospitalization [Charybdis],[IBD ID149 V1] Hospitalization [Charybdis],1778847,558
 Low bone density [IBD-OHDSI],[IBD ID196 V1] Low bone density [IBD-OHDSI],1776689,559
-History of total colectomy [IBD-OHDSI],[IBD ID593 V1] Total colectomy present [IBD-OHDSI],1779367,574
-History of partial colectomy [IBD-OHDSI],[IBD ID594 V1] Partial colectomy present [IBD-OHDSI],1779370,575
 History of ileostomy [IBD-OHDSI],[IBD ID107 V1] Ileostomy present [IBD-OHDSI],1776653,562
 History of colostomy [IBD-OHDSI],[IBD ID103 V1] Colostomy present [IBD-OHDSI],1776649,563
 Drainage of intra-abdominal abscess [IBD-OHDSI],[IBD ID173 V1] Drainage of intra-abdominal abscess [IBD-OHDSI],1776661,564
@@ -41,25 +39,28 @@ Small intestinal resection [IBD-OHDSI],[IBD ID169 V1] Small intestinal resection
 Intestinal obstruction [IBD-OHDSI],[IBD ID109 V1] Intestinal obstrution [IBD-OHDSI],1776655,569
 Gastrointestinal stenosis [IBD-OHDSI],[IBD ID421 V1] Gastrointestinal stenosis [IBD-OHDSI],1776654,570
 Colostomy procedure [IBD-OHDSI],[IBD ID102 V1] Colostomy procedure [IBD-OHDSI],1776648,571
+Ileostomy procedure [IBD-OHDSI],[IBD ID106 V1] Ileostomy procedure [IBD-OHDSI],1776652,573
+History of total colectomy [IBD-OHDSI],[IBD ID593 V1] Total colectomy present [IBD-OHDSI],1779367,574
+History of partial colectomy [IBD-OHDSI],[IBD ID594 V1] Partial colectomy present [IBD-OHDSI],1779370,575
 Total colectomy procedure [IBD-OHDSI],[IBD ID591 V1] Total colectomy procedure [IBD-OHDSI],1779368,576
 Partial colectomy procedure [IBD-OHDSI],[IBD ID592 V1] Partial colectomy procedure [IBD-OHDSI],1779369,577
-Ileostomy procedure [IBD-OHDSI],[IBD ID106 V1] Ileostomy procedure [IBD-OHDSI],1776652,573
+Delayed puberty [IBD-OHDSI],[IBD ID618 V1] Delayed puberty [IBD OHDSI],1779518,578
 JAK inhibitors [IBD-OHDSI],[IBD ID319 V1] JAK inhibitors [IBD-OHDSI],1777412,600
 TNF-alpha inhibitors [IBD-OHDSI],[IBD ID316 V1] TNF-alpha inhibitors [IBD-OHDSI],1777409,601
 "Interleukin 12, 23 inhibitors [IBD-OHDSI]","[IBD ID318 V1] Interleukin 12, 23 inhibitors [IBD-OHDSI]",1777411,602
 Anti-migration immunosuppressants [IBD-OHDSI],[IBD ID317 V1] Anti-migration immunosuppressants [IBD-OHDSI],1777410,603
 IBD antibiotics exposure [IBD-OHDSI],[IBD ID179 V1] IBD antibiotics exposure [IBD-OHDSI],1776638,604
+Modulen exposure [OHDSI],[IBD ID118 V1] Modulen exposure [OHDSI],1776636,606
+IBD biologics exposure [OHDSI],[IBD ID98 V1] IBD biologics exposure [OHDSI],1776634,608
+5-ASA exposure [OHDSI],[IBD ID97 V1] 5-ASA exposure [OHDSI],1776633,609
+Immunomodulator exposure [OHDSI],[IBD ID96 V1] Immunomodulator exposure [OHDSI],1776632,610
 Systemic IBD steroid (broad) exposure [IBD-OHDSI],[IBD ID598 V1] Systemic steroid (broad) exposure [IBD-OHDSI],1779371,611
 Topical IBD steroid exposure [IBD-OHDSI],[IBD ID596 V1] Topical IBD steroid exposure [IBD-OHDSI],1779373,613
 Budesonide steroid exposure [IBD-OHDSI],[IBD ID597 V1] Budesonide exposure [IBD-OHDSI],1779374,614
 Budesonide colon steroid exposure [IBD-OHDSI],[IBD ID602 V1] Budesonide colon exposure [IBD-OHDSI],1779419,615
 Budesonide small bowel steroid exposure [IBD-OHDSI],[IBD ID603 V1] Budesonide small bowel exposure [IBD-OHDSI],1779420,616
-Modulen exposure [OHDSI],[IBD ID118 V1] Modulen exposure [OHDSI],1776636,606
-IBD biologics exposure [OHDSI],[IBD ID98 V1] IBD biologics exposure [OHDSI],1776634,608
-5-ASA exposure [OHDSI],[IBD ID97 V1] 5-ASA exposure [OHDSI],1776633,609
 5-ASA colon exposure [OHDSI],[IBD ID600 V1] 5-ASA colon exposure [OHDSI],1779417,617
 5-ASA small bowel exposure [OHDSI],[IBD ID601 V1] 5-ASA small bowel exposure [OHDSI],1779418,618
-Immunomodulator exposure [OHDSI],[IBD ID96 V1] Immunomodulator exposure [OHDSI],1776632,610
 Low hemoglobin level [IBD-OHDSI],[IBD ID392 V1] Low hemoglobin level [IBD-OHDSI],1777416,650
 Low platelet count [IBD-OHDSI],[IBD ID391 V1] Low platelet count [IBD-OHDSI],1777415,651
 Low serum albumin level [IBD-OHDSI],[IBD ID388 V1] Low serum albumin level [IBD-OHDSI],1777414,652
@@ -68,7 +69,7 @@ Iron deficiency anemia [IBD-OHDSI],[IBD ID307 V1] Iron deficiency anemia [IBD-OH
 High calprotectin level [IBD-OHDSI],[IBD ID565 V1] High calprotectin level [IBD-OHDSI],1779150,655
 Abnormal CRP level [IBD-OHDSI],[IBD ID572 V1] Abnormal CRP level [IBD-OHDSI],1779148,656
 High CRP level [IBD-OHDSI],[IBD ID573 V1] High CRP level [IBD-OHDSI],1779149,657
-"Abnormal ESR, pediatric [IBD-OHDSI]","[IBD ID575 V1] Abnormal ESR, pediatric [IBD-OHDSI]",1779151,658
+Abnormal erythrocyte sedimentation rate [IBD-OHDSI],[IBD ID617 V1] Abnormal erythrocyte sedimentation rate[IBD-OHDSI],1779151,658
 Colon cancer benign [IBD-OHDSI],[IBD ID353 V1] Colon cancer benign [IBD-OHDSI],1777420,700
 Cervical cancer malignant [IBD-OHDSI],[IBD ID351 V1] Cervical cancer malignant [IBD-OHDSI],1777418,701
 Melanoma [IBD-OHDSI],[IBD ID360 V1] Melanoma [IBD-OHDSI],1777427,702

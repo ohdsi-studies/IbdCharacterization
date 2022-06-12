@@ -9,10 +9,10 @@ Characterization of Inflammatory Bowel Disease Patient Cohorts
 - Study lead: **Chen Yanover**
 - Study lead forums tag: **[cyanover](https://forums.ohdsi.org/u/cyanover)**
 - Study start date: **Mar 1, 2022**
-- Study end date: **Jul 1, 2022**
+- Study end date: **Sep 1, 2022**
 - Protocol: **[Word Doc](https://github.com/ohdsi-studies/IbdCharacterization/blob/master/documents/Protocol%20IBD%20Characterisation%20V1.7.docx)**
 - Publications: **-**
-- Results explorer: **-**
+- Results explorer: **[Shiny app](https://data.ohdsi.org/IbdCharacterization/)**
 
 In this study we will describe the baseline demographic and clinical characteristics, as well as the occurrence of treatments and outcomes of individuals diagnosed with inflammatory bowel disease (IBD) and, specifically, with Crohn’s disease and ulcerative colitis. The analysis package is a near-duplicate of the [CHARYBDIS characterization code](https://github.com/ohdsi-studies/Covid19CharacterizationCharybdis) for SARS-CoV-2 and COVID-19, replacing cohort, stratum, and feature definitions with IBD ones.  
 

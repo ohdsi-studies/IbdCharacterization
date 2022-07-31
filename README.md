@@ -25,13 +25,16 @@ In this study we will describe the baseline demographic and clinical characteris
 
 ## Installing the Package
 Install the IBD characterization package using either of the following methods:
+
+- **renv (RECOMMENDED)**: To install the IBD characterization package along with all its dependencies in an encapsulated environment (and leaving your main `R` unchanged), run the code in [extras/renvInitScr.R](./extras/renvInitScr.R) or follow the instructions [here](https://github.com/ohdsi-studies/RanitidineCancerRisk/blob/master/StudyPackageSetup.md).
+
+
 - **GitHub**: To install the package directly from GitHub (you may need to create a Personal Access Token, see instructions [here](https://ohdsi.github.io/Hades/installingHades.html)), open an `R` or `RStudio` console and run: 
 ````
 install.packages("devtools")
 devtools::install_github("ohdsi-studies/IbdCharacterization")
 ````
 - **Zip file**: To preserve the GitHub directory structure, download the repository [zip file](https://github.com/ohdsi-studies/IbdCharacterization/archive/master.zip), copy it into your `R` or `RStudio` environment, and unzip it. Then double click on IbdCharacterization.Rproj to open it in R Studio, switch to the Build View and hit Install and Restart. For more details, see [The Book of OHDSI](https://ohdsi.github.io/TheBookOfOhdsi/PopulationLevelEstimation.html#running-the-study-package).
-- **renv**: To install the IBD characterization package along with all its dependencies in an encapsulated environment (and leaving your main `R` unchanged), follow the instructions [here](https://github.com/ohdsi-studies/RanitidineCancerRisk/blob/master/StudyPackageSetup.md).
 
 ## Running the Study
 1) Edit `.Renviron` to include the parameters used to connect to your database server (for more information see http://ohdsi.github.io/DatabaseConnector/); for example: 

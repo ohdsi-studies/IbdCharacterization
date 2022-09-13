@@ -181,14 +181,21 @@ into #final_cohort
 from cteEnds
 group by person_id, end_date
 ;
+SELECT
+    *
+    into #final_cohort_new
+FROM #final_cohort
+WHERE person_id not in (select person_id from @cdm_database_schema.observation_period where observation_period_end_date > convert(varchar, GETDATE(), 23))
+;
 
 DELETE FROM @target_database_schema.@target_cohort_table where cohort_definition_id = @target_cohort_id;
 INSERT INTO @target_database_schema.@target_cohort_table (cohort_definition_id, subject_id, cohort_start_date, cohort_end_date)
 select @target_cohort_id as cohort_definition_id, person_id, start_date, end_date 
-FROM #final_cohort CO
+FROM #final_cohort_new CO
 ;
 
-
+TRUNCATE TABLE #final_cohort_new;
+DROP TABLE #final_cohort_new;
 
 TRUNCATE TABLE #strategy_ends;
 DROP TABLE #strategy_ends;

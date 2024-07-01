@@ -1,7 +1,8 @@
 Characterization of Inflammatory Bowel Disease Patient Cohorts
 =============
 
-<img src="https://img.shields.io/badge/Study%20Status-Repo%20Created-lightgray.svg" alt="Study Status: Repo Created">
+<img src="https://img.shields.io/badge/Study%20Status-Results%20Available-brightgreen.svg" alt="Study Status: Results Available">
+
 
 - Analytics use case(s): **Characterization**
 - Study type: **Clinical Application**

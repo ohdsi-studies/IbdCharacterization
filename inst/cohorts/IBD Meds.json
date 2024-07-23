@@ -1,1042 +1,1030 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2761
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
-{\colortbl;\red255\green255\blue255;\red38\green38\blue38;\red234\green234\blue234;\red53\green118\blue190;
-}
-{\*\expandedcolortbl;;\cssrgb\c20000\c20000\c20000;\cssrgb\c93333\c93333\c93333;\cssrgb\c25882\c54510\c79216;
-}
-\paperw11900\paperh16840\margl1440\margr1440\vieww37900\viewh20440\viewkind0
-\deftab720
-\pard\pardeftab720\partightenfactor0
-
-\f0\fs20 \cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 \{\
-  \cf4 \strokec4 "items":\cf2 \strokec2  [\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Ingredient",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "327361",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  1119119,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "adalimumab",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "S",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Standard",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "RxNorm",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "1970-01-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "ATC 5th",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "L04AB04",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  21603911,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "adalimumab; parenteral",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "C",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Classification",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "ATC",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "1970-01-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "ATC 4th",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "A07EC",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  21600662,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "Aminosalicylic acid and similar agents",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "C",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Classification",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "ATC",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "1970-01-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "ATC 5th",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "L04AX01",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  21603927,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "azathioprine; systemic",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "C",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Classification",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "ATC",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "1970-01-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Ingredient",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "1256",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  19014878,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "azathioprine",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "S",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Standard",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "RxNorm",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "1970-01-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Clinical Dose Group",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "1153803",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  36212158,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "betamethasone Rectal Product",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "C",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Classification",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "RxNorm",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "2016-08-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Clinical Drug Form",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "381066",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  40020303,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "budesonide Enema",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "S",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Standard",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "RxNorm",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "1970-01-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "ATC 5th",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "L04AB05",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  21603912,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "certolizumab pegol; parenteral",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "C",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Classification",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "ATC",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "1970-01-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Ingredient",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "709271",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  912263,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "certolizumab pegol",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "S",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Standard",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "RxNorm",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "2008-06-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "ATC 5th",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "L04AD01",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  21603924,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "ciclosporin; systemic",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "C",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Classification",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "ATC",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "1970-01-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Prescription Drug",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "a307448a-ccc4-41a8-977a-11f28f0bded9",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  45672992,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "CORTENEMA - hydrocortisone enema",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "C",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Classification",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "SPL",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "2022-04-27",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "ATC 4th",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "A07EA",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  21600652,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "Corticosteroids acting locally",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "C",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Classification",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "ATC",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "1970-01-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Branded Dose Group",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "1170970",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  36235056,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "Cortifoam Rectal Product",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "C",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Classification",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "RxNorm",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "2016-08-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Ingredient",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "3008",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  19010482,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "cyclosporine",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "S",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Standard",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "RxNorm",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "1970-01-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Ingredient",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "819300",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  19041065,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "golimumab",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "S",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Standard",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "RxNorm",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "2009-05-31",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "ATC 5th",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "L04AB06",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  21603913,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "golimumab; parenteral",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "C",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Classification",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "ATC",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "1970-01-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Ingredient",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "5492",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  975125,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "hydrocortisone",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "S",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Standard",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "RxNorm",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "1970-01-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Prescription Drug",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "40654d12-56e4-4489-be49-19c60ad918ad",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  45704306,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "HYDROCORTISONE - hydrocortisone enema",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "C",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Classification",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "SPL",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "2018-11-27",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Prescription Drug",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "4dc1883e-ae11-44c5-8baf-e5eedf1f9ccc",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  36470319,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "hydrocortisone 100mg/60mL RECTAL ENEMA",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "C",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Classification",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "SPL",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "2012-08-16",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Prescription Drug",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "a55493ad-9de7-4b58-8e23-52a49573d4ab",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  46242771,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "hydrocortisone 100mg/60mL RECTAL ENEMA",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "C",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Classification",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "SPL",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "2012-08-16",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Prescription Drug",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "73c5cf01-64d5-4ff5-a216-7df62ca45b3b",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  35511870,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "hydrocortisone 100mg/60mL RECTAL ENEMA",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "C",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Classification",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "SPL",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "2012-08-16",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Prescription Drug",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "5947ebda-5e25-4171-a8c1-a1fde5a4879e",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  35511214,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "hydrocortisone 100mg/60mL RECTAL ENEMA [cortenema]",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "C",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Classification",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "SPL",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "2012-08-10",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Prescription Drug",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "d4bc2ca3-fdb5-4a08-a4d3-f0eea6d49827",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  42820845,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "hydrocortisone 100mg/60mL RECTAL ENEMA [cortenema]",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "C",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Classification",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "SPL",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "2012-08-10",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Clinical Drug Form",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "372421",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  40049684,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "hydrocortisone Enema",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "S",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Standard",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "RxNorm",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "1970-01-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "ATC 5th",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "L04AB02",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  21603909,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "infliximab; parenteral",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "C",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Classification",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "ATC",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "1970-01-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Ingredient",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "191831",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  937368,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "infliximab",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "S",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Standard",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "RxNorm",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "1970-01-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "ATC 5th",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "L01BB02",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  21601428,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "mercaptopurine; oral",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "C",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Classification",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "ATC",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "1970-01-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Ingredient",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "103",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  1436650,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "mercaptopurine",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "S",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Standard",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "RxNorm",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "1970-01-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Ingredient",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "52582",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  968426,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "mesalamine",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "S",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Standard",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "RxNorm",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "1970-01-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Prescription Drug",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "3cf751f2-a0c9-45d7-8acb-2bc61db0e4ac",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  44350728,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "MESALAMINE - mesalamine enema",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "C",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Classification",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "SPL",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "2024-02-14",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Prescription Drug",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "dfeede98-5520-4fd1-be02-4971453f9e24",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  45702125,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "MESALAMINE - mesalamine enema",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "C",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Classification",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "SPL",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "2009-12-17",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Prescription Drug",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "a4ddf68d-1502-4242-89aa-c96436bdcbf6",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  45684222,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "MESALAMINE - mesalamine enema",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "C",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Classification",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "SPL",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "2023-11-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Prescription Drug",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "f58a6339-1143-4798-8daa-9fed6b5636a1",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  45641551,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "mesalamine 4g/60mL RECTAL ENEMA",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "C",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Classification",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "SPL",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "2007-10-11",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Prescription Drug",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "cd11492c-78f9-465b-a304-a4cad3bd5edd",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  45707277,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "mesalamine 4g/60mL RECTAL ENEMA",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "C",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Classification",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "SPL",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "2009-12-16",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Prescription Drug",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "d17d9288-bdc7-4280-b804-5d544c9b3855",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  45673995,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "mesalamine 4g/60mL RECTAL ENEMA [rowasa]",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "C",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Classification",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "SPL",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "1988-01-31",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Clinical Drug Form",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "372785",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  40062545,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "mesalamine Enema",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "S",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Standard",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "RxNorm",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "1970-01-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "ATC 5th",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "L04AX03",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  21603929,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "methotrexate; systemic (immunosuppressants)",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "C",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Classification",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "ATC",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "1970-01-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Ingredient",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "6851",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  1305058,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "methotrexate",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "S",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Standard",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "RxNorm",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "1970-01-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "ATC 5th",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "H02AB04",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  21602732,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "methylprednisolone; systemic",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "C",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Classification",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "ATC",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "1970-01-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Clinical Drug Form",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "372865",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  40060699,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "methylprednisolone Enema",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "S",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Standard",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "RxNorm",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "1970-01-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Ingredient",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "354770",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  735843,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "natalizumab",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "S",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Standard",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "RxNorm",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "1970-01-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "ATC 5th",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "L04AA23",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  21603904,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "natalizumab; parenteral",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "C",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Classification",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "ATC",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "1970-01-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Clinical Drug Form",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "373569",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  40073186,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "prednisolone Enema",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "S",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Standard",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "RxNorm",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "1970-01-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "ATC 5th",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "H02AB07",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  21602735,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "prednisone; oral",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "C",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Classification",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "ATC",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "1970-01-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Prescription Drug",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "2f393841-42ef-46a4-a7b0-21cc59815912",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  45664974,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "ROWASA - mesalamine enema",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "C",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Classification",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "SPL",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "2013-12-13",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Clinical Drug Form",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "373988",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  40082129,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "sulfasalazine Enema",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "S",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Standard",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "RxNorm",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "1970-01-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "ATC 5th",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "L04AD02",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  21603925,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "tacrolimus; systemic (calcineurin inhibitors)",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "C",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Classification",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "ATC",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "1970-01-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Ingredient",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "42316",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  950637,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "tacrolimus",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "S",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Standard",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "RxNorm",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "1970-01-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "ATC 5th",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "L04AA29",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  43534821,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "tofacitinib; oral",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "C",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Classification",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "ATC",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "1970-01-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Ingredient",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "1357536",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  42904205,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "tofacitinib",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "S",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Standard",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "RxNorm",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "2012-12-03",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "ATC 5th",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "L04AC05",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  21603919,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "ustekinumab; parenteral",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "C",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Classification",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "ATC",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "1970-01-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Ingredient",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "847083",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  40161532,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "ustekinumab",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "S",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Standard",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "RxNorm",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "2009-07-05",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "ATC 5th",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "L04AA33",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  45893488,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "vedolizumab; parenteral",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "C",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Classification",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "ATC",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "1970-01-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \},\
-    \{\
-      \cf4 \strokec4 "concept":\cf2 \strokec2  \{\
-        \cf4 \strokec4 "CONCEPT_CLASS_ID":\cf2 \strokec2  "Ingredient",\
-        \cf4 \strokec4 "CONCEPT_CODE":\cf2 \strokec2  "1538097",\
-        \cf4 \strokec4 "CONCEPT_ID":\cf2 \strokec2  45774639,\
-        \cf4 \strokec4 "CONCEPT_NAME":\cf2 \strokec2  "vedolizumab",\
-        \cf4 \strokec4 "DOMAIN_ID":\cf2 \strokec2  "Drug",\
-        \cf4 \strokec4 "INVALID_REASON":\cf2 \strokec2  "V",\
-        \cf4 \strokec4 "INVALID_REASON_CAPTION":\cf2 \strokec2  "Valid",\
-        \cf4 \strokec4 "STANDARD_CONCEPT":\cf2 \strokec2  "S",\
-        \cf4 \strokec4 "STANDARD_CONCEPT_CAPTION":\cf2 \strokec2  "Standard",\
-        \cf4 \strokec4 "VOCABULARY_ID":\cf2 \strokec2  "RxNorm",\
-        \cf4 \strokec4 "VALID_START_DATE":\cf2 \strokec2  "2014-12-01",\
-        \cf4 \strokec4 "VALID_END_DATE":\cf2 \strokec2  "2099-12-31"\
-      \},\
-      \cf4 \strokec4 "isExcluded":\cf2 \strokec2  false,\
-      \cf4 \strokec4 "includeDescendants":\cf2 \strokec2  true,\
-      \cf4 \strokec4 "includeMapped":\cf2 \strokec2  false\
-    \}\
-  ]\
-\}\
+{
+  "items": [
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Ingredient",
+        "CONCEPT_CODE": "327361",
+        "CONCEPT_ID": 1119119,
+        "CONCEPT_NAME": "adalimumab",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "RxNorm",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L04AB04",
+        "CONCEPT_ID": 21603911,
+        "CONCEPT_NAME": "adalimumab; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 4th",
+        "CONCEPT_CODE": "A07EC",
+        "CONCEPT_ID": 21600662,
+        "CONCEPT_NAME": "Aminosalicylic acid and similar agents",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L04AX01",
+        "CONCEPT_ID": 21603927,
+        "CONCEPT_NAME": "azathioprine; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Ingredient",
+        "CONCEPT_CODE": "1256",
+        "CONCEPT_ID": 19014878,
+        "CONCEPT_NAME": "azathioprine",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "RxNorm",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Clinical Dose Group",
+        "CONCEPT_CODE": "1153803",
+        "CONCEPT_ID": 36212158,
+        "CONCEPT_NAME": "betamethasone Rectal Product",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "RxNorm",
+        "VALID_START_DATE": "2016-08-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Clinical Drug Form",
+        "CONCEPT_CODE": "381066",
+        "CONCEPT_ID": 40020303,
+        "CONCEPT_NAME": "budesonide Enema",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "RxNorm",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L04AB05",
+        "CONCEPT_ID": 21603912,
+        "CONCEPT_NAME": "certolizumab pegol; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Ingredient",
+        "CONCEPT_CODE": "709271",
+        "CONCEPT_ID": 912263,
+        "CONCEPT_NAME": "certolizumab pegol",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "RxNorm",
+        "VALID_START_DATE": "2008-06-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L04AD01",
+        "CONCEPT_ID": 21603924,
+        "CONCEPT_NAME": "ciclosporin; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Prescription Drug",
+        "CONCEPT_CODE": "a307448a-ccc4-41a8-977a-11f28f0bded9",
+        "CONCEPT_ID": 45672992,
+        "CONCEPT_NAME": "CORTENEMA - hydrocortisone enema",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "SPL",
+        "VALID_START_DATE": "2022-04-27",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 4th",
+        "CONCEPT_CODE": "A07EA",
+        "CONCEPT_ID": 21600652,
+        "CONCEPT_NAME": "Corticosteroids acting locally",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Branded Dose Group",
+        "CONCEPT_CODE": "1170970",
+        "CONCEPT_ID": 36235056,
+        "CONCEPT_NAME": "Cortifoam Rectal Product",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "RxNorm",
+        "VALID_START_DATE": "2016-08-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Ingredient",
+        "CONCEPT_CODE": "3008",
+        "CONCEPT_ID": 19010482,
+        "CONCEPT_NAME": "cyclosporine",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "RxNorm",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Ingredient",
+        "CONCEPT_CODE": "819300",
+        "CONCEPT_ID": 19041065,
+        "CONCEPT_NAME": "golimumab",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "RxNorm",
+        "VALID_START_DATE": "2009-05-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L04AB06",
+        "CONCEPT_ID": 21603913,
+        "CONCEPT_NAME": "golimumab; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Ingredient",
+        "CONCEPT_CODE": "5492",
+        "CONCEPT_ID": 975125,
+        "CONCEPT_NAME": "hydrocortisone",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "RxNorm",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Prescription Drug",
+        "CONCEPT_CODE": "40654d12-56e4-4489-be49-19c60ad918ad",
+        "CONCEPT_ID": 45704306,
+        "CONCEPT_NAME": "HYDROCORTISONE - hydrocortisone enema",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "SPL",
+        "VALID_START_DATE": "2018-11-27",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Prescription Drug",
+        "CONCEPT_CODE": "4dc1883e-ae11-44c5-8baf-e5eedf1f9ccc",
+        "CONCEPT_ID": 36470319,
+        "CONCEPT_NAME": "hydrocortisone 100mg/60mL RECTAL ENEMA",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "SPL",
+        "VALID_START_DATE": "2012-08-16",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Prescription Drug",
+        "CONCEPT_CODE": "a55493ad-9de7-4b58-8e23-52a49573d4ab",
+        "CONCEPT_ID": 46242771,
+        "CONCEPT_NAME": "hydrocortisone 100mg/60mL RECTAL ENEMA",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "SPL",
+        "VALID_START_DATE": "2012-08-16",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Prescription Drug",
+        "CONCEPT_CODE": "73c5cf01-64d5-4ff5-a216-7df62ca45b3b",
+        "CONCEPT_ID": 35511870,
+        "CONCEPT_NAME": "hydrocortisone 100mg/60mL RECTAL ENEMA",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "SPL",
+        "VALID_START_DATE": "2012-08-16",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Prescription Drug",
+        "CONCEPT_CODE": "5947ebda-5e25-4171-a8c1-a1fde5a4879e",
+        "CONCEPT_ID": 35511214,
+        "CONCEPT_NAME": "hydrocortisone 100mg/60mL RECTAL ENEMA [cortenema]",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "SPL",
+        "VALID_START_DATE": "2012-08-10",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Prescription Drug",
+        "CONCEPT_CODE": "d4bc2ca3-fdb5-4a08-a4d3-f0eea6d49827",
+        "CONCEPT_ID": 42820845,
+        "CONCEPT_NAME": "hydrocortisone 100mg/60mL RECTAL ENEMA [cortenema]",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "SPL",
+        "VALID_START_DATE": "2012-08-10",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Clinical Drug Form",
+        "CONCEPT_CODE": "372421",
+        "CONCEPT_ID": 40049684,
+        "CONCEPT_NAME": "hydrocortisone Enema",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "RxNorm",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L04AB02",
+        "CONCEPT_ID": 21603909,
+        "CONCEPT_NAME": "infliximab; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Ingredient",
+        "CONCEPT_CODE": "191831",
+        "CONCEPT_ID": 937368,
+        "CONCEPT_NAME": "infliximab",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "RxNorm",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01BB02",
+        "CONCEPT_ID": 21601428,
+        "CONCEPT_NAME": "mercaptopurine; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Ingredient",
+        "CONCEPT_CODE": "103",
+        "CONCEPT_ID": 1436650,
+        "CONCEPT_NAME": "mercaptopurine",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "RxNorm",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Ingredient",
+        "CONCEPT_CODE": "52582",
+        "CONCEPT_ID": 968426,
+        "CONCEPT_NAME": "mesalamine",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "RxNorm",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Prescription Drug",
+        "CONCEPT_CODE": "3cf751f2-a0c9-45d7-8acb-2bc61db0e4ac",
+        "CONCEPT_ID": 44350728,
+        "CONCEPT_NAME": "MESALAMINE - mesalamine enema",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "SPL",
+        "VALID_START_DATE": "2024-02-14",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Prescription Drug",
+        "CONCEPT_CODE": "dfeede98-5520-4fd1-be02-4971453f9e24",
+        "CONCEPT_ID": 45702125,
+        "CONCEPT_NAME": "MESALAMINE - mesalamine enema",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "SPL",
+        "VALID_START_DATE": "2009-12-17",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Prescription Drug",
+        "CONCEPT_CODE": "a4ddf68d-1502-4242-89aa-c96436bdcbf6",
+        "CONCEPT_ID": 45684222,
+        "CONCEPT_NAME": "MESALAMINE - mesalamine enema",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "SPL",
+        "VALID_START_DATE": "2023-11-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Prescription Drug",
+        "CONCEPT_CODE": "f58a6339-1143-4798-8daa-9fed6b5636a1",
+        "CONCEPT_ID": 45641551,
+        "CONCEPT_NAME": "mesalamine 4g/60mL RECTAL ENEMA",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "SPL",
+        "VALID_START_DATE": "2007-10-11",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Prescription Drug",
+        "CONCEPT_CODE": "cd11492c-78f9-465b-a304-a4cad3bd5edd",
+        "CONCEPT_ID": 45707277,
+        "CONCEPT_NAME": "mesalamine 4g/60mL RECTAL ENEMA",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "SPL",
+        "VALID_START_DATE": "2009-12-16",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Prescription Drug",
+        "CONCEPT_CODE": "d17d9288-bdc7-4280-b804-5d544c9b3855",
+        "CONCEPT_ID": 45673995,
+        "CONCEPT_NAME": "mesalamine 4g/60mL RECTAL ENEMA [rowasa]",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "SPL",
+        "VALID_START_DATE": "1988-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Clinical Drug Form",
+        "CONCEPT_CODE": "372785",
+        "CONCEPT_ID": 40062545,
+        "CONCEPT_NAME": "mesalamine Enema",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "RxNorm",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L04AX03",
+        "CONCEPT_ID": 21603929,
+        "CONCEPT_NAME": "methotrexate; systemic (immunosuppressants)",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Ingredient",
+        "CONCEPT_CODE": "6851",
+        "CONCEPT_ID": 1305058,
+        "CONCEPT_NAME": "methotrexate",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "RxNorm",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "H02AB04",
+        "CONCEPT_ID": 21602732,
+        "CONCEPT_NAME": "methylprednisolone; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Clinical Drug Form",
+        "CONCEPT_CODE": "372865",
+        "CONCEPT_ID": 40060699,
+        "CONCEPT_NAME": "methylprednisolone Enema",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "RxNorm",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Ingredient",
+        "CONCEPT_CODE": "354770",
+        "CONCEPT_ID": 735843,
+        "CONCEPT_NAME": "natalizumab",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "RxNorm",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L04AA23",
+        "CONCEPT_ID": 21603904,
+        "CONCEPT_NAME": "natalizumab; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Clinical Drug Form",
+        "CONCEPT_CODE": "373569",
+        "CONCEPT_ID": 40073186,
+        "CONCEPT_NAME": "prednisolone Enema",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "RxNorm",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "H02AB07",
+        "CONCEPT_ID": 21602735,
+        "CONCEPT_NAME": "prednisone; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Prescription Drug",
+        "CONCEPT_CODE": "2f393841-42ef-46a4-a7b0-21cc59815912",
+        "CONCEPT_ID": 45664974,
+        "CONCEPT_NAME": "ROWASA - mesalamine enema",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "SPL",
+        "VALID_START_DATE": "2013-12-13",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Clinical Drug Form",
+        "CONCEPT_CODE": "373988",
+        "CONCEPT_ID": 40082129,
+        "CONCEPT_NAME": "sulfasalazine Enema",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "RxNorm",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L04AD02",
+        "CONCEPT_ID": 21603925,
+        "CONCEPT_NAME": "tacrolimus; systemic (calcineurin inhibitors)",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Ingredient",
+        "CONCEPT_CODE": "42316",
+        "CONCEPT_ID": 950637,
+        "CONCEPT_NAME": "tacrolimus",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "RxNorm",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L04AA29",
+        "CONCEPT_ID": 43534821,
+        "CONCEPT_NAME": "tofacitinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Ingredient",
+        "CONCEPT_CODE": "1357536",
+        "CONCEPT_ID": 42904205,
+        "CONCEPT_NAME": "tofacitinib",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "RxNorm",
+        "VALID_START_DATE": "2012-12-03",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L04AC05",
+        "CONCEPT_ID": 21603919,
+        "CONCEPT_NAME": "ustekinumab; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Ingredient",
+        "CONCEPT_CODE": "847083",
+        "CONCEPT_ID": 40161532,
+        "CONCEPT_NAME": "ustekinumab",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "RxNorm",
+        "VALID_START_DATE": "2009-07-05",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L04AA33",
+        "CONCEPT_ID": 45893488,
+        "CONCEPT_NAME": "vedolizumab; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Ingredient",
+        "CONCEPT_CODE": "1538097",
+        "CONCEPT_ID": 45774639,
+        "CONCEPT_NAME": "vedolizumab",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "RxNorm",
+        "VALID_START_DATE": "2014-12-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    }
+  ]
 }
